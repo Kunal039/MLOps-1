@@ -4,7 +4,7 @@ Experiment 16: Sample project - House Price Prediction System using Linear Regre
 Dataset : California Housing (20,640 districts, 8 features, target = median house value in $100,000s)
 Steps   : EDA -> cleaning (cap outliers) -> feature engineering -> Linear Regression
           (+ Ridge / Lasso / polynomial to study regularisation & under/over-fitting)
-          -> 5-fold cross-validation -> evaluation (MSE, RMSE, MAE, R2) -> save model for the web app
+          -> 5-fold cross-validation -> evaluation (MSE, RMSE, MAE, R2) -> save model for predict.py
 """
 
 import json
@@ -113,4 +113,4 @@ if __name__ == "__main__":
             "metrics": {k: round(float(lr[k]), 4) for k in ["Test_MSE", "Test_RMSE", "Test_MAE", "Test_R2"]},
             "input_ranges": {c: [round(float(X[c].min()), 2), round(float(X[c].max()), 2)] for c in INPUT_FEATURES}}
     (MODEL_DIR / "model_info.json").write_text(json.dumps(info, indent=2))
-    print("\nModel saved to model/house_price_model.joblib -> start the web app with: python app.py")
+    print("\nModel saved to model/house_price_model.joblib -> predict with: python predict.py")

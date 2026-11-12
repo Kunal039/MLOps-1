@@ -1,11 +1,11 @@
-"""Feature engineering step shared by train.py and app.py (must be importable to load the saved pipeline)."""
+"""Feature engineering step shared by train.py and predict.py (must be importable to load the saved pipeline)."""
 
 import numpy as np
 from sklearn.base import BaseEstimator, TransformerMixin
 
 
 class FeatureEngineer(BaseEstimator, TransformerMixin):
-    """Adds engineered features. Part of the pipeline, so the web app gets them automatically."""
+    """Adds engineered features. Part of the pipeline, so predict.py gets them automatically."""
 
     def fit(self, X, y=None):
         return self

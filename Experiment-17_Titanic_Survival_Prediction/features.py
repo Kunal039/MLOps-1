@@ -1,4 +1,4 @@
-"""Titanic feature engineering, shared by training and the web app (importable for unpickling)."""
+"""Titanic feature engineering, shared by training and prediction (importable for unpickling)."""
 
 import pandas as pd
 from sklearn.base import BaseEstimator, TransformerMixin
@@ -44,7 +44,7 @@ class TitanicFeatures(BaseEstimator, TransformerMixin):
 
 
 def passenger_frame(passenger):
-    """Convert a dict from the web form / API into a one-row DataFrame with the raw columns."""
+    """Convert a dict from predict.py into a one-row DataFrame with the raw columns."""
     return pd.DataFrame([{
         "Pclass": int(passenger["Pclass"]),
         "Name": passenger.get("Name") or f"Doe, {passenger.get('Title', 'Mr')}. John",

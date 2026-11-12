@@ -2,7 +2,7 @@
 
 [![MLOps Lab CI](https://github.com/Kunal039/MLOps-1/actions/workflows/ci.yml/badge.svg)](https://github.com/Kunal039/MLOps-1/actions/workflows/ci.yml)
 
-All 20 practical experiments from the MLOps-I syllabus. Each experiment folder contains its dataset (`data/`) and Python code, plus any config files the code needs (Dockerfile, YAML, HTML templates). Plots, trained models and reports are created in an `outputs/` or `model/` folder when you run the code.
+All 20 practical experiments from the MLOps-I syllabus. Each experiment folder contains its dataset (`data/`) and Python code, plus any config files the code needs (Dockerfile, YAML). Plots, trained models and reports are created in an `outputs/` or `model/` folder when you run the code.
 
 ## Experiment index
 
@@ -23,10 +23,10 @@ All 20 practical experiments from the MLOps-I syllabus. Each experiment folder c
 | 13 | [Mini project phase 3: model building & selection](Experiment-13_MiniProject_Phase3_Model_Building) | `phase3_model_building.py` | Project |
 | 14 | [Mini project phase 4: versioning & deployment](Experiment-14_MiniProject_Phase4_Deployment) | `model_registry.py`, `app.py`, `Dockerfile` | Project |
 | 15 | [Mini project phase 5: CI/CD, monitoring & ethics](Experiment-15_MiniProject_Phase5_CICD_Monitoring) | `run_full_pipeline.py`, `privacy_ethics_check.py` | Project |
-| 16 | [House price prediction system (linear regression)](Experiment-16_House_Price_Prediction_System) | `train.py`, `app.py` (web form) | CO3/CO4 |
-| 17 | [Titanic survival prediction (decision tree)](Experiment-17_Titanic_Survival_Prediction) | `train.py`, `predict.py`, `app.py` | CO3/CO4 |
+| 16 | [House price prediction system (linear regression)](Experiment-16_House_Price_Prediction_System) | `train.py`, `predict.py` | CO3/CO4 |
+| 17 | [Titanic survival prediction (decision tree)](Experiment-17_Titanic_Survival_Prediction) | `train.py`, `predict.py` | CO3/CO4 |
 | 18 | [Student performance prediction system](Experiment-18_Student_Performance_Prediction) | `train.py`, `predict.py` | CO2/CO3 |
-| 19 | [Fake news detection with ML + Flask API](Experiment-19_Fake_News_Detection_Flask_API) | `train.py`, `app.py` | CO3/CO4 |
+| 19 | [Fake news detection with ML + Flask API](Experiment-19_Fake_News_Detection_Flask_API) | `train.py`, `app.py` (REST API) | CO3/CO4 |
 | 20 | [Employee salary prediction & monitoring (MLflow, Prometheus, Grafana)](Experiment-20_Employee_Salary_Prediction_Monitoring) | `train_mlflow.py`, `monitor_drift.py`, `fairness_audit.py` | CO3–CO5 |
 
 The mini project (Experiments 11–15) is the **Household Electricity Consumption Prediction System** from the project proposal. Its phases must be run in order, because each phase reads the previous phase's outputs.
@@ -47,7 +47,7 @@ To run only some experiments, list their numbers:
 ```bash
 python run_all.py 4 9
 ```
-Servers are tested with Flask's test client, so nothing is left running. To try an API in the browser, run `python app.py` inside that experiment's folder.
+There is no user interface. The REST APIs required by the syllabus (Experiments 6, 7, 8, 10, 14, 15, 19, 20) return JSON, and `run_all.py` tests them with Flask's test client, so no server is left running.
 
 ## Notes
 - **Docker** (Experiments 6, 10, 14, 15, 20) needs Docker Desktop running. The Python code in those experiments also runs without Docker.

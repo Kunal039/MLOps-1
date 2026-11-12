@@ -1,6 +1,5 @@
 """
-Fake News Detection - Flask REST API + web page
-    GET  /                 web page to paste an article
+Fake News Detection - Flask REST API
     POST /api/predict      {"text": "..."}                       -> label + probability
     POST /api/batch        {"articles": ["...", "..."]}           -> list of results
     GET  /api/health       model information
@@ -13,7 +12,7 @@ from pathlib import Path
 
 import joblib
 import numpy as np
-from flask import Flask, jsonify, render_template, request
+from flask import Flask, jsonify, request
 
 from text_utils import clean_text  # noqa: F401  (needed to unpickle the pipeline)
 
@@ -39,18 +38,6 @@ def classify(text):
     log.info("Predicted %s (p_fake=%.3f) for text of %d chars", label, p_fake, len(text))
     return {"label": label, "fake_probability": round(p_fake, 4),
             "confidence": round(max(p_fake, 1 - p_fake), 4)}
-
-
-@app.route("/", methods=["GET", "POST"])
-def home():
-    text, result, error = "", None, None
-    if request.method == "POST":
-        text = request.form.get("text", "")
-        try:
-            result = classify(text)
-        except ValueError as err:
-            error = str(err)
-    return render_template("index.html", text=text, result=result, error=error, info=info)
 
 
 @app.post("/api/predict")

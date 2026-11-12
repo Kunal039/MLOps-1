@@ -3,7 +3,7 @@ Experiment 17: Sample project - Titanic Survival Prediction using Decision Tree 
 ==========================================================================================
 Steps: EDA -> feature-engineering pipeline -> Decision Tree -> GridSearchCV tuning
        -> evaluation (accuracy, precision, recall, F1, ROC-AUC, confusion matrix)
-       -> tree visualisation and rules -> save pipeline for the prediction app
+       -> tree visualisation and rules -> save pipeline for predict.py
 """
 
 import json
@@ -94,4 +94,4 @@ joblib.dump(model, MODEL_DIR / "titanic_tree.joblib")
 (MODEL_DIR / "model_info.json").write_text(json.dumps(
     {"model": "DecisionTreeClassifier", "params": {k.replace("tree__", ""): v for k, v in grid.best_params_.items()},
      "metrics": {k: round(v, 4) for k, v in metrics.items()}}, indent=2))
-print("\nModel saved -> run `python predict.py` or `python app.py`")
+print("\nModel saved -> run `python predict.py`")

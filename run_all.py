@@ -33,7 +33,7 @@ RUNS = {
     14: ("Experiment-14_MiniProject_Phase4_Deployment", [["model_registry.py"], ["-m", "pytest", "-q", "test_api.py"]]),
     15: ("Experiment-15_MiniProject_Phase5_CICD_Monitoring", [["monitor_and_retrain.py"], ["privacy_ethics_check.py"],
                                                             ["-m", "pytest", "-q", "tests"]]),
-    16: ("Experiment-16_House_Price_Prediction_System", [["train.py"]]),
+    16: ("Experiment-16_House_Price_Prediction_System", [["train.py"], ["predict.py"]]),
     17: ("Experiment-17_Titanic_Survival_Prediction", [["train.py"], ["predict.py"]]),
     18: ("Experiment-18_Student_Performance_Prediction", [["generate_dataset.py"], ["train.py"], ["predict.py"]]),
     19: ("Experiment-19_Fake_News_Detection_Flask_API", [["train.py"], ["-m", "pytest", "-q", "test_api.py"]]),

@@ -34,8 +34,3 @@ def test_batch(client):
 
 def test_short_text_rejected(client):
     assert client.post("/api/predict", json={"text": "hi"}).status_code == 400
-
-
-def test_web_page(client):
-    response = client.post("/", data={"text": FAKE})
-    assert response.status_code == 200 and "FAKE" in response.get_data(as_text=True)
