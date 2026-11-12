@@ -1,6 +1,0 @@
-{
-  "triggered_at_hour": "2009-06-17 19:00:00",
-  "live_mae_24h": 0.1188,
-  "reason": "Rolling 24h MAE exceeded 1.5x the offline test MAE",
-  "action": "Run the retraining pipeline (Phase 2 -> 3 -> register new version -> CI/CD deploy)"
-}
