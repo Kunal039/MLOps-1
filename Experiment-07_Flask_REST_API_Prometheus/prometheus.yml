@@ -1,0 +1,11 @@
+# Prometheus configuration - scrapes the Flask API's /metrics endpoint every 5 seconds.
+global:
+  scrape_interval: 5s
+
+scrape_configs:
+  - job_name: "flask-ml-api"
+    metrics_path: /metrics
+    static_configs:
+      # host.docker.internal = your PC, as seen from inside the Prometheus container.
+      # If Prometheus is installed directly on your PC, use "localhost:5000" instead.
+      - targets: ["host.docker.internal:5000"]

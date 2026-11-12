@@ -1,0 +1,22 @@
+|--- Title_Mr <= 0.50
+|   |--- Pclass <= 2.50
+|   |   |--- Title_Rare <= 0.50
+|   |   |   |--- class: 1
+|   |   |--- Title_Rare >  0.50
+|   |   |   |--- class: 0
+|   |--- Pclass >  2.50
+|   |   |--- FamilySize <= 4.50
+|   |   |   |--- class: 1
+|   |   |--- FamilySize >  4.50
+|   |   |   |--- class: 0
+|--- Title_Mr >  0.50
+|   |--- Fare <= 26.27
+|   |   |--- Fare <= 7.13
+|   |   |   |--- class: 0
+|   |   |--- Fare >  7.13
+|   |   |   |--- class: 0
+|   |--- Fare >  26.27
+|   |   |--- Fare <= 26.77
+|   |   |   |--- class: 1
+|   |   |--- Fare >  26.77
+|   |   |   |--- class: 0

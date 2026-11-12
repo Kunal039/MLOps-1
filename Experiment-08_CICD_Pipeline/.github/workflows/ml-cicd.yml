@@ -1,0 +1,90 @@
+# ---------------------------------------------------------------------------
+# Experiment 8: CI/CD pipeline for automatic testing and deployment of ML models
+#
+# NOTE: GitHub only runs workflows from <repo-root>/.github/workflows/.
+# If this experiment folder is the root of your repo it works as-is; otherwise
+# copy this file to the root .github/workflows/ and keep `working-directory` below.
+# ---------------------------------------------------------------------------
+name: ML CI/CD Pipeline
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:          # allows manual runs from the Actions tab
+
+env:
+  IMAGE_NAME: wine-classifier
+
+defaults:
+  run:
+    working-directory: .     # change to Experiment-08_CICD_Pipeline if the repo root is above this folder
+
+jobs:
+  # ---------------- Continuous Integration ----------------
+  lint-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Lint (code quality)
+        run: flake8 .
+      - name: Unit tests (data, model, API)
+        run: pytest -v
+
+  train-and-validate:
+    needs: lint-and-test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Train model
+        run: python src/train.py
+      - name: Model quality gate
+        run: python src/validate_model.py
+      - name: Upload model + metrics as build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: model-${{ github.sha }}
+          path: |
+            model/
+            reports/
+
+  # ---------------- Continuous Deployment ----------------
+  build-and-deploy:
+    needs: train-and-validate
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download validated model
+        uses: actions/download-artifact@v4
+        with:
+          name: model-${{ github.sha }}
+      - name: Build Docker image
+        run: docker build -t ghcr.io/${{ github.repository_owner }}/${{ env.IMAGE_NAME }}:${{ github.sha }} .
+      - name: Smoke test the container
+        run: |
+          docker run -d -p 5000:5000 --name smoke ghcr.io/${{ github.repository_owner }}/${{ env.IMAGE_NAME }}:${{ github.sha }}
+          sleep 5
+          curl --fail http://localhost:5000/health
+          docker stop smoke
+      - name: Push image to GitHub Container Registry
+        run: |
+          echo "${{ secrets.GITHUB_TOKEN }}" | docker login ghcr.io -u ${{ github.actor }} --password-stdin
+          docker push ghcr.io/${{ github.repository_owner }}/${{ env.IMAGE_NAME }}:${{ github.sha }}
+      - name: Deploy
+        run: echo "Deploy step - e.g. update the image tag on AWS ECS / GCP Cloud Run / Azure Container Apps / Kubernetes"

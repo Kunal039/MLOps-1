@@ -1,0 +1,16 @@
+{
+  "name": "iris-random-forest",
+  "version": "1.0.0",
+  "features": [
+    "SepalLengthCm",
+    "SepalWidthCm",
+    "PetalLengthCm",
+    "PetalWidthCm"
+  ],
+  "classes": [
+    "Iris-setosa",
+    "Iris-versicolor",
+    "Iris-virginica"
+  ],
+  "test_accuracy": 0.9
+}

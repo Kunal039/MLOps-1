@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "accuracy": 0.9,
+  "features": [
+    "SepalLengthCm",
+    "SepalWidthCm",
+    "PetalLengthCm",
+    "PetalWidthCm"
+  ],
+  "mean": {
+    "SepalLengthCm": 5.8417,
+    "SepalWidthCm": 3.0442,
+    "PetalLengthCm": 3.7708,
+    "PetalWidthCm": 1.2042
+  },
+  "std": {
+    "SepalLengthCm": 0.8409,
+    "SepalWidthCm": 0.4457,
+    "PetalLengthCm": 1.7674,
+    "PetalWidthCm": 0.7638
+  }
+}

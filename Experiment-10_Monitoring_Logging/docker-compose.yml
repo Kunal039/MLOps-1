@@ -1,0 +1,29 @@
+# Experiment 10 - ML service + Prometheus + Grafana
+#   docker compose up -d --build
+#   ML API     : http://localhost:5000
+#   Prometheus : http://localhost:9090   (Status -> Targets, Alerts)
+#   Grafana    : http://localhost:3000   (admin / admin) -> dashboard "ML Model Monitoring"
+services:
+  ml-service:
+    build: .
+    ports: ["5000:5000"]
+    volumes:
+      - ./logs:/app/logs          # prediction logs are kept on the host
+
+  prometheus:
+    image: prom/prometheus:v2.53.0
+    ports: ["9090:9090"]
+    volumes:
+      - ./monitoring/prometheus.yml:/etc/prometheus/prometheus.yml
+      - ./monitoring/alert_rules.yml:/etc/prometheus/alert_rules.yml
+    depends_on: [ml-service]
+
+  grafana:
+    image: grafana/grafana:11.1.0
+    ports: ["3000:3000"]
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+    volumes:
+      - ./monitoring/grafana/provisioning:/etc/grafana/provisioning
+      - ./monitoring/grafana/dashboards:/var/lib/grafana/dashboards
+    depends_on: [prometheus]

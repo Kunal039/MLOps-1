@@ -1,0 +1,59 @@
+# Mini Project - Household Electricity Consumption Prediction - CI/CD
+# Copy to <repo-root>/.github/workflows/ (GitHub only reads workflows from the repository root).
+# Assumes the repo root is the MLOps-Lab-Experiments folder.
+name: Energy Model CI/CD
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    - cron: "0 2 * * 1"          # weekly retraining every Monday 02:00 UTC
+  workflow_dispatch:              # manual / monitoring-triggered retraining
+
+jobs:
+  train-test-validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run full ML pipeline (data -> features -> train -> quality gate -> tests -> monitoring -> ethics)
+        run: python Experiment-15_MiniProject_Phase5_CICD_Monitoring/run_full_pipeline.py
+      - name: Upload model registry and reports
+        uses: actions/upload-artifact@v4
+        with:
+          name: energy-model-${{ github.sha }}
+          path: |
+            Experiment-14_MiniProject_Phase4_Deployment/registry/
+            Experiment-13_MiniProject_Phase3_Model_Building/outputs/
+            Experiment-15_MiniProject_Phase5_CICD_Monitoring/outputs/
+
+  build-and-deploy:
+    needs: train-test-validate
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: energy-model-${{ github.sha }}
+          path: artifacts
+      - name: Put the validated model into the build context
+        run: cp -r artifacts/Experiment-14_MiniProject_Phase4_Deployment/registry Experiment-14_MiniProject_Phase4_Deployment/
+      - name: Build image
+        run: docker build -f Experiment-15_MiniProject_Phase5_CICD_Monitoring/Dockerfile -t ghcr.io/${{ github.repository_owner }}/energy-api:${{ github.sha }} .
+      - name: Push image
+        run: |
+          echo "${{ secrets.GITHUB_TOKEN }}" | docker login ghcr.io -u ${{ github.actor }} --password-stdin
+          docker push ghcr.io/${{ github.repository_owner }}/energy-api:${{ github.sha }}
+      - name: Deploy
+        run: echo "Deploy the new image (AWS ECS / GCP Cloud Run / Azure Container Apps / on-prem docker compose)"

@@ -1,0 +1,22 @@
+{
+  "name": "employee-salary-model",
+  "registry_version": 2,
+  "algorithm": "GradientBoosting",
+  "features": [
+    "experience_years",
+    "skills_count",
+    "certifications",
+    "performance_rating",
+    "job_role",
+    "city",
+    "company_size",
+    "education"
+  ],
+  "metrics": {
+    "cv_rmse": 1.8955,
+    "test_rmse": 1.8878,
+    "test_mae": 1.4048,
+    "test_r2": 0.9268
+  },
+  "mlflow_run_id": "f55edca33f6c4f28bb2928bb97641cd4"
+}

@@ -1,0 +1,2401 @@
+experience_years,skills_count,certifications,performance_rating,job_role,city,company_size,education,salary_lpa
+11.1,8,0,4,Sales Executive,Pune,Enterprise,Bachelor,11.9
+10.2,7,0,4,ML Engineer,Chennai,Mid-size,Bachelor,26.2
+4.9,7,1,1,ML Engineer,Delhi NCR,Enterprise,Master,28.72
+6.9,10,0,3,Sales Executive,Chennai,Startup,PhD,12.6
+2.3,11,2,3,Data Analyst,Bengaluru,Mid-size,Master,12.31
+4.0,13,0,5,HR Executive,Bengaluru,Mid-size,Master,11.49
+11.6,2,0,2,Data Analyst,Pune,Enterprise,Master,13.67
+8.8,8,1,3,Data Analyst,Chandigarh,Enterprise,Bachelor,9.19
+2.1,10,1,4,Data Analyst,Hyderabad,Enterprise,Bachelor,9.58
+9.4,6,0,2,Sales Executive,Chennai,Mid-size,Bachelor,9.49
+6.5,6,2,4,Software Engineer,Chandigarh,Mid-size,Diploma,13.04
+3.8,12,1,1,Data Analyst,Mumbai,Enterprise,Bachelor,9.46
+9.8,9,2,4,DevOps Engineer,Pune,Startup,Master,22.11
+7.5,10,1,2,Software Engineer,Pune,Enterprise,Bachelor,15.97
+5.4,4,4,2,Data Analyst,Hyderabad,Enterprise,Bachelor,10.72
+1.8,14,0,4,Software Engineer,Hyderabad,Enterprise,Diploma,12.29
+4.5,15,1,1,Data Analyst,Bengaluru,Enterprise,PhD,13.99
+0.8,12,1,2,Data Analyst,Chandigarh,Enterprise,Bachelor,7.98
+6.6,3,2,5,Software Engineer,Pune,Startup,Bachelor,15.2
+1.7,9,1,4,DevOps Engineer,Mumbai,Mid-size,Diploma,13.1
+6.0,14,0,4,Product Manager,Delhi NCR,Startup,Diploma,23.04
+1.4,7,1,4,Software Engineer,Mumbai,Startup,Bachelor,11.83
+2.9,15,2,3,Software Engineer,Jaipur,Enterprise,Bachelor,13.33
+2.9,13,3,4,DevOps Engineer,Hyderabad,Enterprise,Bachelor,16.29
+6.2,10,0,2,Software Engineer,Mumbai,Startup,Bachelor,14.26
+6.6,2,0,3,Data Scientist,Chennai,Enterprise,Bachelor,19.63
+11.8,8,3,3,Product Manager,Bengaluru,Enterprise,Bachelor,48.25
+0.7,12,2,3,Sales Executive,Mumbai,Enterprise,PhD,10.78
+1.2,8,2,2,Data Scientist,Bengaluru,Enterprise,Diploma,14.86
+11.4,14,2,3,Software Engineer,Bengaluru,Startup,Master,20.63
+9.4,4,1,4,DevOps Engineer,Chandigarh,Enterprise,Bachelor,20.47
+14.9,4,1,4,Data Scientist,Chennai,Mid-size,Bachelor,26.36
+4.8,4,0,3,Sales Executive,Delhi NCR,Enterprise,Master,10.7
+1.4,14,1,4,Data Scientist,Chandigarh,Startup,Bachelor,13.5
+5.3,4,1,3,ML Engineer,Hyderabad,Mid-size,Master,26.97
+2.5,3,1,3,DevOps Engineer,Chennai,Mid-size,Master,14.41
+3.6,8,0,4,ML Engineer,Delhi NCR,Mid-size,Bachelor,24.04
+7.6,15,1,3,HR Executive,Bengaluru,Mid-size,Bachelor,10.84
+7.5,10,0,4,Data Scientist,Bengaluru,Startup,Bachelor,22.61
+3.9,15,3,4,Data Scientist,Delhi NCR,Enterprise,Master,27.33
+4.1,14,3,3,Software Engineer,Pune,Enterprise,Master,17.39
+7.1,12,3,5,Data Scientist,Chennai,Startup,Bachelor,22.17
+0.5,5,1,4,Data Analyst,Delhi NCR,Mid-size,Diploma,6.08
+1.0,14,1,4,Data Analyst,Chennai,Mid-size,Bachelor,8.54
+8.6,10,0,4,Data Scientist,Chandigarh,Startup,Bachelor,21.54
+14.7,13,1,2,Software Engineer,Chennai,Startup,Bachelor,20.34
+7.9,13,1,4,Software Engineer,Chandigarh,Mid-size,Bachelor,15.2
+5.0,3,1,3,Data Analyst,Pune,Mid-size,PhD,10.55
+5.3,5,1,3,Sales Executive,Hyderabad,Mid-size,Bachelor,8.78
+3.9,5,0,3,HR Executive,Hyderabad,Enterprise,Master,8.6
+0.8,9,1,1,Software Engineer,Bengaluru,Startup,Bachelor,9.32
+2.0,12,1,3,DevOps Engineer,Pune,Enterprise,PhD,21.6
+2.1,10,2,4,DevOps Engineer,Jaipur,Enterprise,Bachelor,14.94
+0.9,10,2,3,HR Executive,Mumbai,Enterprise,Master,9.88
+4.5,12,0,3,Data Scientist,Delhi NCR,Startup,Bachelor,18.36
+12.8,7,2,2,HR Executive,Hyderabad,Mid-size,Bachelor,9.94
+3.6,7,1,3,Data Scientist,Pune,Enterprise,Master,21.21
+1.4,7,1,3,Software Engineer,Hyderabad,Enterprise,Master,13.89
+2.2,13,0,1,Sales Executive,Chandigarh,Startup,Master,6.36
+4.3,8,2,3,Software Engineer,Hyderabad,Startup,Diploma,11.86
+5.2,4,1,3,HR Executive,Chennai,Startup,Master,8.3
+1.4,9,0,4,Software Engineer,Pune,Startup,Bachelor,10.67
+6.9,2,1,3,Data Scientist,Mumbai,Enterprise,Master,24.41
+4.1,13,1,4,Data Analyst,Delhi NCR,Mid-size,Bachelor,10.4
+1.9,15,2,4,Data Scientist,Pune,Startup,Master,22.58
+3.1,4,1,4,Sales Executive,Jaipur,Enterprise,Bachelor,6.77
+7.9,8,2,5,ML Engineer,Chandigarh,Mid-size,Master,29.05
+3.9,6,1,1,Data Analyst,Pune,Mid-size,Bachelor,7.17
+6.6,2,2,4,Data Analyst,Pune,Mid-size,Bachelor,10.49
+1.2,13,2,3,Product Manager,Pune,Enterprise,PhD,30.44
+3.5,6,1,3,Data Scientist,Mumbai,Startup,PhD,27.83
+2.6,5,2,3,Sales Executive,Chennai,Startup,Diploma,5.94
+4.0,10,2,4,Data Analyst,Mumbai,Enterprise,Master,14.83
+2.2,4,2,3,Sales Executive,Mumbai,Enterprise,Master,10.65
+10.8,12,2,4,HR Executive,Mumbai,Enterprise,PhD,21.51
+5.6,9,1,3,Software Engineer,Delhi NCR,Startup,PhD,21.73
+7.1,9,1,3,Product Manager,Chennai,Mid-size,Bachelor,31.25
+5.5,5,2,2,Data Scientist,Bengaluru,Mid-size,Diploma,17.64
+0.4,7,3,3,Software Engineer,Hyderabad,Mid-size,Bachelor,12.76
+2.6,5,5,4,Data Scientist,Jaipur,Mid-size,Bachelor,14.77
+3.9,13,0,3,Software Engineer,Chandigarh,Enterprise,Diploma,9.2
+3.8,5,0,2,HR Executive,Jaipur,Mid-size,Master,6.21
+3.2,4,1,5,Data Scientist,Pune,Mid-size,Bachelor,17.1
+5.0,10,1,2,Software Engineer,Chennai,Enterprise,Master,13.9
+8.6,7,0,3,Data Analyst,Chennai,Mid-size,Master,12.03
+1.5,15,0,3,HR Executive,Delhi NCR,Startup,Diploma,5.75
+6.8,13,2,4,Software Engineer,Hyderabad,Mid-size,Bachelor,20.21
+4.9,4,0,1,HR Executive,Mumbai,Mid-size,Master,8.4
+5.8,6,1,2,ML Engineer,Hyderabad,Enterprise,Master,29.38
+0.9,7,1,1,Data Analyst,Delhi NCR,Mid-size,Bachelor,8.33
+6.9,2,0,2,Software Engineer,Delhi NCR,Enterprise,Master,16.69
+2.2,15,1,4,Software Engineer,Jaipur,Mid-size,Master,15.65
+2.6,2,0,4,Product Manager,Mumbai,Startup,PhD,31.43
+10.2,3,1,4,DevOps Engineer,Chennai,Mid-size,Bachelor,20.35
+1.3,15,2,4,HR Executive,Chandigarh,Mid-size,Diploma,4.7
+4.9,11,0,3,ML Engineer,Pune,Enterprise,Bachelor,25.72
+3.7,4,1,2,Software Engineer,Chandigarh,Enterprise,Bachelor,13.2
+1.3,15,1,2,Software Engineer,Chennai,Enterprise,Master,13.93
+1.3,7,1,4,Data Scientist,Jaipur,Enterprise,Diploma,12.82
+3.9,14,1,3,ML Engineer,Jaipur,Startup,Diploma,17.09
+1.0,12,0,3,HR Executive,Pune,Startup,Master,7.4
+17.6,14,1,3,Software Engineer,Chennai,Enterprise,Master,26.45
+4.3,2,3,4,Sales Executive,Delhi NCR,Startup,Master,9.97
+6.9,9,0,3,Software Engineer,Hyderabad,Startup,Bachelor,15.97
+1.2,13,0,2,DevOps Engineer,Pune,Enterprise,Master,13.51
+6.5,3,1,4,HR Executive,Mumbai,Mid-size,Master,9.37
+8.6,3,1,4,Software Engineer,Delhi NCR,Mid-size,PhD,22.89
+2.0,14,1,3,Sales Executive,Mumbai,Startup,Diploma,6.58
+7.5,9,1,4,Sales Executive,Mumbai,Mid-size,Bachelor,11.55
+16.9,7,0,3,Product Manager,Pune,Enterprise,Master,46.31
+7.1,14,0,4,Sales Executive,Delhi NCR,Mid-size,Master,13.17
+3.5,8,1,5,Data Analyst,Bengaluru,Enterprise,Bachelor,13.27
+3.0,10,1,3,Data Analyst,Bengaluru,Enterprise,Bachelor,10.19
+5.5,2,1,3,Data Analyst,Mumbai,Startup,Bachelor,10.49
+4.1,13,2,3,Software Engineer,Bengaluru,Startup,Master,16.93
+0.7,11,0,2,Data Analyst,Delhi NCR,Startup,Bachelor,6.24
+5.7,8,2,4,Software Engineer,Pune,Startup,Bachelor,12.57
+10.6,2,1,2,Software Engineer,Delhi NCR,Mid-size,Master,18.48
+4.4,7,0,4,Software Engineer,Pune,Startup,PhD,17.21
+2.8,9,1,5,Software Engineer,Chandigarh,Mid-size,Bachelor,11.32
+2.9,7,2,3,ML Engineer,Chennai,Enterprise,Master,27.65
+7.8,7,2,3,Data Analyst,Mumbai,Mid-size,Bachelor,13.26
+2.9,14,1,5,Software Engineer,Bengaluru,Enterprise,Bachelor,17.73
+1.2,11,0,4,Data Scientist,Pune,Enterprise,Bachelor,17.68
+8.1,2,0,2,Sales Executive,Delhi NCR,Startup,Master,13.02
+1.5,3,1,4,Product Manager,Delhi NCR,Enterprise,Bachelor,27.28
+10.7,5,4,2,HR Executive,Jaipur,Startup,Bachelor,8.41
+10.6,3,2,3,Sales Executive,Delhi NCR,Enterprise,Bachelor,12.61
+5.7,15,4,3,HR Executive,Bengaluru,Startup,Bachelor,11.69
+9.3,13,1,4,Software Engineer,Bengaluru,Mid-size,Bachelor,23.87
+3.7,2,2,2,HR Executive,Delhi NCR,Enterprise,Master,8.89
+1.4,2,0,4,Data Analyst,Delhi NCR,Mid-size,Master,8.27
+5.2,12,0,3,Software Engineer,Mumbai,Mid-size,Diploma,14.91
+5.1,14,1,3,ML Engineer,Bengaluru,Mid-size,Bachelor,29.68
+0.3,6,3,4,Data Analyst,Chennai,Startup,Master,7.69
+4.4,12,0,5,Data Analyst,Hyderabad,Mid-size,Master,12.63
+3.4,14,1,3,Data Analyst,Mumbai,Mid-size,Master,12.87
+3.3,2,3,2,DevOps Engineer,Jaipur,Startup,Bachelor,12.47
+7.9,11,1,3,Data Scientist,Hyderabad,Mid-size,Master,29.07
+5.1,5,3,4,Sales Executive,Hyderabad,Enterprise,Bachelor,12.56
+6.8,9,0,5,Product Manager,Bengaluru,Mid-size,Bachelor,35.65
+4.9,3,0,3,HR Executive,Jaipur,Mid-size,Master,6.91
+1.5,7,2,3,Sales Executive,Mumbai,Mid-size,Bachelor,7.71
+2.6,12,4,3,Software Engineer,Chennai,Startup,Bachelor,13.14
+5.3,15,3,2,HR Executive,Hyderabad,Mid-size,Master,12.95
+8.2,3,1,3,Sales Executive,Jaipur,Startup,Master,8.5
+1.6,3,2,4,Software Engineer,Pune,Enterprise,Master,14.03
+1.4,8,0,1,Data Analyst,Jaipur,Mid-size,Master,7.08
+2.3,8,3,2,Software Engineer,Mumbai,Startup,Bachelor,13.39
+8.8,2,2,3,Sales Executive,Jaipur,Mid-size,Bachelor,8.67
+14.1,9,0,3,Data Scientist,Mumbai,Mid-size,Master,37.01
+1.5,9,2,3,ML Engineer,Bengaluru,Enterprise,Bachelor,24.31
+5.9,9,2,4,Product Manager,Delhi NCR,Enterprise,Master,43.47
+0.4,9,0,3,Sales Executive,Chandigarh,Mid-size,Bachelor,6.67
+11.4,4,0,3,Software Engineer,Delhi NCR,Mid-size,Bachelor,16.5
+6.9,13,1,2,Software Engineer,Pune,Startup,Bachelor,14.86
+2.0,4,0,4,DevOps Engineer,Hyderabad,Startup,Master,15.06
+3.0,7,0,4,Data Analyst,Delhi NCR,Mid-size,Master,12.59
+3.7,9,1,4,Software Engineer,Pune,Enterprise,PhD,22.67
+4.8,15,1,2,Software Engineer,Hyderabad,Enterprise,Diploma,14.28
+4.9,6,3,1,Software Engineer,Chennai,Startup,Bachelor,12.57
+0.8,10,3,4,Software Engineer,Hyderabad,Enterprise,Bachelor,13.9
+7.5,7,1,5,Sales Executive,Bengaluru,Mid-size,Bachelor,13.4
+4.0,4,1,4,Sales Executive,Mumbai,Mid-size,Diploma,8.07
+7.0,5,1,3,HR Executive,Bengaluru,Startup,Master,10.96
+3.3,14,0,5,Data Analyst,Hyderabad,Mid-size,Bachelor,10.07
+8.8,15,3,2,Product Manager,Pune,Mid-size,Master,33.78
+6.2,9,2,5,Data Scientist,Delhi NCR,Mid-size,Master,29.51
+3.3,6,4,3,Data Analyst,Pune,Mid-size,Master,11.29
+1.4,7,1,3,Sales Executive,Delhi NCR,Mid-size,Bachelor,8.07
+9.6,7,2,4,HR Executive,Chennai,Mid-size,Master,11.03
+3.0,9,1,5,Data Analyst,Hyderabad,Mid-size,Master,10.28
+7.3,9,2,3,Software Engineer,Hyderabad,Mid-size,Bachelor,19.94
+4.5,5,0,3,DevOps Engineer,Chennai,Enterprise,Master,19.0
+3.3,10,1,2,Data Scientist,Jaipur,Mid-size,Bachelor,12.61
+7.3,12,0,3,HR Executive,Delhi NCR,Mid-size,Diploma,10.26
+6.5,3,0,2,ML Engineer,Mumbai,Startup,Master,27.16
+3.5,9,2,2,Software Engineer,Chandigarh,Mid-size,Master,12.65
+4.2,8,2,4,Data Analyst,Chennai,Mid-size,Bachelor,9.79
+1.7,5,1,4,ML Engineer,Bengaluru,Mid-size,Bachelor,21.59
+3.6,11,1,2,DevOps Engineer,Chandigarh,Startup,Bachelor,11.25
+1.6,6,2,4,DevOps Engineer,Hyderabad,Enterprise,Master,17.64
+2.0,10,3,3,Product Manager,Delhi NCR,Enterprise,Master,33.05
+4.5,12,0,3,HR Executive,Delhi NCR,Startup,Master,8.77
+15.8,8,1,5,Data Analyst,Delhi NCR,Mid-size,Bachelor,16.44
+3.9,14,0,5,DevOps Engineer,Pune,Startup,Bachelor,14.95
+2.0,13,1,3,Sales Executive,Chandigarh,Startup,Bachelor,5.69
+24.0,15,1,2,DevOps Engineer,Chennai,Startup,Bachelor,23.96
+5.2,10,1,4,DevOps Engineer,Chennai,Enterprise,PhD,24.92
+5.8,11,2,5,Software Engineer,Pune,Startup,Master,17.89
+3.1,4,2,3,Product Manager,Delhi NCR,Startup,Bachelor,25.93
+6.9,12,2,2,DevOps Engineer,Bengaluru,Enterprise,Bachelor,24.24
+2.7,11,1,3,Data Analyst,Hyderabad,Mid-size,Diploma,7.43
+2.6,10,0,5,Software Engineer,Chennai,Startup,Diploma,10.18
+1.8,10,1,3,Data Analyst,Chandigarh,Enterprise,Bachelor,7.08
+2.6,13,1,3,DevOps Engineer,Hyderabad,Mid-size,Bachelor,14.42
+15.1,3,0,4,HR Executive,Mumbai,Enterprise,PhD,20.31
+1.9,13,0,3,HR Executive,Delhi NCR,Startup,Bachelor,6.08
+3.0,12,1,1,Data Analyst,Pune,Mid-size,Bachelor,7.61
+3.9,11,4,5,Software Engineer,Pune,Mid-size,Bachelor,18.74
+12.8,10,2,4,Data Scientist,Delhi NCR,Mid-size,Diploma,25.14
+1.4,4,2,3,Software Engineer,Jaipur,Startup,Diploma,7.86
+3.6,2,1,1,Sales Executive,Pune,Startup,Bachelor,7.1
+3.7,15,3,3,Software Engineer,Mumbai,Mid-size,Bachelor,16.41
+3.4,13,1,3,Sales Executive,Jaipur,Mid-size,Bachelor,6.8
+17.0,15,0,2,DevOps Engineer,Delhi NCR,Enterprise,Bachelor,28.75
+1.8,12,0,4,Sales Executive,Bengaluru,Enterprise,Bachelor,9.93
+5.6,11,1,5,DevOps Engineer,Hyderabad,Mid-size,Diploma,17.09
+2.6,15,3,2,Software Engineer,Pune,Startup,Master,14.77
+16.0,7,1,2,DevOps Engineer,Chennai,Mid-size,Bachelor,18.78
+1.7,12,1,3,HR Executive,Chennai,Mid-size,Diploma,5.53
+5.8,3,0,4,Software Engineer,Bengaluru,Mid-size,Bachelor,16.71
+5.3,8,0,4,DevOps Engineer,Pune,Mid-size,Bachelor,15.7
+2.7,7,4,3,DevOps Engineer,Bengaluru,Startup,Bachelor,15.43
+7.6,3,3,4,DevOps Engineer,Pune,Mid-size,Master,19.73
+9.0,12,3,4,HR Executive,Mumbai,Enterprise,Diploma,11.42
+10.0,14,2,3,HR Executive,Jaipur,Enterprise,Bachelor,10.4
+5.6,11,0,5,DevOps Engineer,Chandigarh,Startup,Bachelor,13.33
+9.8,8,1,1,Data Scientist,Hyderabad,Mid-size,Bachelor,26.19
+4.2,6,1,3,Data Analyst,Mumbai,Enterprise,Master,13.23
+5.1,7,1,2,Software Engineer,Chennai,Mid-size,Bachelor,12.76
+8.5,11,1,2,ML Engineer,Jaipur,Enterprise,Master,23.57
+5.7,5,3,5,DevOps Engineer,Delhi NCR,Mid-size,Bachelor,18.69
+8.7,7,0,1,DevOps Engineer,Chandigarh,Enterprise,Master,18.32
+1.2,12,1,2,Software Engineer,Mumbai,Mid-size,Master,15.24
+8.0,14,2,3,Sales Executive,Chennai,Startup,Bachelor,8.6
+3.9,5,0,3,Data Scientist,Pune,Mid-size,Diploma,13.75
+1.9,2,0,4,Sales Executive,Jaipur,Startup,Bachelor,5.43
+1.5,13,0,1,Sales Executive,Chandigarh,Enterprise,Bachelor,5.83
+3.3,5,2,4,Data Scientist,Chennai,Startup,Diploma,12.25
+7.4,11,2,2,ML Engineer,Pune,Mid-size,Master,27.38
+6.3,6,2,2,Sales Executive,Hyderabad,Startup,Bachelor,8.74
+5.8,11,0,3,Sales Executive,Jaipur,Enterprise,Bachelor,8.08
+2.5,5,3,4,HR Executive,Pune,Enterprise,Bachelor,7.06
+6.2,11,3,3,Data Scientist,Delhi NCR,Enterprise,Diploma,20.51
+4.1,12,0,5,Sales Executive,Hyderabad,Enterprise,Bachelor,11.98
+5.4,13,0,3,Software Engineer,Delhi NCR,Startup,Bachelor,13.76
+7.4,11,0,2,HR Executive,Delhi NCR,Enterprise,Bachelor,9.7
+7.4,9,1,5,DevOps Engineer,Hyderabad,Enterprise,Bachelor,21.71
+2.9,3,1,3,Sales Executive,Chennai,Startup,Bachelor,6.64
+6.3,11,3,2,DevOps Engineer,Bengaluru,Startup,Bachelor,17.78
+2.5,3,0,2,Data Scientist,Mumbai,Enterprise,Diploma,16.42
+5.5,11,3,3,HR Executive,Hyderabad,Enterprise,Master,11.76
+2.4,12,1,4,Software Engineer,Bengaluru,Mid-size,Bachelor,17.12
+2.8,6,2,3,Product Manager,Chandigarh,Mid-size,Master,21.79
+1.4,9,0,4,DevOps Engineer,Hyderabad,Mid-size,Bachelor,12.74
+23.2,2,0,3,Product Manager,Jaipur,Enterprise,Bachelor,40.21
+5.9,9,0,4,HR Executive,Hyderabad,Startup,Diploma,6.75
+2.8,8,1,4,Software Engineer,Chandigarh,Mid-size,Diploma,9.66
+10.4,6,1,4,Software Engineer,Bengaluru,Startup,Diploma,15.38
+4.4,11,2,1,ML Engineer,Mumbai,Enterprise,Master,29.37
+11.2,15,1,4,Sales Executive,Mumbai,Mid-size,Diploma,11.92
+7.2,9,0,5,HR Executive,Chennai,Mid-size,Diploma,8.96
+2.0,2,0,3,Software Engineer,Chandigarh,Startup,Master,10.77
+3.5,11,1,1,HR Executive,Jaipur,Enterprise,Bachelor,6.4
+6.5,2,1,3,ML Engineer,Delhi NCR,Mid-size,Diploma,19.48
+2.3,14,2,2,ML Engineer,Delhi NCR,Enterprise,Master,30.16
+0.9,12,2,4,HR Executive,Hyderabad,Mid-size,Master,8.12
+0.5,2,0,3,HR Executive,Delhi NCR,Mid-size,Master,7.23
+9.0,4,0,5,Software Engineer,Pune,Enterprise,Diploma,16.8
+5.1,15,2,4,Data Analyst,Pune,Enterprise,Master,16.0
+9.0,6,1,4,Software Engineer,Hyderabad,Startup,Diploma,15.93
+10.1,5,2,5,Sales Executive,Chennai,Startup,Bachelor,12.27
+0.5,5,3,3,Product Manager,Bengaluru,Startup,Bachelor,19.4
+1.2,14,2,3,HR Executive,Hyderabad,Enterprise,Diploma,6.32
+6.5,5,1,5,Data Analyst,Delhi NCR,Startup,Diploma,10.23
+2.8,13,3,4,HR Executive,Chennai,Startup,Diploma,6.41
+8.9,11,2,2,Software Engineer,Mumbai,Startup,Bachelor,20.11
+1.6,14,1,1,Software Engineer,Jaipur,Enterprise,Bachelor,10.06
+8.1,8,0,3,Data Analyst,Chennai,Enterprise,Master,11.56
+11.1,6,1,3,Software Engineer,Delhi NCR,Mid-size,Bachelor,18.72
+2.3,9,2,2,Software Engineer,Jaipur,Enterprise,Bachelor,11.78
+2.7,5,2,3,Product Manager,Chennai,Enterprise,Diploma,19.55
+6.9,2,2,3,Software Engineer,Jaipur,Mid-size,Bachelor,16.05
+1.8,10,0,4,Software Engineer,Jaipur,Enterprise,Master,12.54
+2.6,13,1,3,Data Scientist,Chennai,Enterprise,Master,19.51
+5.6,9,1,3,ML Engineer,Chennai,Mid-size,Bachelor,20.77
+6.0,13,1,3,Data Analyst,Hyderabad,Enterprise,Bachelor,14.2
+2.3,14,1,1,Software Engineer,Bengaluru,Mid-size,Bachelor,15.98
+5.5,12,1,2,Software Engineer,Bengaluru,Startup,Bachelor,16.53
+2.1,13,2,4,Software Engineer,Jaipur,Mid-size,Bachelor,11.55
+7.4,2,0,3,DevOps Engineer,Delhi NCR,Enterprise,Bachelor,20.08
+9.7,10,1,4,Data Scientist,Delhi NCR,Enterprise,Bachelor,29.81
+6.8,9,0,3,Software Engineer,Delhi NCR,Startup,Master,18.37
+3.0,13,0,2,Product Manager,Mumbai,Enterprise,Master,32.38
+3.2,14,0,4,Product Manager,Hyderabad,Enterprise,Bachelor,32.12
+4.3,9,0,4,DevOps Engineer,Jaipur,Enterprise,Bachelor,13.97
+13.1,13,2,4,ML Engineer,Chandigarh,Enterprise,Bachelor,30.36
+6.7,5,2,2,Sales Executive,Delhi NCR,Startup,Diploma,7.74
+1.3,15,2,4,DevOps Engineer,Delhi NCR,Startup,Bachelor,15.4
+2.1,7,1,4,Data Analyst,Chennai,Enterprise,Master,10.8
+3.8,8,0,2,DevOps Engineer,Hyderabad,Mid-size,Bachelor,15.17
+10.4,4,4,3,Software Engineer,Mumbai,Startup,Master,21.29
+1.6,5,1,3,Data Analyst,Hyderabad,Enterprise,Diploma,8.21
+3.3,6,3,3,Sales Executive,Mumbai,Mid-size,Bachelor,10.22
+1.0,9,0,4,Software Engineer,Chandigarh,Enterprise,Diploma,9.14
+3.5,4,1,2,Software Engineer,Mumbai,Startup,Master,15.45
+3.8,5,0,3,Sales Executive,Pune,Mid-size,Bachelor,8.71
+20.3,9,0,4,HR Executive,Bengaluru,Mid-size,Bachelor,15.95
+1.3,3,2,1,Product Manager,Chandigarh,Startup,Bachelor,14.32
+14.1,3,0,2,Software Engineer,Chennai,Mid-size,Master,21.47
+5.7,7,0,3,Data Scientist,Jaipur,Startup,Diploma,15.49
+5.5,5,1,3,Data Scientist,Chennai,Startup,Bachelor,19.13
+3.2,15,1,5,DevOps Engineer,Chennai,Startup,Master,18.71
+6.3,4,0,1,ML Engineer,Hyderabad,Enterprise,Bachelor,20.37
+7.7,2,3,4,HR Executive,Jaipur,Enterprise,Master,10.64
+1.6,7,0,3,ML Engineer,Jaipur,Mid-size,Bachelor,14.33
+7.3,13,1,3,Sales Executive,Mumbai,Enterprise,Bachelor,12.42
+2.7,12,0,3,HR Executive,Hyderabad,Startup,Bachelor,7.63
+6.2,6,1,4,Data Analyst,Pune,Mid-size,Diploma,9.23
+4.0,4,2,3,Software Engineer,Hyderabad,Enterprise,Bachelor,15.91
+1.2,10,1,3,HR Executive,Jaipur,Enterprise,Master,6.67
+8.3,14,2,3,Product Manager,Chennai,Mid-size,Bachelor,23.69
+8.4,3,1,3,Sales Executive,Bengaluru,Enterprise,Master,15.06
+13.4,12,0,3,Software Engineer,Jaipur,Enterprise,Master,24.23
+5.0,10,0,3,Sales Executive,Jaipur,Enterprise,Bachelor,8.93
+12.1,15,2,3,Data Analyst,Hyderabad,Mid-size,Bachelor,16.19
+3.8,11,1,4,ML Engineer,Mumbai,Enterprise,Diploma,22.69
+1.9,10,0,2,DevOps Engineer,Jaipur,Mid-size,Bachelor,10.15
+5.3,4,0,2,Sales Executive,Hyderabad,Startup,Master,9.39
+7.3,2,2,2,Data Scientist,Jaipur,Mid-size,Bachelor,16.21
+1.9,3,0,4,Data Scientist,Jaipur,Enterprise,Bachelor,13.83
+4.8,7,1,4,Data Analyst,Delhi NCR,Enterprise,Bachelor,11.76
+1.3,10,0,5,Software Engineer,Hyderabad,Enterprise,Bachelor,15.53
+5.1,4,0,4,ML Engineer,Chandigarh,Startup,Master,22.19
+8.0,12,2,4,ML Engineer,Jaipur,Startup,Bachelor,23.63
+4.3,7,2,3,Software Engineer,Jaipur,Startup,Master,11.13
+4.3,7,0,4,HR Executive,Mumbai,Enterprise,Master,9.42
+6.6,14,0,4,Software Engineer,Jaipur,Mid-size,Bachelor,14.51
+1.4,4,2,3,DevOps Engineer,Chandigarh,Mid-size,Bachelor,10.97
+5.4,6,2,3,Software Engineer,Jaipur,Mid-size,Bachelor,13.26
+6.2,5,0,4,Sales Executive,Bengaluru,Mid-size,Bachelor,9.05
+3.3,10,2,2,ML Engineer,Chennai,Mid-size,Diploma,17.59
+1.0,9,5,3,Software Engineer,Pune,Mid-size,Bachelor,11.77
+3.9,11,1,3,HR Executive,Pune,Startup,Bachelor,6.98
+8.9,15,4,2,ML Engineer,Hyderabad,Startup,Diploma,21.71
+2.8,4,0,3,DevOps Engineer,Pune,Enterprise,Bachelor,16.03
+2.2,14,0,3,Data Analyst,Delhi NCR,Enterprise,Diploma,9.02
+12.9,13,0,1,HR Executive,Pune,Startup,Master,10.86
+5.7,8,1,1,ML Engineer,Delhi NCR,Startup,Master,27.7
+10.8,6,1,3,ML Engineer,Mumbai,Startup,Diploma,26.18
+7.5,14,0,2,Software Engineer,Chennai,Mid-size,Bachelor,13.4
+3.8,12,1,4,Software Engineer,Pune,Mid-size,Bachelor,16.96
+8.7,4,1,2,ML Engineer,Jaipur,Mid-size,Master,23.06
+2.0,7,1,5,Product Manager,Chennai,Enterprise,PhD,34.26
+0.5,5,0,1,Data Analyst,Pune,Startup,Master,6.2
+10.1,12,0,4,HR Executive,Mumbai,Startup,Bachelor,11.94
+1.4,9,0,3,Data Scientist,Hyderabad,Enterprise,Bachelor,16.22
+2.5,2,2,3,Data Analyst,Mumbai,Enterprise,Diploma,8.35
+3.0,3,1,1,Sales Executive,Hyderabad,Mid-size,Bachelor,6.66
+3.1,12,0,3,Software Engineer,Delhi NCR,Mid-size,Bachelor,13.33
+6.2,12,1,2,ML Engineer,Chennai,Enterprise,Master,32.26
+8.2,12,1,4,Data Analyst,Delhi NCR,Mid-size,Bachelor,14.07
+1.9,12,0,3,HR Executive,Chennai,Startup,Bachelor,6.66
+4.8,14,2,4,Data Analyst,Bengaluru,Enterprise,Master,17.09
+9.8,6,1,3,Data Analyst,Chandigarh,Enterprise,Bachelor,9.54
+4.4,14,1,3,Software Engineer,Jaipur,Enterprise,Master,18.64
+0.8,15,3,3,HR Executive,Jaipur,Enterprise,Master,7.98
+5.0,2,2,3,DevOps Engineer,Hyderabad,Startup,Master,18.77
+2.2,12,0,3,Product Manager,Jaipur,Mid-size,Bachelor,18.87
+5.2,3,3,4,Software Engineer,Jaipur,Mid-size,Master,12.89
+4.2,8,1,2,DevOps Engineer,Chandigarh,Mid-size,Bachelor,13.05
+2.5,13,0,3,Product Manager,Bengaluru,Enterprise,Master,34.97
+0.6,11,0,3,Software Engineer,Hyderabad,Mid-size,Bachelor,12.07
+2.9,10,0,4,DevOps Engineer,Chandigarh,Startup,Bachelor,11.87
+1.7,3,1,1,Sales Executive,Delhi NCR,Startup,Master,6.93
+5.3,5,0,2,Sales Executive,Delhi NCR,Mid-size,Master,10.09
+2.2,5,2,3,Software Engineer,Delhi NCR,Startup,Bachelor,12.5
+4.6,7,2,2,Data Scientist,Jaipur,Mid-size,Bachelor,13.93
+3.1,14,0,2,Data Scientist,Hyderabad,Enterprise,Master,22.91
+1.7,2,3,4,Data Analyst,Mumbai,Startup,Diploma,7.14
+7.5,10,4,2,Software Engineer,Chennai,Mid-size,Bachelor,15.32
+4.6,14,0,2,Data Analyst,Jaipur,Mid-size,Bachelor,7.75
+1.5,2,1,1,Data Scientist,Hyderabad,Enterprise,Bachelor,16.87
+4.8,3,0,1,Data Analyst,Hyderabad,Enterprise,Master,10.35
+2.2,2,3,2,Data Analyst,Mumbai,Mid-size,Master,8.15
+5.4,4,1,3,Sales Executive,Bengaluru,Startup,Bachelor,10.3
+6.8,15,0,2,HR Executive,Jaipur,Mid-size,PhD,10.0
+5.4,3,0,3,Software Engineer,Bengaluru,Startup,Bachelor,12.46
+3.3,11,1,2,Sales Executive,Jaipur,Mid-size,Bachelor,6.47
+1.3,8,0,3,Software Engineer,Hyderabad,Mid-size,PhD,14.35
+6.1,9,0,3,Product Manager,Delhi NCR,Mid-size,Bachelor,29.52
+1.8,4,2,3,Data Scientist,Hyderabad,Mid-size,Master,21.66
+2.2,9,0,2,ML Engineer,Chennai,Startup,Diploma,14.53
+0.6,14,1,3,ML Engineer,Mumbai,Enterprise,Bachelor,21.97
+4.1,12,1,3,Data Analyst,Chandigarh,Startup,Diploma,6.03
+3.9,4,1,2,ML Engineer,Chennai,Startup,Master,19.83
+11.7,13,0,4,Data Analyst,Bengaluru,Mid-size,Master,19.61
+6.5,9,0,4,ML Engineer,Mumbai,Enterprise,PhD,41.86
+5.4,10,2,1,DevOps Engineer,Jaipur,Mid-size,Master,16.19
+6.8,12,0,4,Data Analyst,Chennai,Enterprise,Bachelor,13.08
+9.0,14,2,3,Sales Executive,Delhi NCR,Mid-size,Bachelor,13.53
+3.6,14,0,4,Software Engineer,Hyderabad,Mid-size,Master,18.36
+9.4,15,1,4,Data Scientist,Hyderabad,Startup,Diploma,23.07
+1.5,14,0,3,Product Manager,Mumbai,Mid-size,Master,25.13
+7.7,3,0,3,Software Engineer,Bengaluru,Mid-size,Bachelor,16.75
+0.8,12,0,5,ML Engineer,Delhi NCR,Enterprise,Master,26.4
+3.8,5,2,3,ML Engineer,Mumbai,Mid-size,Master,31.61
+4.9,15,0,1,Data Scientist,Delhi NCR,Enterprise,Diploma,16.3
+9.2,5,0,4,HR Executive,Delhi NCR,Mid-size,Bachelor,10.6
+2.1,6,1,3,HR Executive,Mumbai,Mid-size,Bachelor,8.36
+3.0,3,1,2,DevOps Engineer,Mumbai,Enterprise,Bachelor,14.53
+1.6,2,2,2,Software Engineer,Pune,Mid-size,Bachelor,11.3
+7.3,10,1,2,Software Engineer,Bengaluru,Startup,Bachelor,14.87
+6.2,2,1,2,Sales Executive,Delhi NCR,Mid-size,Bachelor,9.43
+2.9,4,0,4,HR Executive,Jaipur,Mid-size,Master,6.72
+4.3,10,1,4,HR Executive,Chennai,Mid-size,Bachelor,7.54
+1.9,8,2,3,Data Analyst,Bengaluru,Mid-size,Master,12.01
+8.1,9,6,3,Data Analyst,Chandigarh,Startup,Bachelor,12.17
+3.9,13,0,2,HR Executive,Chennai,Startup,PhD,9.2
+5.9,13,3,4,HR Executive,Hyderabad,Mid-size,Bachelor,8.92
+1.0,2,1,4,ML Engineer,Chennai,Mid-size,Master,18.42
+3.3,9,1,4,Software Engineer,Chandigarh,Mid-size,Bachelor,12.05
+2.6,5,1,2,Software Engineer,Jaipur,Enterprise,Bachelor,12.09
+1.8,15,0,2,Data Analyst,Chennai,Mid-size,Master,8.87
+3.0,2,1,3,Data Scientist,Chennai,Enterprise,Master,22.71
+1.3,12,1,4,Software Engineer,Chennai,Startup,Master,14.27
+6.5,10,1,2,ML Engineer,Chennai,Enterprise,Master,27.07
+11.1,6,1,3,Data Analyst,Pune,Startup,Bachelor,11.63
+6.9,13,0,4,HR Executive,Mumbai,Startup,Bachelor,11.03
+5.4,13,4,3,Software Engineer,Jaipur,Mid-size,Bachelor,13.94
+7.6,15,1,3,Data Scientist,Mumbai,Mid-size,Bachelor,27.41
+12.0,13,1,3,Software Engineer,Chennai,Mid-size,Master,26.13
+9.7,5,1,3,Data Scientist,Hyderabad,Enterprise,Master,30.0
+9.2,9,1,3,Data Scientist,Delhi NCR,Mid-size,Master,26.09
+3.1,8,0,3,DevOps Engineer,Chandigarh,Startup,Bachelor,12.1
+0.6,4,2,1,Data Scientist,Hyderabad,Mid-size,Master,15.93
+2.5,11,2,3,DevOps Engineer,Hyderabad,Startup,Master,16.79
+5.7,9,0,2,Product Manager,Pune,Enterprise,Diploma,21.79
+9.3,7,0,3,Data Scientist,Mumbai,Enterprise,Diploma,27.62
+8.4,7,2,3,Data Scientist,Chennai,Startup,Bachelor,22.49
+4.1,12,1,2,ML Engineer,Delhi NCR,Mid-size,Master,24.17
+7.6,8,1,4,Data Analyst,Bengaluru,Startup,Master,13.15
+1.6,8,0,4,Data Scientist,Chennai,Enterprise,Bachelor,16.95
+10.4,7,2,4,HR Executive,Mumbai,Enterprise,Master,14.87
+4.0,10,2,5,Software Engineer,Mumbai,Enterprise,Bachelor,17.35
+4.2,12,0,4,Software Engineer,Delhi NCR,Enterprise,Bachelor,17.32
+7.2,3,0,4,Software Engineer,Chennai,Enterprise,Bachelor,15.96
+2.2,7,1,3,DevOps Engineer,Mumbai,Mid-size,Master,20.53
+7.8,15,1,2,Sales Executive,Mumbai,Mid-size,Bachelor,11.02
+5.6,14,1,3,Software Engineer,Jaipur,Enterprise,Bachelor,15.94
+5.7,15,1,4,Data Scientist,Chandigarh,Mid-size,Bachelor,17.62
+3.9,8,6,3,Sales Executive,Delhi NCR,Startup,Bachelor,8.8
+0.8,9,1,3,Product Manager,Bengaluru,Enterprise,Bachelor,22.92
+6.8,6,0,5,Data Scientist,Mumbai,Startup,Master,24.31
+3.7,8,1,4,DevOps Engineer,Delhi NCR,Enterprise,Bachelor,17.25
+7.2,11,0,3,ML Engineer,Chennai,Mid-size,Bachelor,25.61
+6.2,7,1,4,Software Engineer,Hyderabad,Enterprise,Diploma,15.89
+3.0,11,1,5,Sales Executive,Bengaluru,Enterprise,Diploma,8.38
+2.2,15,0,1,DevOps Engineer,Chandigarh,Startup,Bachelor,11.0
+4.5,15,0,1,Data Analyst,Bengaluru,Enterprise,Bachelor,11.03
+2.0,15,0,5,HR Executive,Pune,Mid-size,Master,9.24
+3.4,5,1,3,HR Executive,Jaipur,Enterprise,PhD,7.89
+12.6,15,2,4,DevOps Engineer,Jaipur,Mid-size,Bachelor,24.39
+1.4,5,1,5,ML Engineer,Pune,Mid-size,Bachelor,18.09
+2.6,6,0,5,HR Executive,Bengaluru,Startup,Bachelor,6.95
+1.2,6,3,3,Software Engineer,Hyderabad,Mid-size,Bachelor,9.75
+4.3,7,1,3,Data Analyst,Hyderabad,Enterprise,Diploma,8.06
+0.6,8,1,2,Data Analyst,Hyderabad,Mid-size,Bachelor,7.26
+4.7,8,3,4,Software Engineer,Chandigarh,Startup,Bachelor,13.04
+4.7,15,2,3,Data Scientist,Chandigarh,Mid-size,Master,22.76
+2.2,12,1,3,Sales Executive,Mumbai,Mid-size,Bachelor,9.03
+3.5,14,0,4,Sales Executive,Pune,Mid-size,PhD,11.05
+9.0,5,1,3,Sales Executive,Delhi NCR,Enterprise,Master,14.52
+1.7,14,2,3,Software Engineer,Mumbai,Startup,Bachelor,12.46
+3.6,15,0,4,Data Scientist,Hyderabad,Enterprise,Bachelor,23.89
+5.0,13,1,3,DevOps Engineer,Jaipur,Mid-size,Master,16.65
+3.2,5,1,2,Data Analyst,Hyderabad,Enterprise,Bachelor,9.6
+1.9,7,1,3,Software Engineer,Pune,Mid-size,Master,12.48
+1.1,8,2,3,Data Analyst,Delhi NCR,Enterprise,Master,9.96
+7.7,14,2,3,Software Engineer,Pune,Mid-size,Bachelor,16.63
+6.2,13,1,3,HR Executive,Bengaluru,Startup,Master,11.35
+10.4,10,1,4,Software Engineer,Bengaluru,Startup,Bachelor,20.56
+4.1,9,0,2,Data Analyst,Jaipur,Mid-size,Master,8.95
+9.3,6,1,4,Data Analyst,Jaipur,Startup,Bachelor,9.73
+4.9,11,3,3,Data Analyst,Bengaluru,Startup,Bachelor,9.64
+0.6,6,1,3,HR Executive,Delhi NCR,Enterprise,Master,9.54
+4.1,11,3,3,Data Analyst,Chandigarh,Enterprise,Bachelor,10.08
+4.2,2,3,2,HR Executive,Jaipur,Enterprise,Bachelor,6.87
+3.2,5,0,2,Software Engineer,Delhi NCR,Mid-size,Master,16.25
+4.2,4,1,3,Sales Executive,Pune,Mid-size,Bachelor,7.69
+10.6,9,1,5,Data Analyst,Mumbai,Enterprise,Master,21.83
+6.1,10,1,5,HR Executive,Hyderabad,Startup,Bachelor,9.53
+4.3,6,3,3,Software Engineer,Delhi NCR,Startup,Master,16.26
+6.7,5,1,3,Product Manager,Jaipur,Mid-size,Bachelor,24.12
+2.9,10,1,5,Sales Executive,Bengaluru,Enterprise,PhD,14.5
+3.4,3,1,3,Data Analyst,Bengaluru,Startup,Diploma,7.23
+6.4,2,1,2,Data Analyst,Chennai,Enterprise,Master,11.63
+1.4,8,1,4,Product Manager,Mumbai,Startup,Bachelor,23.98
+3.5,14,3,2,HR Executive,Hyderabad,Enterprise,Master,10.49
+9.4,9,0,4,Product Manager,Hyderabad,Mid-size,Master,40.37
+3.0,7,1,4,Product Manager,Mumbai,Mid-size,Bachelor,26.26
+13.3,9,3,3,Software Engineer,Bengaluru,Enterprise,Bachelor,26.13
+15.1,9,0,3,Software Engineer,Mumbai,Enterprise,Diploma,22.6
+6.8,13,2,4,ML Engineer,Delhi NCR,Mid-size,Bachelor,29.75
+5.9,9,2,4,Sales Executive,Hyderabad,Enterprise,Bachelor,13.31
+6.4,12,1,4,Data Analyst,Jaipur,Mid-size,Master,10.42
+6.0,11,0,4,Software Engineer,Jaipur,Startup,Master,15.29
+4.7,8,2,4,Product Manager,Bengaluru,Startup,Bachelor,27.41
+2.7,9,3,5,HR Executive,Jaipur,Startup,Master,6.48
+2.3,7,1,4,HR Executive,Chandigarh,Mid-size,Bachelor,6.16
+1.5,10,4,3,Sales Executive,Mumbai,Startup,Master,9.42
+5.7,12,2,2,Sales Executive,Chennai,Mid-size,Bachelor,9.34
+3.0,7,2,3,Data Scientist,Chandigarh,Enterprise,Bachelor,14.59
+3.8,15,1,3,Data Scientist,Chennai,Enterprise,Master,24.68
+16.8,6,1,3,ML Engineer,Bengaluru,Startup,Master,33.87
+8.4,5,0,4,Software Engineer,Mumbai,Mid-size,Diploma,18.52
+10.2,2,3,5,Software Engineer,Delhi NCR,Enterprise,Bachelor,22.24
+3.4,8,2,3,Data Scientist,Pune,Startup,Diploma,14.45
+4.9,4,1,3,Software Engineer,Mumbai,Enterprise,Master,19.31
+1.3,5,2,4,Data Analyst,Jaipur,Startup,Master,7.66
+1.4,11,2,4,Data Analyst,Jaipur,Enterprise,Master,9.47
+4.5,8,2,1,Software Engineer,Mumbai,Startup,Master,18.22
+0.4,14,1,3,HR Executive,Jaipur,Mid-size,Master,6.33
+14.2,3,1,4,ML Engineer,Chennai,Startup,Diploma,22.48
+4.0,10,1,3,ML Engineer,Jaipur,Startup,Diploma,15.52
+2.6,9,1,4,Data Analyst,Chandigarh,Enterprise,Bachelor,8.72
+6.5,8,1,3,Sales Executive,Pune,Enterprise,Master,11.46
+3.4,12,1,3,Product Manager,Chandigarh,Mid-size,Bachelor,21.17
+13.4,9,0,2,Data Analyst,Chandigarh,Mid-size,Bachelor,9.56
+7.8,6,1,3,Data Scientist,Chandigarh,Mid-size,Master,22.53
+1.8,8,1,2,DevOps Engineer,Mumbai,Startup,Bachelor,11.85
+4.8,5,1,4,Data Scientist,Jaipur,Startup,Bachelor,12.81
+5.2,8,1,2,ML Engineer,Hyderabad,Startup,Master,24.66
+4.2,5,1,2,HR Executive,Chandigarh,Enterprise,Master,7.57
+5.0,3,1,4,Product Manager,Bengaluru,Enterprise,Bachelor,29.63
+10.7,10,2,3,HR Executive,Hyderabad,Enterprise,Diploma,11.26
+11.0,15,1,1,Data Scientist,Jaipur,Mid-size,Bachelor,18.43
+1.6,14,1,4,DevOps Engineer,Pune,Enterprise,Diploma,15.37
+2.8,8,0,3,Data Analyst,Hyderabad,Startup,PhD,9.89
+1.7,2,2,4,Data Analyst,Chennai,Mid-size,Bachelor,8.4
+1.7,15,0,3,Data Scientist,Mumbai,Startup,Bachelor,17.02
+5.7,14,1,2,Software Engineer,Chennai,Enterprise,Bachelor,16.22
+16.0,10,0,1,Data Analyst,Pune,Startup,Bachelor,13.07
+5.7,15,1,4,ML Engineer,Chennai,Startup,Diploma,21.45
+1.7,2,0,4,Data Scientist,Chennai,Enterprise,PhD,22.42
+3.3,14,1,3,Software Engineer,Bengaluru,Enterprise,Diploma,13.72
+4.2,6,1,4,Data Scientist,Chandigarh,Startup,Bachelor,16.07
+3.5,14,1,3,Sales Executive,Mumbai,Mid-size,Diploma,8.05
+4.2,12,2,5,Data Scientist,Chandigarh,Mid-size,Bachelor,20.68
+5.2,5,1,4,ML Engineer,Pune,Startup,PhD,31.07
+4.8,14,1,3,Data Scientist,Chandigarh,Mid-size,Master,16.22
+4.4,13,0,2,Data Analyst,Chennai,Startup,Master,10.34
+7.5,7,3,4,HR Executive,Hyderabad,Enterprise,Bachelor,11.36
+3.8,14,1,2,Product Manager,Chennai,Startup,Master,25.58
+2.2,6,2,4,Software Engineer,Jaipur,Enterprise,Bachelor,13.27
+2.4,5,2,3,Sales Executive,Chennai,Startup,Bachelor,6.84
+5.6,13,1,3,Data Scientist,Jaipur,Enterprise,PhD,29.7
+4.5,9,2,5,Data Scientist,Bengaluru,Enterprise,Bachelor,27.88
+2.6,4,0,4,Data Analyst,Jaipur,Enterprise,Bachelor,8.82
+5.2,12,1,2,Data Scientist,Bengaluru,Mid-size,Bachelor,22.07
+1.6,13,1,1,Data Analyst,Chennai,Mid-size,Master,9.04
+13.2,13,1,4,DevOps Engineer,Pune,Enterprise,Master,30.09
+0.9,9,4,3,DevOps Engineer,Jaipur,Enterprise,Bachelor,13.23
+2.6,3,2,4,Data Analyst,Bengaluru,Mid-size,Diploma,7.58
+2.3,11,2,3,Data Analyst,Jaipur,Startup,Master,9.29
+3.1,12,0,3,HR Executive,Jaipur,Enterprise,Bachelor,6.92
+6.8,7,0,5,Software Engineer,Pune,Startup,Bachelor,15.99
+1.4,11,1,2,Software Engineer,Bengaluru,Mid-size,Bachelor,12.37
+3.4,5,4,3,Software Engineer,Delhi NCR,Mid-size,PhD,19.17
+2.3,15,1,2,Data Scientist,Chandigarh,Mid-size,Bachelor,14.36
+10.0,8,0,4,Product Manager,Mumbai,Startup,Bachelor,30.07
+3.5,2,0,3,Data Analyst,Delhi NCR,Startup,Master,9.78
+4.3,9,1,4,Data Analyst,Mumbai,Mid-size,Bachelor,10.83
+4.0,11,1,3,Software Engineer,Delhi NCR,Enterprise,Bachelor,17.69
+8.0,14,1,4,Data Analyst,Hyderabad,Enterprise,Master,19.12
+6.0,9,1,3,Software Engineer,Jaipur,Startup,Master,14.24
+2.4,6,1,3,DevOps Engineer,Jaipur,Startup,Diploma,9.69
+5.8,15,0,2,Sales Executive,Bengaluru,Mid-size,Bachelor,10.62
+2.0,12,1,4,Data Analyst,Bengaluru,Mid-size,Diploma,7.26
+7.9,15,0,1,DevOps Engineer,Pune,Mid-size,Master,19.06
+1.8,13,1,3,Sales Executive,Bengaluru,Mid-size,Master,11.02
+1.4,15,1,5,Sales Executive,Chennai,Mid-size,Master,9.17
+2.6,2,3,3,Sales Executive,Delhi NCR,Mid-size,Master,11.23
+1.8,7,1,3,Software Engineer,Hyderabad,Startup,Diploma,8.28
+5.1,14,0,4,DevOps Engineer,Chandigarh,Mid-size,Master,18.43
+1.4,2,1,3,Software Engineer,Hyderabad,Startup,Bachelor,11.17
+0.7,14,1,3,Data Scientist,Delhi NCR,Mid-size,Master,20.83
+2.4,7,0,5,Data Scientist,Jaipur,Startup,Master,15.8
+2.4,12,2,4,Data Scientist,Mumbai,Startup,Master,23.2
+3.6,13,1,3,Software Engineer,Delhi NCR,Startup,Bachelor,13.97
+1.9,13,0,2,Sales Executive,Pune,Mid-size,Bachelor,6.91
+2.7,15,2,2,Data Scientist,Mumbai,Mid-size,Bachelor,19.24
+2.7,7,0,3,Product Manager,Hyderabad,Mid-size,Bachelor,21.98
+6.0,2,0,4,Software Engineer,Jaipur,Mid-size,Master,16.31
+6.3,7,1,4,Data Scientist,Jaipur,Enterprise,Bachelor,20.21
+9.0,8,2,3,ML Engineer,Bengaluru,Mid-size,Diploma,28.95
+3.1,11,1,4,Data Analyst,Mumbai,Mid-size,Bachelor,10.77
+10.6,2,1,2,DevOps Engineer,Mumbai,Mid-size,Bachelor,23.07
+5.5,14,0,3,Software Engineer,Delhi NCR,Startup,Bachelor,17.44
+4.8,14,0,3,Sales Executive,Chennai,Enterprise,Bachelor,8.85
+17.2,4,1,2,Sales Executive,Pune,Startup,Bachelor,14.39
+9.0,4,2,3,HR Executive,Jaipur,Mid-size,Master,7.72
+1.8,12,2,2,ML Engineer,Delhi NCR,Mid-size,Bachelor,20.16
+12.7,11,2,4,DevOps Engineer,Delhi NCR,Enterprise,Diploma,20.58
+1.2,11,1,4,Product Manager,Chennai,Startup,Bachelor,18.31
+1.6,5,1,4,HR Executive,Delhi NCR,Enterprise,Diploma,6.79
+1.5,12,2,1,DevOps Engineer,Chennai,Startup,Bachelor,12.55
+1.9,11,1,2,Data Scientist,Hyderabad,Mid-size,Bachelor,16.6
+2.2,9,4,4,Software Engineer,Bengaluru,Mid-size,Diploma,13.83
+2.2,5,0,3,Product Manager,Jaipur,Enterprise,Master,24.95
+1.9,3,1,3,Software Engineer,Chandigarh,Enterprise,Bachelor,11.34
+8.1,5,1,3,Product Manager,Mumbai,Mid-size,Bachelor,31.2
+2.7,12,1,4,Data Analyst,Mumbai,Startup,Master,9.95
+1.6,14,2,3,Sales Executive,Jaipur,Mid-size,Diploma,5.09
+4.0,2,2,5,HR Executive,Delhi NCR,Enterprise,Master,9.96
+5.7,2,3,3,ML Engineer,Bengaluru,Mid-size,Bachelor,21.88
+3.7,13,0,3,Software Engineer,Chandigarh,Mid-size,Bachelor,12.53
+3.3,9,1,4,Data Analyst,Jaipur,Mid-size,Master,9.59
+14.6,12,0,4,HR Executive,Pune,Enterprise,Master,15.03
+6.5,3,1,3,ML Engineer,Jaipur,Mid-size,Bachelor,23.42
+13.0,5,0,4,DevOps Engineer,Mumbai,Mid-size,Bachelor,22.65
+2.0,2,1,4,ML Engineer,Jaipur,Startup,Bachelor,15.64
+15.0,6,1,4,Data Analyst,Pune,Mid-size,Bachelor,15.22
+4.8,9,1,3,HR Executive,Delhi NCR,Startup,Master,10.0
+7.1,7,1,3,Software Engineer,Delhi NCR,Enterprise,Master,22.7
+5.1,5,0,4,Data Analyst,Delhi NCR,Enterprise,Bachelor,12.18
+6.2,12,1,3,Data Scientist,Jaipur,Mid-size,Master,20.73
+0.7,13,0,4,HR Executive,Hyderabad,Startup,Diploma,5.92
+4.2,14,2,4,ML Engineer,Bengaluru,Mid-size,Bachelor,26.96
+9.7,14,2,4,HR Executive,Hyderabad,Startup,PhD,14.34
+10.9,12,0,3,Sales Executive,Chennai,Enterprise,Bachelor,11.14
+1.9,4,3,3,Software Engineer,Mumbai,Startup,Diploma,10.55
+12.0,9,2,4,Software Engineer,Delhi NCR,Mid-size,Master,26.99
+9.0,10,0,2,Software Engineer,Mumbai,Startup,Bachelor,14.86
+7.2,10,2,3,DevOps Engineer,Jaipur,Startup,Master,19.99
+9.0,5,2,3,Data Scientist,Chennai,Mid-size,Bachelor,18.73
+0.5,12,0,4,DevOps Engineer,Chandigarh,Enterprise,Master,14.16
+6.7,5,0,3,ML Engineer,Bengaluru,Startup,Master,30.13
+4.2,5,4,4,Software Engineer,Chennai,Startup,Master,16.3
+7.7,14,0,3,ML Engineer,Chennai,Mid-size,Master,31.19
+9.0,13,0,2,Software Engineer,Mumbai,Startup,Diploma,14.53
+9.0,8,0,4,Software Engineer,Mumbai,Enterprise,Master,27.58
+3.0,2,3,3,ML Engineer,Jaipur,Startup,Bachelor,13.61
+4.6,11,2,4,Software Engineer,Jaipur,Startup,Bachelor,11.4
+6.3,12,1,2,DevOps Engineer,Pune,Enterprise,Bachelor,17.56
+0.6,15,3,3,Product Manager,Pune,Mid-size,Bachelor,20.27
+5.9,7,0,3,Software Engineer,Delhi NCR,Startup,Bachelor,15.49
+2.2,6,1,3,Software Engineer,Bengaluru,Mid-size,Bachelor,10.98
+4.3,5,0,4,Data Scientist,Chandigarh,Startup,Bachelor,17.72
+4.7,12,2,3,HR Executive,Bengaluru,Mid-size,Bachelor,9.7
+3.2,11,4,4,Data Scientist,Delhi NCR,Enterprise,Bachelor,20.66
+4.3,8,2,4,ML Engineer,Delhi NCR,Mid-size,Master,29.9
+1.4,7,1,5,HR Executive,Mumbai,Mid-size,Master,9.78
+5.3,8,1,1,ML Engineer,Jaipur,Mid-size,Bachelor,17.82
+2.0,9,1,5,Software Engineer,Jaipur,Enterprise,Bachelor,12.17
+4.4,10,1,3,Sales Executive,Chennai,Mid-size,Bachelor,9.38
+7.1,11,1,5,Software Engineer,Jaipur,Startup,Bachelor,14.82
+2.7,12,1,3,Software Engineer,Mumbai,Mid-size,Bachelor,14.7
+1.4,11,2,2,Data Scientist,Bengaluru,Startup,Bachelor,18.37
+4.6,2,1,4,Data Analyst,Jaipur,Startup,Bachelor,6.25
+2.5,11,2,3,Software Engineer,Chandigarh,Startup,Master,12.2
+3.2,4,1,1,ML Engineer,Pune,Startup,Diploma,14.45
+2.6,6,2,3,Product Manager,Pune,Enterprise,Master,30.37
+1.3,13,1,3,Data Scientist,Pune,Enterprise,PhD,19.75
+2.1,7,1,2,Software Engineer,Hyderabad,Enterprise,Master,19.43
+5.4,7,2,3,Software Engineer,Bengaluru,Enterprise,Bachelor,18.49
+10.0,14,0,3,Sales Executive,Chandigarh,Mid-size,Bachelor,9.74
+2.3,6,1,3,Software Engineer,Bengaluru,Mid-size,Bachelor,15.15
+4.3,5,1,5,Software Engineer,Pune,Startup,Bachelor,13.65
+3.8,15,0,4,HR Executive,Delhi NCR,Mid-size,Bachelor,9.11
+3.0,4,0,3,Data Analyst,Pune,Mid-size,Bachelor,7.36
+15.5,13,0,3,Sales Executive,Chandigarh,Mid-size,Bachelor,11.07
+2.6,7,1,4,Software Engineer,Hyderabad,Mid-size,Bachelor,11.59
+1.9,12,1,5,ML Engineer,Jaipur,Mid-size,Master,19.88
+3.0,14,1,3,Data Analyst,Mumbai,Mid-size,Diploma,8.88
+5.0,11,1,2,HR Executive,Mumbai,Startup,Bachelor,7.96
+2.6,5,1,3,Data Analyst,Pune,Mid-size,Bachelor,6.44
+2.3,12,0,3,Product Manager,Chandigarh,Enterprise,Master,29.62
+9.6,14,3,3,Software Engineer,Hyderabad,Startup,Bachelor,17.48
+2.0,6,2,5,Software Engineer,Mumbai,Startup,Bachelor,13.9
+5.2,12,0,3,Sales Executive,Chennai,Startup,Master,9.52
+10.1,15,1,3,Sales Executive,Jaipur,Mid-size,Bachelor,9.75
+1.2,11,2,3,Software Engineer,Jaipur,Mid-size,Bachelor,9.04
+7.7,12,2,5,Software Engineer,Chandigarh,Enterprise,Diploma,14.75
+8.8,14,2,5,HR Executive,Mumbai,Startup,Diploma,10.3
+17.8,12,0,3,Data Scientist,Pune,Mid-size,Master,34.92
+17.4,11,0,2,Sales Executive,Chennai,Mid-size,Bachelor,14.04
+9.5,12,2,5,Software Engineer,Pune,Enterprise,Bachelor,20.9
+2.9,15,1,3,ML Engineer,Chennai,Startup,Bachelor,19.97
+14.4,7,2,3,Data Scientist,Chandigarh,Startup,Bachelor,23.38
+5.6,2,2,5,Software Engineer,Hyderabad,Startup,Bachelor,15.84
+6.3,9,1,4,Sales Executive,Jaipur,Enterprise,Bachelor,8.48
+5.2,13,0,2,Software Engineer,Mumbai,Mid-size,Bachelor,17.63
+4.2,5,1,2,Data Scientist,Chandigarh,Enterprise,Master,17.33
+6.7,14,1,4,Sales Executive,Hyderabad,Mid-size,Bachelor,12.69
+4.1,11,1,4,Data Scientist,Delhi NCR,Enterprise,Bachelor,22.15
+2.3,6,0,4,Data Scientist,Jaipur,Enterprise,Bachelor,16.59
+4.9,2,0,3,Data Scientist,Delhi NCR,Startup,Bachelor,17.53
+1.8,14,1,2,ML Engineer,Delhi NCR,Mid-size,PhD,27.23
+1.3,9,1,4,Data Scientist,Jaipur,Startup,Bachelor,11.98
+2.6,4,0,4,Data Scientist,Bengaluru,Mid-size,Bachelor,21.43
+7.5,14,0,4,ML Engineer,Chandigarh,Mid-size,Master,29.02
+6.8,13,0,5,Data Scientist,Chandigarh,Startup,Bachelor,21.61
+6.5,11,1,3,Data Analyst,Mumbai,Mid-size,Bachelor,10.82
+4.6,6,0,3,Sales Executive,Mumbai,Mid-size,Master,11.84
+4.7,5,0,2,Data Scientist,Hyderabad,Mid-size,Bachelor,20.96
+10.5,3,1,3,Data Scientist,Mumbai,Startup,Bachelor,23.83
+4.6,15,0,4,Data Analyst,Mumbai,Mid-size,Bachelor,10.9
+3.4,13,1,3,HR Executive,Mumbai,Enterprise,Master,10.05
+5.3,15,0,3,Data Scientist,Pune,Startup,Bachelor,15.55
+1.2,4,0,4,Product Manager,Mumbai,Mid-size,Master,23.66
+5.7,13,1,3,DevOps Engineer,Delhi NCR,Enterprise,Master,24.92
+5.1,13,3,3,Data Analyst,Chennai,Mid-size,Bachelor,9.83
+2.2,11,1,2,HR Executive,Hyderabad,Startup,Diploma,5.29
+3.1,12,0,3,Product Manager,Hyderabad,Startup,Master,26.52
+5.5,10,1,2,HR Executive,Hyderabad,Mid-size,Master,9.33
+1.5,8,1,4,Data Analyst,Jaipur,Startup,Bachelor,6.77
+2.1,11,1,3,Software Engineer,Jaipur,Startup,Bachelor,10.04
+8.5,4,0,2,Software Engineer,Delhi NCR,Mid-size,Bachelor,14.13
+0.3,8,2,3,Data Scientist,Mumbai,Mid-size,Diploma,15.08
+0.6,10,1,4,ML Engineer,Chandigarh,Mid-size,Diploma,12.57
+12.5,10,1,3,Product Manager,Chandigarh,Startup,Bachelor,23.21
+8.0,6,0,1,Data Scientist,Chennai,Enterprise,Diploma,17.95
+3.6,3,1,3,Data Scientist,Jaipur,Startup,Diploma,11.08
+1.0,5,0,3,ML Engineer,Bengaluru,Enterprise,Bachelor,19.74
+5.3,15,1,3,Data Analyst,Jaipur,Mid-size,Master,10.04
+8.6,8,2,4,Software Engineer,Hyderabad,Startup,Master,19.26
+2.2,2,3,3,Data Analyst,Jaipur,Mid-size,Diploma,5.93
+18.4,8,1,3,Data Scientist,Chandigarh,Mid-size,Master,27.84
+5.4,11,1,4,ML Engineer,Bengaluru,Enterprise,Bachelor,35.52
+2.2,15,1,3,ML Engineer,Chandigarh,Mid-size,Bachelor,14.5
+8.0,15,1,4,Data Analyst,Hyderabad,Mid-size,Bachelor,12.28
+2.6,13,1,3,Sales Executive,Jaipur,Enterprise,PhD,8.91
+3.4,10,0,3,Data Scientist,Bengaluru,Startup,Master,19.83
+2.4,5,0,3,HR Executive,Mumbai,Mid-size,Diploma,6.13
+2.7,5,1,2,Sales Executive,Hyderabad,Startup,Master,7.92
+4.4,9,1,4,Software Engineer,Hyderabad,Mid-size,Bachelor,13.99
+4.3,11,0,3,Software Engineer,Delhi NCR,Mid-size,Bachelor,13.29
+4.3,13,0,4,Data Scientist,Delhi NCR,Mid-size,Bachelor,21.44
+1.1,11,1,4,Data Analyst,Delhi NCR,Startup,Master,8.88
+12.3,13,3,2,Data Analyst,Mumbai,Enterprise,Bachelor,15.15
+4.9,2,1,2,Data Analyst,Chennai,Enterprise,Bachelor,9.56
+3.0,5,2,3,Software Engineer,Mumbai,Startup,Master,15.39
+2.2,15,2,4,Data Scientist,Mumbai,Enterprise,Bachelor,23.21
+11.3,7,2,4,Software Engineer,Mumbai,Startup,Bachelor,21.43
+12.7,2,1,4,Sales Executive,Jaipur,Mid-size,Master,10.91
+12.5,7,0,5,Sales Executive,Mumbai,Enterprise,Bachelor,17.56
+3.7,14,2,3,Software Engineer,Bengaluru,Mid-size,Master,15.68
+1.0,9,1,4,Sales Executive,Bengaluru,Mid-size,Master,9.3
+5.1,4,2,3,Sales Executive,Jaipur,Mid-size,PhD,10.07
+1.7,12,3,3,Data Analyst,Mumbai,Enterprise,Bachelor,10.44
+9.5,4,1,4,Data Analyst,Delhi NCR,Startup,Bachelor,11.76
+0.7,13,1,3,Data Analyst,Delhi NCR,Startup,Bachelor,8.05
+4.6,8,0,2,Data Analyst,Mumbai,Enterprise,Master,11.4
+3.7,2,0,4,ML Engineer,Mumbai,Enterprise,Bachelor,23.57
+18.1,15,1,4,Sales Executive,Chennai,Startup,Bachelor,14.85
+7.3,11,0,4,Sales Executive,Jaipur,Mid-size,PhD,10.8
+4.1,15,1,4,Sales Executive,Hyderabad,Enterprise,Master,11.91
+3.8,14,3,4,Sales Executive,Chennai,Startup,Bachelor,8.2
+10.7,13,0,5,Data Scientist,Jaipur,Startup,Bachelor,25.2
+3.6,11,2,5,Software Engineer,Jaipur,Enterprise,Bachelor,13.96
+1.1,3,1,3,Software Engineer,Bengaluru,Startup,Bachelor,12.26
+1.7,5,0,4,Data Analyst,Delhi NCR,Startup,Bachelor,6.91
+1.4,4,1,4,DevOps Engineer,Bengaluru,Enterprise,Bachelor,16.39
+11.5,10,3,5,Product Manager,Pune,Startup,Bachelor,40.62
+2.6,9,2,4,ML Engineer,Delhi NCR,Mid-size,Bachelor,22.35
+2.7,3,1,3,ML Engineer,Delhi NCR,Mid-size,Master,21.02
+3.0,4,0,3,Data Scientist,Jaipur,Mid-size,Bachelor,12.34
+15.3,13,3,3,Sales Executive,Jaipur,Mid-size,Diploma,8.99
+6.5,2,0,3,Software Engineer,Mumbai,Enterprise,Master,20.99
+9.3,8,2,4,Data Scientist,Pune,Startup,Bachelor,26.22
+13.3,5,2,4,Sales Executive,Chennai,Mid-size,Diploma,10.45
+2.4,4,2,4,Data Analyst,Chandigarh,Enterprise,Bachelor,7.65
+3.5,7,2,3,Product Manager,Bengaluru,Mid-size,Bachelor,25.9
+3.1,7,1,4,Product Manager,Chandigarh,Startup,Diploma,19.14
+6.3,9,0,3,Data Scientist,Chandigarh,Startup,Master,21.68
+4.0,4,2,2,Data Analyst,Pune,Enterprise,Bachelor,8.4
+4.6,8,1,4,HR Executive,Hyderabad,Mid-size,PhD,11.7
+3.5,4,2,2,Data Scientist,Pune,Enterprise,Master,19.43
+0.9,7,1,3,DevOps Engineer,Chandigarh,Startup,Master,13.02
+9.1,14,1,3,Product Manager,Delhi NCR,Mid-size,Bachelor,41.77
+4.2,7,0,4,HR Executive,Hyderabad,Startup,Bachelor,7.72
+6.0,10,0,4,Data Scientist,Bengaluru,Mid-size,Bachelor,27.72
+2.5,2,2,3,Software Engineer,Mumbai,Startup,Bachelor,14.08
+5.8,9,2,4,Software Engineer,Hyderabad,Enterprise,Bachelor,20.45
+7.9,14,1,4,Software Engineer,Mumbai,Mid-size,Bachelor,22.39
+2.4,13,1,3,Data Analyst,Pune,Mid-size,Bachelor,9.3
+9.2,2,0,4,Data Analyst,Hyderabad,Mid-size,Bachelor,10.77
+0.8,12,1,2,Data Scientist,Jaipur,Startup,Diploma,9.51
+7.0,10,2,4,Data Scientist,Delhi NCR,Startup,Diploma,20.29
+3.3,13,1,3,HR Executive,Chennai,Enterprise,Bachelor,8.13
+4.0,15,0,2,Sales Executive,Bengaluru,Mid-size,Bachelor,8.53
+2.3,12,2,4,Data Analyst,Pune,Startup,Bachelor,8.84
+9.8,2,0,3,Data Scientist,Chennai,Mid-size,Master,24.89
+0.7,5,1,4,Data Analyst,Chennai,Enterprise,Bachelor,7.14
+4.7,10,1,2,Software Engineer,Mumbai,Enterprise,Diploma,14.02
+0.4,4,1,5,Software Engineer,Pune,Enterprise,Master,13.69
+3.1,9,1,4,HR Executive,Bengaluru,Enterprise,Master,11.55
+17.2,4,1,4,Data Scientist,Hyderabad,Mid-size,Bachelor,29.89
+6.2,8,1,4,HR Executive,Pune,Startup,Bachelor,8.52
+1.8,12,0,4,Data Analyst,Pune,Startup,Master,8.34
+8.2,8,3,3,Sales Executive,Hyderabad,Enterprise,Bachelor,12.32
+11.5,11,0,4,Data Analyst,Jaipur,Mid-size,Master,13.56
+4.6,13,0,3,ML Engineer,Hyderabad,Startup,Bachelor,21.63
+5.9,8,1,4,Data Analyst,Jaipur,Mid-size,Master,11.64
+0.4,10,1,4,ML Engineer,Jaipur,Mid-size,PhD,19.88
+1.7,11,1,4,Product Manager,Chennai,Startup,Bachelor,19.08
+3.0,7,1,5,HR Executive,Mumbai,Startup,PhD,11.29
+3.2,8,3,3,Software Engineer,Chandigarh,Mid-size,Master,12.92
+1.4,4,3,4,Data Analyst,Chandigarh,Mid-size,Bachelor,6.12
+8.3,11,2,3,ML Engineer,Chennai,Mid-size,Bachelor,27.11
+5.5,13,2,4,Data Analyst,Bengaluru,Enterprise,Bachelor,14.19
+5.8,15,2,4,Software Engineer,Pune,Mid-size,Bachelor,13.86
+1.6,4,4,2,ML Engineer,Hyderabad,Enterprise,Bachelor,20.56
+4.5,13,2,4,Software Engineer,Delhi NCR,Mid-size,PhD,23.22
+2.0,9,2,4,DevOps Engineer,Chennai,Mid-size,Bachelor,13.89
+2.1,10,1,2,DevOps Engineer,Mumbai,Startup,Diploma,9.7
+4.1,14,1,3,Sales Executive,Delhi NCR,Startup,Bachelor,8.36
+4.6,10,3,4,Software Engineer,Chandigarh,Startup,Bachelor,11.97
+3.8,4,2,3,Data Scientist,Chandigarh,Mid-size,PhD,19.82
+3.4,14,2,5,Sales Executive,Delhi NCR,Startup,Bachelor,9.65
+2.1,14,2,4,Software Engineer,Mumbai,Mid-size,Master,20.03
+0.8,10,4,2,ML Engineer,Mumbai,Mid-size,Master,22.45
+2.7,9,1,4,ML Engineer,Mumbai,Mid-size,Bachelor,23.92
+5.8,11,1,3,Software Engineer,Chennai,Startup,Bachelor,12.93
+10.6,14,0,5,Software Engineer,Hyderabad,Enterprise,Bachelor,24.6
+3.2,12,1,3,HR Executive,Mumbai,Mid-size,Bachelor,8.36
+8.4,15,0,4,Product Manager,Jaipur,Mid-size,Bachelor,30.84
+3.1,11,1,4,DevOps Engineer,Mumbai,Startup,Bachelor,16.13
+3.6,13,1,4,HR Executive,Mumbai,Mid-size,PhD,12.24
+2.6,3,1,2,Data Analyst,Delhi NCR,Startup,Bachelor,8.01
+3.5,5,0,3,Sales Executive,Chennai,Startup,Bachelor,7.09
+2.4,8,0,4,Data Analyst,Chennai,Enterprise,Bachelor,8.72
+2.4,3,1,4,Sales Executive,Bengaluru,Enterprise,Master,10.21
+3.2,6,2,4,ML Engineer,Pune,Mid-size,Bachelor,21.35
+2.9,6,4,2,Software Engineer,Chandigarh,Mid-size,Bachelor,11.17
+2.9,14,0,3,Software Engineer,Chandigarh,Mid-size,Bachelor,11.02
+3.0,12,3,2,Sales Executive,Hyderabad,Enterprise,Master,9.78
+5.3,11,0,3,Software Engineer,Pune,Startup,Bachelor,16.69
+5.2,11,2,2,DevOps Engineer,Pune,Startup,Bachelor,14.89
+7.5,8,1,5,Software Engineer,Chennai,Mid-size,Bachelor,14.82
+5.0,7,4,1,ML Engineer,Bengaluru,Startup,Master,24.82
+9.2,10,2,5,Sales Executive,Chennai,Startup,Bachelor,8.84
+5.3,4,1,3,DevOps Engineer,Chennai,Startup,Master,15.46
+5.0,3,1,3,Software Engineer,Delhi NCR,Startup,Bachelor,14.22
+5.1,10,0,2,Data Analyst,Pune,Mid-size,Master,10.0
+4.8,8,2,5,Software Engineer,Pune,Mid-size,Master,15.76
+7.1,11,2,5,Software Engineer,Hyderabad,Mid-size,Master,21.84
+5.8,4,1,3,Data Scientist,Hyderabad,Enterprise,Bachelor,21.41
+6.0,3,0,3,HR Executive,Hyderabad,Mid-size,Bachelor,7.89
+2.0,11,0,3,Data Analyst,Mumbai,Mid-size,Bachelor,9.82
+2.1,3,1,3,Software Engineer,Bengaluru,Enterprise,Master,16.22
+6.3,6,2,2,Data Analyst,Chandigarh,Startup,Bachelor,8.54
+8.9,7,0,2,HR Executive,Pune,Startup,Bachelor,7.94
+3.3,3,2,3,DevOps Engineer,Bengaluru,Mid-size,Bachelor,17.95
+5.0,4,1,1,Software Engineer,Hyderabad,Startup,Bachelor,12.01
+6.3,9,0,1,Data Scientist,Hyderabad,Mid-size,Bachelor,18.13
+4.4,10,1,3,Software Engineer,Jaipur,Mid-size,Bachelor,15.05
+0.4,6,1,3,HR Executive,Delhi NCR,Enterprise,Master,8.38
+7.7,6,0,4,Product Manager,Delhi NCR,Mid-size,Master,34.51
+8.2,4,0,3,Software Engineer,Chandigarh,Startup,Diploma,10.4
+4.4,11,0,4,ML Engineer,Delhi NCR,Startup,Bachelor,24.61
+4.0,3,1,4,Software Engineer,Hyderabad,Startup,Diploma,12.05
+1.2,11,1,3,Product Manager,Chennai,Startup,Master,22.49
+6.2,14,0,4,Data Scientist,Bengaluru,Mid-size,Bachelor,28.01
+2.8,2,1,3,Sales Executive,Mumbai,Enterprise,Bachelor,8.4
+4.4,13,1,3,HR Executive,Hyderabad,Startup,Master,9.07
+3.8,12,2,2,ML Engineer,Jaipur,Startup,Bachelor,18.09
+2.2,6,2,4,Data Scientist,Pune,Enterprise,Master,21.03
+4.4,9,1,3,Sales Executive,Bengaluru,Startup,Diploma,6.49
+5.0,15,2,4,DevOps Engineer,Chandigarh,Enterprise,Master,20.54
+1.9,11,2,4,Data Analyst,Mumbai,Mid-size,Diploma,8.75
+11.1,2,2,3,Data Analyst,Mumbai,Mid-size,PhD,17.78
+0.3,3,0,4,Product Manager,Bengaluru,Mid-size,Bachelor,23.54
+2.9,8,2,5,Data Analyst,Chandigarh,Enterprise,Master,9.53
+4.4,7,1,3,Sales Executive,Chennai,Enterprise,Bachelor,8.33
+13.9,5,1,5,DevOps Engineer,Chandigarh,Enterprise,Master,25.92
+8.7,8,1,4,Data Scientist,Bengaluru,Startup,Diploma,20.49
+3.9,14,2,3,Software Engineer,Chandigarh,Mid-size,Bachelor,13.45
+3.1,15,0,5,ML Engineer,Chandigarh,Startup,Master,20.78
+8.2,14,2,3,Sales Executive,Delhi NCR,Enterprise,Bachelor,14.04
+3.0,9,0,4,Software Engineer,Delhi NCR,Startup,Bachelor,13.12
+2.5,3,0,5,Data Analyst,Pune,Startup,Master,8.78
+2.1,4,2,3,DevOps Engineer,Bengaluru,Enterprise,Bachelor,16.48
+3.9,15,0,3,Data Scientist,Mumbai,Mid-size,Master,29.07
+5.6,4,3,4,Data Scientist,Bengaluru,Enterprise,Master,28.53
+4.6,5,0,3,Software Engineer,Chennai,Startup,Diploma,9.63
+13.9,5,1,4,Data Scientist,Hyderabad,Mid-size,Bachelor,28.92
+0.9,13,0,3,HR Executive,Chandigarh,Mid-size,Master,6.79
+5.5,2,1,5,Software Engineer,Hyderabad,Startup,Master,17.06
+4.9,11,1,3,Data Scientist,Hyderabad,Mid-size,Bachelor,22.11
+5.9,14,1,5,ML Engineer,Delhi NCR,Mid-size,Master,35.74
+2.7,8,1,3,ML Engineer,Delhi NCR,Mid-size,Bachelor,22.24
+2.9,15,2,3,Software Engineer,Mumbai,Startup,Bachelor,14.27
+4.6,10,1,3,ML Engineer,Bengaluru,Mid-size,Master,30.44
+3.5,7,3,5,DevOps Engineer,Chandigarh,Enterprise,Master,16.62
+9.1,8,1,5,DevOps Engineer,Hyderabad,Mid-size,Bachelor,23.29
+0.6,11,0,3,Software Engineer,Hyderabad,Startup,Master,14.83
+5.9,6,0,4,Data Scientist,Jaipur,Enterprise,Bachelor,18.8
+1.6,3,2,4,HR Executive,Pune,Mid-size,Bachelor,6.11
+1.1,2,0,4,Software Engineer,Chandigarh,Enterprise,Bachelor,10.54
+9.4,4,0,4,DevOps Engineer,Delhi NCR,Enterprise,Bachelor,22.68
+1.2,13,1,3,Data Analyst,Hyderabad,Mid-size,Master,10.13
+4.5,7,1,1,Software Engineer,Delhi NCR,Startup,PhD,16.29
+5.6,7,0,3,Software Engineer,Chennai,Enterprise,Bachelor,13.46
+6.6,7,1,1,DevOps Engineer,Hyderabad,Mid-size,Master,20.35
+2.1,13,0,2,Data Scientist,Hyderabad,Mid-size,Diploma,11.63
+3.6,4,0,3,HR Executive,Chennai,Enterprise,Master,8.43
+4.3,6,1,5,Data Analyst,Chennai,Mid-size,Bachelor,10.59
+5.4,14,0,5,ML Engineer,Chandigarh,Mid-size,Bachelor,25.28
+6.6,2,0,4,HR Executive,Delhi NCR,Mid-size,Master,8.76
+7.2,4,0,3,Product Manager,Pune,Startup,Master,27.61
+5.0,3,0,1,HR Executive,Chennai,Enterprise,Bachelor,6.59
+4.9,5,0,3,Software Engineer,Delhi NCR,Mid-size,Master,16.65
+1.8,2,1,4,DevOps Engineer,Jaipur,Startup,PhD,12.48
+3.4,9,3,4,Data Scientist,Hyderabad,Mid-size,Master,22.44
+10.0,10,0,2,ML Engineer,Chandigarh,Mid-size,Bachelor,24.45
+4.5,14,2,3,Data Scientist,Hyderabad,Mid-size,Bachelor,21.39
+8.8,13,1,2,Data Scientist,Chandigarh,Mid-size,Master,21.28
+3.8,4,2,4,DevOps Engineer,Pune,Mid-size,Bachelor,13.26
+3.7,4,3,3,HR Executive,Hyderabad,Enterprise,Bachelor,8.32
+8.4,9,1,3,Software Engineer,Pune,Enterprise,Master,23.37
+3.7,3,1,4,Software Engineer,Pune,Startup,Bachelor,11.45
+6.2,6,0,4,HR Executive,Pune,Enterprise,Bachelor,8.81
+3.0,6,1,3,Software Engineer,Bengaluru,Mid-size,Master,17.78
+3.6,7,2,2,Data Analyst,Bengaluru,Enterprise,Bachelor,12.84
+4.0,15,1,3,Product Manager,Chennai,Startup,PhD,32.45
+1.3,6,0,5,Data Scientist,Hyderabad,Mid-size,Bachelor,17.91
+11.1,14,1,4,Software Engineer,Mumbai,Startup,Master,23.55
+1.6,12,1,3,DevOps Engineer,Chennai,Enterprise,Master,18.14
+4.3,9,0,2,Data Scientist,Pune,Enterprise,Bachelor,20.39
+7.9,15,2,4,HR Executive,Mumbai,Startup,Master,13.16
+1.0,13,2,2,Product Manager,Mumbai,Enterprise,Master,27.3
+2.7,5,1,2,Data Scientist,Jaipur,Mid-size,Bachelor,12.56
+5.6,15,0,3,HR Executive,Chandigarh,Enterprise,Bachelor,8.4
+1.6,11,2,4,DevOps Engineer,Chandigarh,Mid-size,Master,14.3
+1.9,7,0,3,Data Analyst,Jaipur,Mid-size,Master,7.8
+3.4,8,1,2,Software Engineer,Pune,Startup,Master,13.71
+15.5,8,0,3,HR Executive,Hyderabad,Mid-size,Master,14.56
+5.5,8,1,3,Software Engineer,Jaipur,Mid-size,Bachelor,13.0
+6.3,5,0,4,Data Scientist,Pune,Mid-size,Bachelor,21.05
+3.9,15,2,5,ML Engineer,Pune,Enterprise,Bachelor,28.82
+4.0,14,0,2,Data Analyst,Jaipur,Mid-size,Diploma,7.54
+7.0,8,2,2,HR Executive,Bengaluru,Enterprise,Bachelor,10.34
+0.8,7,1,4,ML Engineer,Jaipur,Mid-size,Bachelor,15.03
+4.9,6,1,4,Product Manager,Bengaluru,Mid-size,Master,33.95
+3.2,2,1,3,Product Manager,Jaipur,Startup,Bachelor,16.18
+2.8,12,0,3,Product Manager,Pune,Mid-size,Bachelor,22.75
+3.1,11,1,3,Data Scientist,Bengaluru,Enterprise,Master,26.64
+12.8,15,1,3,ML Engineer,Mumbai,Enterprise,Master,47.18
+4.8,5,2,4,Software Engineer,Bengaluru,Startup,Bachelor,14.12
+1.7,3,0,2,DevOps Engineer,Mumbai,Mid-size,Bachelor,11.98
+5.7,10,1,4,DevOps Engineer,Hyderabad,Enterprise,Bachelor,22.22
+4.7,9,1,4,Data Scientist,Delhi NCR,Enterprise,PhD,32.71
+7.7,12,3,2,Software Engineer,Pune,Startup,Diploma,14.1
+2.9,4,2,3,ML Engineer,Bengaluru,Mid-size,Diploma,16.82
+5.8,13,0,3,Product Manager,Delhi NCR,Enterprise,Bachelor,32.66
+2.7,14,1,5,Software Engineer,Hyderabad,Mid-size,Bachelor,16.3
+4.2,14,2,4,Software Engineer,Hyderabad,Mid-size,Bachelor,15.55
+11.0,12,2,1,ML Engineer,Delhi NCR,Mid-size,Bachelor,33.74
+1.6,10,0,3,Data Analyst,Bengaluru,Enterprise,Master,11.15
+1.0,7,3,1,ML Engineer,Hyderabad,Enterprise,Bachelor,19.49
+8.4,6,0,5,Sales Executive,Mumbai,Startup,PhD,15.37
+2.9,6,0,4,Data Scientist,Delhi NCR,Enterprise,Master,22.15
+2.4,3,1,3,Software Engineer,Chandigarh,Startup,Bachelor,11.04
+7.5,6,0,3,Product Manager,Delhi NCR,Enterprise,Bachelor,30.66
+2.1,12,2,5,Data Analyst,Jaipur,Startup,Master,8.1
+6.3,11,1,5,Data Scientist,Jaipur,Mid-size,PhD,23.72
+2.3,8,2,4,DevOps Engineer,Mumbai,Startup,Bachelor,16.69
+2.1,5,2,3,ML Engineer,Pune,Startup,Bachelor,16.07
+4.4,2,2,1,DevOps Engineer,Mumbai,Enterprise,Bachelor,16.58
+5.7,3,2,3,HR Executive,Pune,Mid-size,Bachelor,7.93
+1.3,9,1,5,Software Engineer,Pune,Mid-size,Master,15.64
+2.1,4,1,4,Product Manager,Chandigarh,Mid-size,Bachelor,18.3
+3.4,9,2,3,Sales Executive,Delhi NCR,Mid-size,Bachelor,8.65
+10.5,15,2,4,Software Engineer,Jaipur,Enterprise,Diploma,18.06
+4.1,13,1,4,Software Engineer,Chandigarh,Startup,Master,14.74
+4.8,9,1,3,HR Executive,Jaipur,Enterprise,Bachelor,8.27
+2.6,11,0,5,Software Engineer,Chandigarh,Mid-size,PhD,17.09
+2.7,4,2,4,Data Scientist,Delhi NCR,Startup,Master,21.99
+3.5,6,0,3,Product Manager,Jaipur,Enterprise,Bachelor,21.69
+1.8,12,0,4,Software Engineer,Delhi NCR,Startup,Bachelor,13.62
+5.2,15,1,3,Software Engineer,Mumbai,Mid-size,Master,20.95
+3.0,13,2,2,Data Analyst,Delhi NCR,Enterprise,Bachelor,11.15
+4.4,3,1,2,HR Executive,Chennai,Mid-size,Diploma,5.55
+8.8,15,1,3,Software Engineer,Jaipur,Mid-size,Master,17.51
+2.5,4,0,4,Product Manager,Mumbai,Enterprise,Master,33.87
+3.1,7,2,3,Product Manager,Chennai,Mid-size,Bachelor,21.68
+5.8,12,2,2,HR Executive,Pune,Mid-size,Bachelor,7.58
+7.6,15,1,3,DevOps Engineer,Bengaluru,Mid-size,Diploma,20.01
+1.8,10,1,3,Software Engineer,Pune,Enterprise,Master,19.45
+1.6,14,0,5,ML Engineer,Chennai,Enterprise,Bachelor,24.22
+1.5,13,2,4,ML Engineer,Chennai,Mid-size,Bachelor,22.0
+4.5,7,0,3,Data Analyst,Jaipur,Enterprise,PhD,13.68
+11.9,10,1,2,DevOps Engineer,Bengaluru,Enterprise,PhD,32.35
+9.3,12,0,3,Data Analyst,Bengaluru,Startup,PhD,16.49
+1.8,9,1,4,ML Engineer,Delhi NCR,Startup,Bachelor,21.02
+2.6,5,1,2,Data Analyst,Chennai,Mid-size,Bachelor,8.17
+3.5,10,0,3,Data Scientist,Pune,Mid-size,Master,19.6
+6.1,3,1,3,Software Engineer,Bengaluru,Mid-size,Master,19.83
+10.2,9,2,3,DevOps Engineer,Delhi NCR,Mid-size,Master,23.87
+4.4,2,0,2,Product Manager,Hyderabad,Mid-size,Bachelor,26.16
+8.3,6,0,2,Data Analyst,Pune,Mid-size,Bachelor,11.4
+8.9,4,0,3,HR Executive,Jaipur,Enterprise,Bachelor,7.91
+1.8,5,2,4,Software Engineer,Delhi NCR,Mid-size,Bachelor,12.97
+2.7,14,0,2,HR Executive,Chandigarh,Mid-size,Bachelor,6.38
+4.9,7,1,3,Product Manager,Jaipur,Enterprise,Diploma,17.76
+1.7,2,0,3,Software Engineer,Chandigarh,Startup,Bachelor,8.79
+0.3,6,1,2,Data Analyst,Delhi NCR,Mid-size,Bachelor,7.33
+1.5,13,1,4,Sales Executive,Jaipur,Startup,Bachelor,6.05
+3.5,6,0,4,Product Manager,Mumbai,Mid-size,Bachelor,26.65
+4.1,6,1,5,Sales Executive,Jaipur,Enterprise,Master,9.57
+6.3,14,0,4,ML Engineer,Bengaluru,Mid-size,Bachelor,29.97
+4.4,13,1,4,Sales Executive,Delhi NCR,Mid-size,Bachelor,9.54
+2.2,4,2,4,Software Engineer,Jaipur,Startup,Master,13.58
+1.6,10,2,5,DevOps Engineer,Delhi NCR,Mid-size,Diploma,12.19
+2.1,4,3,2,DevOps Engineer,Pune,Enterprise,Bachelor,14.93
+5.7,14,1,5,Data Scientist,Hyderabad,Mid-size,PhD,34.08
+7.9,14,3,2,HR Executive,Chandigarh,Enterprise,Bachelor,8.96
+5.3,2,1,3,HR Executive,Pune,Mid-size,Bachelor,7.61
+7.4,2,0,2,Software Engineer,Bengaluru,Startup,Diploma,11.6
+10.4,4,1,3,Software Engineer,Jaipur,Enterprise,Master,17.8
+1.2,13,3,1,ML Engineer,Chandigarh,Enterprise,Bachelor,14.4
+4.9,8,4,1,HR Executive,Mumbai,Startup,Master,9.68
+4.7,6,3,3,Data Scientist,Bengaluru,Startup,Bachelor,19.49
+10.7,12,4,2,DevOps Engineer,Delhi NCR,Mid-size,Bachelor,21.21
+12.0,9,1,3,Product Manager,Chennai,Mid-size,Bachelor,31.95
+8.4,12,1,5,HR Executive,Mumbai,Enterprise,Bachelor,15.07
+8.3,14,0,3,HR Executive,Jaipur,Mid-size,Master,8.02
+2.6,7,1,5,DevOps Engineer,Pune,Startup,Master,14.95
+13.1,3,0,3,Sales Executive,Chandigarh,Mid-size,Master,10.47
+3.8,4,1,5,HR Executive,Jaipur,Enterprise,Master,8.71
+3.0,6,0,3,ML Engineer,Chandigarh,Mid-size,Master,18.2
+2.4,5,0,2,Data Analyst,Jaipur,Enterprise,Bachelor,7.38
+3.6,8,1,4,HR Executive,Pune,Mid-size,Master,8.7
+6.1,3,2,5,Data Analyst,Pune,Mid-size,Bachelor,8.81
+7.5,4,0,4,Software Engineer,Chandigarh,Enterprise,Master,18.93
+9.2,10,0,5,Sales Executive,Jaipur,Mid-size,Bachelor,8.84
+3.0,6,2,3,Product Manager,Mumbai,Startup,Bachelor,23.92
+8.2,10,3,5,Data Scientist,Delhi NCR,Startup,Bachelor,26.43
+4.2,7,0,4,DevOps Engineer,Pune,Enterprise,Bachelor,18.88
+1.3,14,1,2,Data Scientist,Chennai,Mid-size,Master,18.31
+4.1,4,4,3,HR Executive,Bengaluru,Startup,Bachelor,8.85
+5.5,5,1,2,HR Executive,Mumbai,Mid-size,Bachelor,7.86
+2.4,14,1,5,DevOps Engineer,Mumbai,Startup,Bachelor,17.6
+2.8,14,1,2,HR Executive,Chennai,Enterprise,Bachelor,7.68
+2.5,14,2,3,Sales Executive,Jaipur,Enterprise,Master,8.94
+2.7,14,0,2,Software Engineer,Delhi NCR,Startup,Bachelor,13.68
+6.7,10,0,3,Data Scientist,Chandigarh,Mid-size,Master,21.42
+8.8,12,1,5,HR Executive,Pune,Startup,Bachelor,10.76
+1.2,10,0,3,Product Manager,Delhi NCR,Enterprise,PhD,32.45
+3.8,9,0,2,ML Engineer,Pune,Enterprise,Bachelor,20.99
+11.5,3,1,2,Sales Executive,Delhi NCR,Startup,Bachelor,10.64
+2.8,14,3,3,Sales Executive,Chennai,Enterprise,Bachelor,9.64
+5.9,6,3,5,Sales Executive,Delhi NCR,Enterprise,Master,14.03
+5.2,2,3,3,Sales Executive,Chandigarh,Enterprise,PhD,11.74
+16.5,4,0,4,Software Engineer,Chandigarh,Mid-size,PhD,24.82
+1.6,12,2,3,HR Executive,Mumbai,Startup,Bachelor,7.8
+2.0,3,1,2,HR Executive,Bengaluru,Enterprise,Bachelor,7.84
+1.6,10,2,5,Software Engineer,Chennai,Startup,Diploma,10.11
+8.7,11,0,4,Data Analyst,Bengaluru,Mid-size,Master,17.23
+8.8,15,0,2,HR Executive,Jaipur,Mid-size,Master,8.93
+21.8,14,2,2,Data Scientist,Mumbai,Mid-size,Bachelor,36.19
+2.0,12,3,4,Data Scientist,Pune,Startup,PhD,23.92
+5.8,7,1,4,Data Scientist,Hyderabad,Mid-size,Master,24.88
+8.3,9,2,2,HR Executive,Mumbai,Startup,Bachelor,8.26
+5.9,3,1,4,ML Engineer,Jaipur,Mid-size,Diploma,14.02
+1.2,9,2,4,DevOps Engineer,Pune,Startup,Bachelor,13.97
+5.6,10,3,3,Data Analyst,Bengaluru,Enterprise,Bachelor,14.87
+2.1,2,2,5,Data Analyst,Pune,Mid-size,Bachelor,8.08
+5.9,12,0,3,Software Engineer,Mumbai,Startup,Diploma,14.64
+6.3,6,1,3,Data Analyst,Pune,Enterprise,Bachelor,12.47
+0.4,13,2,4,Software Engineer,Mumbai,Enterprise,Master,17.97
+8.3,6,0,3,DevOps Engineer,Chandigarh,Mid-size,Bachelor,15.16
+14.4,9,0,1,Data Analyst,Hyderabad,Mid-size,Diploma,9.45
+5.5,14,0,3,HR Executive,Hyderabad,Mid-size,Bachelor,9.92
+1.4,10,1,3,Software Engineer,Mumbai,Enterprise,Bachelor,12.52
+4.5,13,0,5,Data Analyst,Chandigarh,Enterprise,Master,12.35
+6.0,2,2,5,Sales Executive,Chennai,Mid-size,Bachelor,8.71
+5.9,6,0,4,Data Analyst,Pune,Startup,Bachelor,8.91
+11.9,5,0,3,HR Executive,Jaipur,Enterprise,Master,10.74
+10.3,3,1,3,ML Engineer,Delhi NCR,Startup,Bachelor,26.75
+3.6,3,1,3,Software Engineer,Pune,Startup,Bachelor,14.37
+4.9,8,1,5,HR Executive,Chennai,Mid-size,Bachelor,8.0
+6.1,15,2,2,Software Engineer,Chandigarh,Startup,Diploma,11.24
+3.8,3,4,3,Data Analyst,Delhi NCR,Enterprise,Master,12.94
+6.8,2,2,3,Data Analyst,Mumbai,Mid-size,Bachelor,12.91
+7.1,10,0,3,Product Manager,Chennai,Enterprise,Master,34.01
+0.7,14,0,4,DevOps Engineer,Jaipur,Enterprise,Master,13.97
+5.1,11,0,1,Data Analyst,Pune,Startup,Master,8.36
+5.3,14,0,3,Software Engineer,Delhi NCR,Startup,Bachelor,15.44
+4.4,14,1,4,Data Scientist,Chandigarh,Startup,Bachelor,17.33
+8.1,3,1,3,DevOps Engineer,Chandigarh,Mid-size,Master,18.02
+2.6,9,1,1,Software Engineer,Chennai,Startup,Bachelor,9.82
+3.9,4,1,3,Sales Executive,Jaipur,Enterprise,Master,7.43
+5.3,8,0,4,Product Manager,Hyderabad,Enterprise,Bachelor,31.18
+6.3,9,1,5,ML Engineer,Hyderabad,Mid-size,Bachelor,27.24
+4.1,11,0,4,Data Analyst,Jaipur,Mid-size,Bachelor,8.24
+5.0,7,0,3,Sales Executive,Jaipur,Mid-size,Diploma,5.26
+3.4,13,4,2,Data Analyst,Jaipur,Startup,Master,8.78
+5.5,7,1,3,Data Analyst,Hyderabad,Startup,Master,11.68
+5.0,9,1,1,HR Executive,Chandigarh,Enterprise,Master,8.57
+4.8,11,1,2,ML Engineer,Bengaluru,Startup,Master,25.78
+5.7,13,0,4,ML Engineer,Delhi NCR,Mid-size,PhD,30.61
+2.1,2,1,4,Software Engineer,Mumbai,Mid-size,Bachelor,12.44
+5.8,6,3,4,Product Manager,Bengaluru,Enterprise,PhD,44.73
+6.5,7,2,3,HR Executive,Mumbai,Startup,Bachelor,8.49
+7.1,12,1,2,Software Engineer,Delhi NCR,Mid-size,Bachelor,13.67
+11.2,14,0,3,Sales Executive,Pune,Mid-size,Bachelor,12.29
+6.3,11,3,2,Data Scientist,Pune,Mid-size,Master,20.98
+2.1,14,2,4,Software Engineer,Mumbai,Mid-size,Bachelor,15.62
+1.5,12,1,3,DevOps Engineer,Chennai,Startup,Bachelor,12.93
+4.8,8,0,4,Data Analyst,Delhi NCR,Mid-size,PhD,13.36
+9.3,7,2,3,HR Executive,Hyderabad,Enterprise,Master,12.76
+2.2,15,1,4,Sales Executive,Chandigarh,Mid-size,Master,8.33
+16.7,14,0,4,Data Scientist,Hyderabad,Enterprise,Bachelor,34.99
+1.3,3,1,4,Data Analyst,Chennai,Enterprise,PhD,10.6
+6.3,5,1,4,HR Executive,Jaipur,Mid-size,Bachelor,6.92
+7.4,9,0,1,Data Analyst,Chandigarh,Mid-size,Bachelor,8.02
+1.8,5,0,3,Software Engineer,Chennai,Startup,Master,12.36
+2.3,6,1,3,Software Engineer,Pune,Enterprise,Bachelor,12.92
+4.1,7,0,2,ML Engineer,Chennai,Mid-size,Master,21.96
+3.3,14,1,3,Software Engineer,Pune,Mid-size,Bachelor,14.74
+0.5,8,0,4,ML Engineer,Hyderabad,Startup,Diploma,15.53
+13.1,3,1,3,Sales Executive,Bengaluru,Enterprise,Bachelor,13.97
+0.8,4,1,4,HR Executive,Chennai,Enterprise,Bachelor,7.2
+5.0,3,1,3,ML Engineer,Pune,Startup,Bachelor,19.25
+1.4,14,0,4,Product Manager,Bengaluru,Mid-size,Bachelor,25.01
+4.9,8,2,1,ML Engineer,Hyderabad,Enterprise,Bachelor,25.91
+4.8,8,0,4,Sales Executive,Delhi NCR,Enterprise,Master,12.1
+2.0,5,3,1,Software Engineer,Bengaluru,Mid-size,Diploma,12.32
+14.3,12,4,4,Software Engineer,Mumbai,Enterprise,Bachelor,31.63
+3.8,14,0,4,HR Executive,Jaipur,Startup,Bachelor,6.57
+0.3,9,0,3,Product Manager,Hyderabad,Mid-size,Bachelor,21.09
+3.7,10,1,4,Data Analyst,Hyderabad,Enterprise,Master,11.81
+8.8,12,4,3,Data Scientist,Chandigarh,Enterprise,Bachelor,24.63
+4.0,3,5,5,Data Scientist,Pune,Enterprise,Bachelor,19.95
+5.3,14,1,3,HR Executive,Delhi NCR,Enterprise,Bachelor,10.33
+4.6,4,2,3,HR Executive,Hyderabad,Startup,Master,8.95
+1.2,7,0,3,Software Engineer,Delhi NCR,Mid-size,Bachelor,11.51
+3.2,13,0,3,Software Engineer,Chandigarh,Mid-size,Diploma,9.45
+11.7,7,2,4,Software Engineer,Hyderabad,Enterprise,Master,28.84
+2.2,3,2,3,Data Analyst,Delhi NCR,Mid-size,PhD,11.75
+5.5,7,0,4,Product Manager,Delhi NCR,Enterprise,Master,31.8
+7.1,9,3,1,Software Engineer,Chandigarh,Mid-size,Master,16.29
+6.7,2,0,3,DevOps Engineer,Chennai,Enterprise,Master,21.49
+8.7,7,2,5,Software Engineer,Mumbai,Mid-size,Master,23.09
+1.1,13,2,3,Data Analyst,Hyderabad,Enterprise,Bachelor,9.98
+3.2,13,1,2,Data Analyst,Hyderabad,Startup,Master,9.83
+6.7,13,2,4,Product Manager,Hyderabad,Enterprise,Bachelor,37.91
+7.5,15,1,5,Data Scientist,Pune,Startup,Master,30.83
+4.1,5,2,5,Sales Executive,Mumbai,Enterprise,Bachelor,12.55
+2.3,13,3,3,DevOps Engineer,Chandigarh,Startup,Master,14.33
+7.8,8,0,3,DevOps Engineer,Jaipur,Startup,Master,14.48
+2.7,12,2,3,ML Engineer,Bengaluru,Mid-size,PhD,30.82
+11.2,4,2,3,Software Engineer,Delhi NCR,Mid-size,Bachelor,15.54
+11.4,9,0,4,HR Executive,Bengaluru,Startup,Bachelor,11.99
+4.6,10,0,4,Data Analyst,Hyderabad,Startup,Bachelor,11.21
+2.4,6,1,4,HR Executive,Jaipur,Startup,Bachelor,6.07
+13.7,2,0,2,Software Engineer,Mumbai,Enterprise,PhD,29.95
+7.8,13,0,4,DevOps Engineer,Chandigarh,Startup,Master,17.22
+11.5,5,4,3,ML Engineer,Mumbai,Startup,Master,40.74
+5.8,7,0,3,Software Engineer,Chennai,Enterprise,Bachelor,16.74
+3.9,6,1,3,Sales Executive,Bengaluru,Enterprise,Bachelor,9.56
+2.4,5,1,3,DevOps Engineer,Delhi NCR,Enterprise,Master,16.5
+7.1,13,2,3,Sales Executive,Jaipur,Enterprise,Diploma,7.76
+1.4,14,2,5,DevOps Engineer,Chandigarh,Startup,Bachelor,12.42
+4.8,8,1,3,ML Engineer,Mumbai,Mid-size,Bachelor,25.1
+1.9,8,2,3,Data Analyst,Hyderabad,Mid-size,Bachelor,7.99
+3.4,5,0,4,Software Engineer,Pune,Enterprise,Bachelor,15.31
+7.2,10,1,5,Data Analyst,Mumbai,Mid-size,Bachelor,12.04
+12.1,10,2,5,HR Executive,Hyderabad,Mid-size,Bachelor,13.33
+3.0,10,3,3,Software Engineer,Chennai,Startup,Master,16.42
+6.8,9,0,3,Software Engineer,Chandigarh,Enterprise,Diploma,14.28
+1.9,4,1,3,HR Executive,Bengaluru,Enterprise,Bachelor,7.07
+1.6,8,0,4,Software Engineer,Chennai,Mid-size,Bachelor,10.57
+2.5,6,2,5,HR Executive,Pune,Enterprise,Bachelor,9.33
+5.7,15,0,4,Data Scientist,Jaipur,Enterprise,Bachelor,23.76
+3.9,3,0,3,Data Analyst,Bengaluru,Mid-size,PhD,13.11
+3.7,4,1,3,Data Analyst,Delhi NCR,Startup,Bachelor,9.13
+4.3,4,1,1,Software Engineer,Jaipur,Enterprise,Bachelor,11.75
+6.1,10,2,3,Software Engineer,Hyderabad,Startup,Bachelor,15.2
+8.0,2,3,4,Software Engineer,Mumbai,Enterprise,Master,23.42
+6.7,11,1,4,Data Scientist,Pune,Startup,Bachelor,22.93
+1.7,3,1,2,Sales Executive,Bengaluru,Startup,Master,7.73
+4.5,6,1,1,DevOps Engineer,Pune,Startup,Master,16.06
+4.2,4,2,3,HR Executive,Chandigarh,Mid-size,Master,8.69
+6.1,15,2,3,Software Engineer,Chennai,Enterprise,Bachelor,19.45
+10.7,3,3,4,HR Executive,Chandigarh,Mid-size,Master,11.09
+10.0,13,2,2,HR Executive,Delhi NCR,Startup,Bachelor,10.85
+4.7,10,1,2,Data Analyst,Delhi NCR,Mid-size,Master,10.92
+5.5,8,1,2,ML Engineer,Jaipur,Startup,Bachelor,19.08
+5.7,15,0,4,Software Engineer,Delhi NCR,Enterprise,Bachelor,20.52
+6.8,5,1,4,Software Engineer,Jaipur,Enterprise,Master,16.55
+2.7,7,3,4,Software Engineer,Chennai,Mid-size,Diploma,11.69
+2.3,10,0,3,Data Analyst,Hyderabad,Enterprise,Bachelor,10.07
+1.2,12,3,4,Software Engineer,Jaipur,Enterprise,Bachelor,12.99
+1.7,6,2,3,Software Engineer,Mumbai,Enterprise,Master,18.29
+0.9,13,1,3,Software Engineer,Mumbai,Enterprise,Diploma,12.61
+4.0,7,3,3,Software Engineer,Jaipur,Mid-size,Master,16.08
+9.6,10,1,4,Data Scientist,Jaipur,Mid-size,Bachelor,25.94
+13.1,12,0,3,Sales Executive,Pune,Enterprise,Diploma,14.51
+3.8,10,0,3,HR Executive,Bengaluru,Startup,Bachelor,8.0
+0.8,7,1,2,Data Analyst,Bengaluru,Mid-size,Bachelor,8.5
+3.2,4,2,3,Data Analyst,Chennai,Mid-size,Bachelor,8.67
+6.6,4,0,3,Product Manager,Hyderabad,Startup,Bachelor,26.99
+5.2,2,0,3,Software Engineer,Chandigarh,Mid-size,Bachelor,12.38
+14.8,3,0,3,Software Engineer,Pune,Startup,Bachelor,17.37
+4.8,12,2,3,Sales Executive,Bengaluru,Mid-size,Diploma,10.07
+7.0,2,0,4,Software Engineer,Delhi NCR,Enterprise,Bachelor,18.34
+2.1,3,3,4,Sales Executive,Bengaluru,Mid-size,Master,9.71
+2.8,12,2,4,DevOps Engineer,Hyderabad,Enterprise,Diploma,14.17
+5.3,9,1,3,HR Executive,Chandigarh,Enterprise,Master,8.78
+3.2,10,2,4,DevOps Engineer,Mumbai,Mid-size,Master,18.2
+7.5,5,3,3,Data Analyst,Delhi NCR,Mid-size,Bachelor,11.84
+4.4,2,2,5,HR Executive,Pune,Mid-size,Bachelor,7.56
+4.2,15,3,2,Software Engineer,Bengaluru,Enterprise,Bachelor,17.68
+6.2,3,2,3,Sales Executive,Mumbai,Mid-size,Master,12.15
+5.9,3,2,3,Sales Executive,Hyderabad,Mid-size,Master,11.06
+3.5,10,1,3,Sales Executive,Hyderabad,Startup,Diploma,6.48
+13.4,6,1,4,Data Analyst,Bengaluru,Enterprise,Bachelor,17.08
+2.7,7,1,4,ML Engineer,Chennai,Startup,Bachelor,18.56
+10.5,2,0,3,DevOps Engineer,Pune,Enterprise,Master,21.92
+6.1,4,0,4,Sales Executive,Hyderabad,Mid-size,Bachelor,9.44
+5.0,6,0,3,Data Analyst,Mumbai,Enterprise,Bachelor,11.28
+2.2,9,2,3,Software Engineer,Jaipur,Enterprise,Bachelor,10.0
+4.1,11,2,3,Software Engineer,Delhi NCR,Mid-size,Bachelor,15.88
+2.7,13,1,3,DevOps Engineer,Jaipur,Mid-size,Bachelor,13.75
+8.5,3,0,2,Software Engineer,Hyderabad,Startup,Master,16.48
+1.4,5,1,3,Software Engineer,Jaipur,Mid-size,Master,12.0
+3.9,5,0,3,DevOps Engineer,Hyderabad,Mid-size,Diploma,13.58
+8.5,9,4,2,Product Manager,Bengaluru,Enterprise,Master,48.0
+2.5,13,1,2,Software Engineer,Bengaluru,Enterprise,Bachelor,14.24
+6.7,9,1,3,Data Scientist,Chandigarh,Enterprise,Bachelor,20.08
+1.2,9,1,2,Software Engineer,Delhi NCR,Startup,Diploma,9.94
+7.1,12,0,3,DevOps Engineer,Jaipur,Enterprise,Bachelor,21.0
+2.6,7,0,3,Data Analyst,Delhi NCR,Startup,Bachelor,9.07
+2.6,7,3,3,Software Engineer,Delhi NCR,Enterprise,Bachelor,14.81
+4.6,4,2,3,Software Engineer,Chandigarh,Enterprise,PhD,19.62
+5.4,6,2,3,Data Scientist,Chandigarh,Mid-size,Bachelor,16.8
+3.7,9,1,3,Data Analyst,Delhi NCR,Mid-size,Diploma,8.91
+2.1,12,2,4,Data Scientist,Jaipur,Mid-size,Bachelor,15.22
+5.1,11,1,3,Software Engineer,Chandigarh,Enterprise,Bachelor,13.44
+2.8,9,3,2,ML Engineer,Hyderabad,Startup,Master,22.01
+9.0,15,4,5,ML Engineer,Hyderabad,Enterprise,Bachelor,41.61
+4.4,12,1,3,Software Engineer,Chandigarh,Enterprise,Master,15.13
+2.7,5,1,3,DevOps Engineer,Mumbai,Startup,Bachelor,13.97
+3.2,5,2,5,ML Engineer,Chandigarh,Enterprise,PhD,29.52
+3.6,4,2,4,Data Scientist,Chandigarh,Enterprise,Master,20.14
+2.9,5,0,5,Software Engineer,Chandigarh,Startup,Bachelor,11.14
+7.8,11,2,3,Data Scientist,Chennai,Enterprise,Master,28.06
+1.8,15,1,2,Product Manager,Pune,Enterprise,Bachelor,23.65
+1.9,12,0,3,ML Engineer,Chandigarh,Enterprise,Bachelor,18.99
+4.8,6,1,3,HR Executive,Pune,Mid-size,Bachelor,7.6
+8.0,11,0,3,Data Analyst,Jaipur,Mid-size,Bachelor,10.58
+3.3,11,1,3,Data Scientist,Bengaluru,Startup,Bachelor,19.64
+3.1,3,1,1,Product Manager,Pune,Mid-size,Bachelor,17.76
+7.4,15,2,3,HR Executive,Hyderabad,Enterprise,Master,13.94
+11.4,15,0,4,Sales Executive,Delhi NCR,Startup,Bachelor,11.38
+1.4,14,2,4,Software Engineer,Bengaluru,Mid-size,Master,15.81
+3.3,3,1,3,HR Executive,Mumbai,Mid-size,Bachelor,6.39
+7.0,5,1,5,Sales Executive,Hyderabad,Enterprise,Bachelor,11.17
+4.8,15,1,3,Sales Executive,Bengaluru,Mid-size,Bachelor,9.2
+6.5,15,2,3,Software Engineer,Jaipur,Enterprise,Master,18.18
+3.8,6,3,4,Data Scientist,Chandigarh,Startup,Bachelor,16.76
+9.7,11,0,4,Data Analyst,Chandigarh,Mid-size,Bachelor,10.58
+7.6,11,3,2,Software Engineer,Mumbai,Enterprise,Bachelor,21.2
+1.1,3,1,4,Software Engineer,Mumbai,Mid-size,Bachelor,12.81
+4.4,8,1,4,Software Engineer,Bengaluru,Mid-size,Bachelor,16.27
+4.9,8,3,4,Software Engineer,Jaipur,Enterprise,PhD,17.57
+3.3,2,2,3,Product Manager,Chandigarh,Mid-size,Diploma,17.46
+1.2,7,0,4,Product Manager,Chennai,Mid-size,Bachelor,18.91
+8.6,5,0,3,Software Engineer,Delhi NCR,Enterprise,Master,21.09
+4.5,6,1,3,DevOps Engineer,Hyderabad,Enterprise,Diploma,14.24
+7.1,15,1,3,Sales Executive,Bengaluru,Mid-size,Bachelor,12.59
+6.9,5,1,1,Data Analyst,Bengaluru,Mid-size,Master,10.43
+1.9,3,0,4,Data Analyst,Mumbai,Startup,Diploma,8.67
+9.0,4,2,2,DevOps Engineer,Chandigarh,Startup,Diploma,12.06
+6.4,7,1,3,ML Engineer,Delhi NCR,Mid-size,Bachelor,25.38
+7.1,8,2,1,Software Engineer,Hyderabad,Mid-size,Bachelor,13.77
+4.1,4,1,4,DevOps Engineer,Hyderabad,Startup,Bachelor,15.13
+8.0,11,0,2,Data Scientist,Mumbai,Startup,Bachelor,23.5
+11.8,11,2,2,Software Engineer,Hyderabad,Mid-size,Bachelor,19.4
+5.5,13,1,3,Software Engineer,Delhi NCR,Enterprise,Bachelor,21.24
+3.0,15,0,4,DevOps Engineer,Mumbai,Mid-size,Diploma,15.16
+5.5,11,1,3,Software Engineer,Mumbai,Enterprise,Bachelor,18.66
+5.0,9,2,1,DevOps Engineer,Pune,Startup,Master,16.46
+14.0,13,1,3,Product Manager,Mumbai,Startup,Diploma,33.46
+0.4,5,2,2,ML Engineer,Bengaluru,Mid-size,Diploma,16.55
+5.0,10,2,3,Data Scientist,Mumbai,Enterprise,Bachelor,19.61
+5.6,5,0,4,Software Engineer,Hyderabad,Startup,Diploma,12.28
+6.1,12,0,2,HR Executive,Delhi NCR,Mid-size,Bachelor,9.05
+7.3,15,0,2,HR Executive,Bengaluru,Startup,Bachelor,10.0
+0.3,5,1,2,Product Manager,Hyderabad,Startup,Diploma,14.79
+6.7,6,1,4,Data Scientist,Chandigarh,Startup,Bachelor,18.64
+1.9,11,1,2,Data Analyst,Delhi NCR,Mid-size,Bachelor,8.08
+2.4,14,0,4,Data Analyst,Chennai,Startup,Bachelor,7.71
+7.2,10,1,2,Data Analyst,Chennai,Mid-size,Bachelor,9.76
+3.2,11,2,3,HR Executive,Chennai,Enterprise,Master,7.87
+4.9,3,2,3,Data Analyst,Hyderabad,Startup,Bachelor,9.7
+6.6,10,2,5,DevOps Engineer,Jaipur,Startup,Bachelor,17.99
+1.0,11,0,5,Product Manager,Bengaluru,Mid-size,Master,28.42
+3.8,2,2,2,ML Engineer,Mumbai,Startup,Bachelor,23.26
+1.7,4,1,4,Product Manager,Chennai,Startup,Master,24.44
+3.6,14,0,1,Software Engineer,Pune,Startup,Master,13.15
+3.6,2,1,2,Product Manager,Jaipur,Mid-size,Diploma,15.04
+2.5,11,1,3,Data Scientist,Hyderabad,Mid-size,Master,22.92
+0.5,12,0,3,Sales Executive,Hyderabad,Mid-size,Diploma,6.06
+1.3,11,1,4,Software Engineer,Bengaluru,Enterprise,Bachelor,13.74
+3.1,7,0,5,Product Manager,Pune,Enterprise,Bachelor,24.21
+2.9,10,0,2,Product Manager,Bengaluru,Mid-size,Bachelor,27.24
+1.5,13,3,2,Software Engineer,Bengaluru,Startup,Diploma,9.5
+0.8,3,2,3,Software Engineer,Jaipur,Enterprise,Master,10.62
+4.8,9,0,2,Data Analyst,Chennai,Enterprise,Master,10.03
+2.7,7,1,2,ML Engineer,Delhi NCR,Enterprise,Master,21.57
+13.8,8,1,2,Data Analyst,Chennai,Mid-size,Bachelor,11.39
+5.9,4,0,2,Data Scientist,Pune,Enterprise,Bachelor,20.29
+0.8,7,1,3,Product Manager,Hyderabad,Startup,Bachelor,21.85
+4.0,11,0,4,HR Executive,Pune,Startup,Bachelor,8.26
+4.9,7,2,3,Software Engineer,Pune,Mid-size,Master,16.36
+9.6,7,0,3,Product Manager,Pune,Startup,Bachelor,27.55
+3.2,14,1,3,Sales Executive,Delhi NCR,Mid-size,Bachelor,10.92
+1.5,9,1,4,Data Analyst,Mumbai,Mid-size,PhD,11.31
+14.9,8,3,2,Software Engineer,Hyderabad,Startup,Bachelor,19.78
+10.2,7,1,3,Data Analyst,Delhi NCR,Mid-size,Diploma,11.1
+3.4,8,1,2,Data Scientist,Chennai,Mid-size,Bachelor,17.74
+5.3,15,3,3,ML Engineer,Hyderabad,Enterprise,Diploma,25.42
+3.7,10,1,3,Software Engineer,Chennai,Mid-size,PhD,16.89
+4.6,8,1,4,Sales Executive,Chandigarh,Mid-size,PhD,9.08
+5.1,6,1,4,Software Engineer,Hyderabad,Enterprise,Bachelor,15.37
+4.8,9,2,4,ML Engineer,Delhi NCR,Mid-size,Bachelor,26.93
+0.7,14,2,2,HR Executive,Mumbai,Mid-size,Bachelor,6.47
+4.6,10,0,2,Data Analyst,Jaipur,Startup,PhD,9.4
+3.2,15,0,3,Software Engineer,Chandigarh,Mid-size,Bachelor,11.03
+4.8,2,1,4,Data Analyst,Jaipur,Mid-size,Bachelor,7.73
+2.5,8,0,3,Product Manager,Mumbai,Enterprise,Bachelor,30.23
+7.4,3,4,4,Software Engineer,Jaipur,Startup,Master,14.84
+4.7,3,2,4,DevOps Engineer,Jaipur,Mid-size,Bachelor,14.27
+11.5,15,1,4,Data Scientist,Pune,Startup,Bachelor,28.33
+2.1,14,0,4,Software Engineer,Pune,Enterprise,Bachelor,15.68
+8.2,9,0,4,Data Analyst,Bengaluru,Mid-size,Bachelor,13.12
+11.0,8,1,4,HR Executive,Chennai,Mid-size,Bachelor,10.51
+3.5,3,3,3,DevOps Engineer,Delhi NCR,Mid-size,Bachelor,17.83
+2.4,7,0,3,DevOps Engineer,Chennai,Mid-size,Bachelor,11.5
+6.5,6,2,2,Data Scientist,Bengaluru,Enterprise,PhD,33.3
+0.5,15,1,4,HR Executive,Chennai,Startup,Bachelor,6.41
+7.6,10,1,3,Software Engineer,Mumbai,Startup,Master,21.5
+6.6,5,2,2,Software Engineer,Hyderabad,Startup,Master,17.55
+3.5,7,3,4,Data Scientist,Bengaluru,Mid-size,Master,25.52
+4.0,8,1,2,DevOps Engineer,Mumbai,Startup,Master,13.33
+3.9,11,2,1,ML Engineer,Bengaluru,Enterprise,Bachelor,21.72
+3.7,4,1,3,ML Engineer,Mumbai,Mid-size,Bachelor,26.01
+0.4,13,1,4,Data Analyst,Chandigarh,Enterprise,Bachelor,8.97
+2.3,3,1,3,Data Scientist,Chandigarh,Mid-size,Bachelor,14.91
+3.7,6,0,3,HR Executive,Bengaluru,Enterprise,Bachelor,8.87
+0.5,6,2,3,Data Scientist,Delhi NCR,Mid-size,Master,16.62
+3.2,12,0,4,Software Engineer,Mumbai,Mid-size,Master,18.14
+2.4,6,1,2,Sales Executive,Chennai,Enterprise,Master,9.01
+7.7,14,2,3,Software Engineer,Bengaluru,Mid-size,Bachelor,19.63
+3.9,4,0,3,DevOps Engineer,Chandigarh,Mid-size,Bachelor,12.81
+6.8,14,2,4,Data Scientist,Chandigarh,Enterprise,Master,31.49
+3.3,7,0,4,Data Scientist,Chennai,Mid-size,Master,18.59
+3.9,5,1,4,Sales Executive,Bengaluru,Startup,Master,10.19
+2.5,8,1,3,Data Analyst,Bengaluru,Startup,Bachelor,7.93
+6.8,3,1,4,Software Engineer,Bengaluru,Enterprise,Diploma,18.6
+6.7,8,0,3,Software Engineer,Chandigarh,Mid-size,Master,15.6
+5.6,2,3,5,DevOps Engineer,Jaipur,Enterprise,Diploma,16.86
+15.1,14,1,4,Software Engineer,Chennai,Mid-size,Bachelor,19.09
+4.4,2,1,4,Data Analyst,Mumbai,Mid-size,Master,11.76
+2.8,12,0,5,HR Executive,Delhi NCR,Startup,Bachelor,6.99
+2.6,9,3,2,Sales Executive,Mumbai,Enterprise,Bachelor,9.57
+4.1,4,0,4,Data Scientist,Mumbai,Enterprise,PhD,26.81
+5.6,4,1,3,HR Executive,Chandigarh,Startup,Bachelor,5.49
+2.8,4,0,3,Data Scientist,Hyderabad,Startup,Bachelor,15.91
+3.3,10,1,5,Data Analyst,Bengaluru,Enterprise,Bachelor,14.55
+8.9,9,2,4,Software Engineer,Bengaluru,Mid-size,Bachelor,19.34
+1.7,9,1,1,Product Manager,Hyderabad,Startup,PhD,28.89
+2.3,11,1,3,Data Scientist,Mumbai,Enterprise,Master,25.2
+8.4,13,0,3,Data Analyst,Delhi NCR,Enterprise,PhD,18.26
+8.7,14,1,3,Data Analyst,Delhi NCR,Mid-size,Master,13.91
+3.7,6,2,3,Product Manager,Mumbai,Enterprise,Bachelor,29.25
+14.3,8,2,2,Data Scientist,Chennai,Startup,Diploma,21.24
+1.2,4,1,2,Data Analyst,Hyderabad,Startup,Diploma,6.22
+3.1,8,1,3,Software Engineer,Hyderabad,Enterprise,Bachelor,14.73
+3.4,12,1,3,Software Engineer,Delhi NCR,Mid-size,PhD,17.17
+2.1,4,1,4,Data Analyst,Jaipur,Startup,Bachelor,6.34
+2.4,11,3,3,Product Manager,Chandigarh,Startup,PhD,26.73
+6.0,14,1,3,Product Manager,Bengaluru,Startup,Bachelor,31.05
+10.5,2,1,3,Data Analyst,Bengaluru,Startup,Bachelor,12.09
+3.8,11,1,3,DevOps Engineer,Delhi NCR,Mid-size,Diploma,11.44
+4.6,2,2,4,Software Engineer,Delhi NCR,Startup,Master,17.11
+3.9,15,1,4,Sales Executive,Delhi NCR,Mid-size,Bachelor,9.54
+1.5,5,0,2,Data Scientist,Jaipur,Enterprise,Master,17.2
+3.2,9,2,3,Data Scientist,Chennai,Startup,Bachelor,19.02
+0.8,14,0,5,Software Engineer,Chandigarh,Enterprise,Bachelor,12.06
+4.9,3,1,3,Data Analyst,Delhi NCR,Enterprise,Bachelor,9.93
+2.4,2,3,2,ML Engineer,Pune,Mid-size,Master,18.58
+6.7,5,1,3,Data Analyst,Delhi NCR,Enterprise,Bachelor,11.69
+2.5,4,3,4,Data Analyst,Chandigarh,Mid-size,Bachelor,7.96
+2.1,3,0,5,Software Engineer,Mumbai,Enterprise,Bachelor,16.92
+12.5,8,2,4,Sales Executive,Delhi NCR,Mid-size,Master,14.35
+4.4,6,1,2,HR Executive,Bengaluru,Enterprise,Bachelor,9.01
+6.3,13,1,5,Sales Executive,Mumbai,Mid-size,Bachelor,11.52
+2.3,12,2,3,Sales Executive,Jaipur,Startup,Bachelor,7.04
+6.0,7,1,4,Software Engineer,Chandigarh,Startup,Bachelor,14.1
+5.2,10,1,3,Software Engineer,Hyderabad,Mid-size,Master,14.13
+8.5,13,3,4,Software Engineer,Jaipur,Mid-size,Bachelor,17.57
+10.8,3,2,2,ML Engineer,Pune,Startup,Diploma,20.27
+8.5,3,3,4,Sales Executive,Delhi NCR,Mid-size,Bachelor,11.9
+3.6,15,1,3,Software Engineer,Hyderabad,Mid-size,Bachelor,19.22
+1.7,15,1,5,Data Analyst,Chennai,Mid-size,Master,11.02
+12.9,2,2,2,Data Scientist,Hyderabad,Enterprise,Master,33.45
+2.3,14,0,5,DevOps Engineer,Pune,Enterprise,Bachelor,16.35
+3.9,14,1,3,Product Manager,Chandigarh,Mid-size,Bachelor,22.01
+9.5,14,2,3,Sales Executive,Bengaluru,Enterprise,Master,15.54
+5.1,10,0,3,Data Analyst,Hyderabad,Startup,Bachelor,9.84
+3.5,8,2,4,DevOps Engineer,Mumbai,Mid-size,Master,23.45
+8.2,15,3,5,Software Engineer,Pune,Enterprise,Bachelor,20.54
+3.5,3,0,2,Software Engineer,Jaipur,Enterprise,Master,13.33
+5.8,8,2,3,Product Manager,Hyderabad,Enterprise,Bachelor,34.74
+1.9,11,1,2,Software Engineer,Bengaluru,Mid-size,Bachelor,14.18
+4.2,9,0,3,Data Analyst,Pune,Enterprise,Master,12.55
+7.5,10,2,3,Data Analyst,Hyderabad,Mid-size,Bachelor,11.01
+5.8,7,4,3,Sales Executive,Chennai,Mid-size,Bachelor,10.05
+2.8,14,1,4,Software Engineer,Hyderabad,Enterprise,Bachelor,15.28
+8.5,8,1,5,Data Analyst,Mumbai,Mid-size,Bachelor,13.61
+2.3,10,2,3,Data Analyst,Mumbai,Mid-size,Master,13.29
+2.9,15,3,3,DevOps Engineer,Delhi NCR,Startup,Bachelor,17.21
+2.8,15,1,3,Software Engineer,Bengaluru,Mid-size,PhD,20.68
+1.7,13,2,3,Product Manager,Mumbai,Startup,Bachelor,22.79
+2.9,11,3,2,DevOps Engineer,Mumbai,Startup,PhD,17.9
+5.2,4,1,4,Data Analyst,Hyderabad,Enterprise,Master,11.47
+1.6,5,0,3,Data Scientist,Pune,Enterprise,Bachelor,17.17
+4.8,8,0,2,Data Analyst,Pune,Enterprise,Master,11.08
+6.9,6,0,3,Data Analyst,Bengaluru,Mid-size,Bachelor,12.66
+3.0,12,2,3,Software Engineer,Mumbai,Enterprise,Bachelor,15.79
+6.2,6,1,3,Data Analyst,Jaipur,Enterprise,Bachelor,10.57
+6.1,11,1,5,Data Scientist,Bengaluru,Startup,Master,32.66
+6.7,3,1,4,HR Executive,Pune,Mid-size,Master,10.35
+3.7,12,4,4,Data Analyst,Delhi NCR,Enterprise,Diploma,10.35
+9.5,13,2,3,Data Analyst,Bengaluru,Mid-size,Bachelor,13.21
+0.2,11,1,2,Product Manager,Bengaluru,Startup,Master,23.59
+5.9,13,1,2,Software Engineer,Mumbai,Enterprise,Diploma,14.11
+1.0,8,1,4,Product Manager,Chennai,Startup,Diploma,18.72
+5.5,10,2,5,ML Engineer,Mumbai,Enterprise,Bachelor,29.26
+5.5,15,1,2,HR Executive,Pune,Mid-size,Diploma,6.61
+7.0,9,1,3,Product Manager,Pune,Startup,Bachelor,24.62
+4.5,12,2,4,Data Scientist,Chandigarh,Mid-size,Bachelor,17.91
+4.5,10,1,4,Software Engineer,Mumbai,Enterprise,Bachelor,19.53
+4.1,14,0,4,Software Engineer,Bengaluru,Mid-size,Master,18.83
+12.5,15,0,4,Sales Executive,Chennai,Mid-size,Master,16.63
+4.6,13,0,3,Software Engineer,Jaipur,Enterprise,Bachelor,13.61
+6.9,8,0,4,HR Executive,Bengaluru,Startup,Bachelor,9.82
+10.6,11,1,2,Data Analyst,Chandigarh,Enterprise,Diploma,8.77
+11.0,4,0,3,Sales Executive,Chennai,Mid-size,Bachelor,10.84
+7.9,3,3,3,HR Executive,Chandigarh,Startup,Master,9.09
+3.7,13,0,5,Data Scientist,Bengaluru,Mid-size,Bachelor,22.18
+3.3,13,2,4,Software Engineer,Mumbai,Mid-size,Bachelor,19.21
+7.9,7,1,3,Sales Executive,Bengaluru,Mid-size,Master,12.85
+0.2,3,1,3,Data Scientist,Chandigarh,Startup,Bachelor,10.95
+1.9,12,2,3,Data Scientist,Chennai,Startup,Bachelor,15.44
+1.2,13,2,3,Software Engineer,Delhi NCR,Enterprise,Bachelor,16.31
+3.9,6,1,2,Product Manager,Pune,Mid-size,Diploma,20.13
+3.0,11,0,3,ML Engineer,Chandigarh,Startup,Bachelor,15.23
+6.2,14,0,4,Data Scientist,Chennai,Enterprise,Bachelor,20.08
+5.5,9,1,4,Data Analyst,Mumbai,Enterprise,Master,13.61
+13.0,6,3,2,Software Engineer,Hyderabad,Mid-size,Master,25.25
+1.5,14,2,4,Data Scientist,Jaipur,Enterprise,Bachelor,16.87
+1.5,6,1,2,Software Engineer,Hyderabad,Mid-size,Bachelor,10.04
+6.8,12,2,3,DevOps Engineer,Chandigarh,Mid-size,Bachelor,16.5
+4.0,12,0,2,Data Analyst,Delhi NCR,Enterprise,Master,11.62
+1.7,10,0,4,ML Engineer,Delhi NCR,Mid-size,Bachelor,20.08
+11.9,10,1,2,Product Manager,Delhi NCR,Startup,Bachelor,35.14
+3.6,5,2,4,HR Executive,Chandigarh,Enterprise,Bachelor,7.05
+3.1,2,2,4,Sales Executive,Mumbai,Mid-size,Bachelor,10.39
+5.5,5,0,3,DevOps Engineer,Chennai,Startup,Master,17.2
+5.4,5,0,5,DevOps Engineer,Bengaluru,Mid-size,Bachelor,19.82
+3.9,2,1,3,Software Engineer,Hyderabad,Startup,PhD,18.59
+5.5,12,4,4,Software Engineer,Chennai,Startup,Bachelor,16.37
+6.6,2,2,4,Software Engineer,Mumbai,Startup,Bachelor,16.94
+14.9,9,1,4,Data Analyst,Hyderabad,Mid-size,Bachelor,16.92
+3.6,9,1,4,Software Engineer,Chandigarh,Enterprise,Bachelor,14.46
+4.2,5,2,3,ML Engineer,Delhi NCR,Enterprise,Master,30.41
+2.7,6,3,3,HR Executive,Mumbai,Startup,Bachelor,7.45
+3.9,10,0,3,Data Analyst,Bengaluru,Startup,Bachelor,11.12
+3.5,6,1,2,DevOps Engineer,Mumbai,Startup,Master,17.48
+7.7,14,2,4,Data Scientist,Bengaluru,Enterprise,Bachelor,33.05
+2.3,6,1,2,Software Engineer,Chennai,Mid-size,Bachelor,11.27
+5.0,13,0,2,Sales Executive,Bengaluru,Mid-size,Bachelor,9.34
+8.6,10,1,2,ML Engineer,Bengaluru,Startup,Diploma,20.25
+8.0,13,0,4,Data Analyst,Delhi NCR,Mid-size,Bachelor,13.37
+3.9,3,2,5,HR Executive,Chandigarh,Startup,Bachelor,6.76
+2.6,6,1,3,Sales Executive,Delhi NCR,Enterprise,Master,10.09
+4.6,15,1,1,DevOps Engineer,Mumbai,Enterprise,Master,23.46
+6.9,9,0,4,Software Engineer,Pune,Mid-size,Master,17.91
+7.2,2,2,3,Software Engineer,Jaipur,Startup,Bachelor,11.92
+6.7,7,1,3,HR Executive,Chennai,Enterprise,Bachelor,8.4
+5.7,7,0,3,Software Engineer,Delhi NCR,Enterprise,Diploma,15.67
+2.5,13,2,2,Product Manager,Jaipur,Mid-size,PhD,24.33
+1.9,3,3,2,HR Executive,Bengaluru,Mid-size,Bachelor,7.56
+2.4,13,0,3,Product Manager,Mumbai,Startup,Master,27.6
+7.5,12,1,4,HR Executive,Chennai,Mid-size,Bachelor,9.77
+2.9,15,1,4,Data Analyst,Jaipur,Mid-size,Master,8.54
+3.7,10,2,3,Data Analyst,Delhi NCR,Enterprise,Master,12.13
+5.1,4,0,2,Software Engineer,Mumbai,Mid-size,Master,18.62
+4.0,10,2,3,Product Manager,Hyderabad,Startup,Master,31.47
+11.1,3,0,2,Data Scientist,Chandigarh,Enterprise,Diploma,17.93
+1.9,4,1,4,Data Analyst,Bengaluru,Enterprise,Master,11.68
+3.1,4,1,2,DevOps Engineer,Chandigarh,Enterprise,Master,15.29
+5.4,7,0,3,DevOps Engineer,Pune,Startup,Bachelor,17.01
+4.5,7,2,4,DevOps Engineer,Mumbai,Mid-size,Bachelor,17.0
+2.0,13,1,4,Data Analyst,Bengaluru,Mid-size,Bachelor,9.93
+1.2,9,1,5,Data Scientist,Chandigarh,Mid-size,Master,21.74
+11.7,11,3,3,Data Scientist,Jaipur,Startup,PhD,28.38
+9.8,10,2,2,Software Engineer,Hyderabad,Mid-size,Bachelor,17.68
+1.9,5,1,3,Product Manager,Bengaluru,Enterprise,Bachelor,26.92
+9.0,6,2,2,Data Scientist,Hyderabad,Startup,Master,21.16
+5.1,15,2,5,Sales Executive,Delhi NCR,Mid-size,Diploma,9.22
+3.1,14,1,5,HR Executive,Mumbai,Enterprise,Bachelor,8.47
+4.6,12,1,4,Software Engineer,Mumbai,Startup,Master,22.33
+1.7,15,1,2,DevOps Engineer,Mumbai,Mid-size,Master,17.91
+6.0,3,0,4,ML Engineer,Bengaluru,Startup,Bachelor,26.5
+4.6,8,1,3,ML Engineer,Hyderabad,Enterprise,Master,27.44
+5.1,14,1,2,Data Scientist,Mumbai,Startup,Bachelor,21.96
+8.9,6,0,4,Data Analyst,Delhi NCR,Enterprise,Bachelor,13.45
+1.6,8,1,4,Software Engineer,Hyderabad,Mid-size,Diploma,10.32
+2.7,5,2,2,HR Executive,Chandigarh,Mid-size,Master,7.69
+5.9,5,1,5,Software Engineer,Bengaluru,Mid-size,Bachelor,16.55
+6.0,14,1,4,Software Engineer,Hyderabad,Mid-size,Bachelor,20.25
+8.4,5,2,3,Data Analyst,Chandigarh,Enterprise,Bachelor,12.36
+3.1,7,3,3,Software Engineer,Chandigarh,Mid-size,Bachelor,10.83
+2.4,5,2,4,Sales Executive,Chandigarh,Startup,Bachelor,5.91
+2.1,2,0,3,Sales Executive,Hyderabad,Startup,Master,8.0
+3.1,11,2,3,Data Analyst,Hyderabad,Mid-size,Master,12.64
+4.1,11,1,4,DevOps Engineer,Delhi NCR,Startup,PhD,21.0
+9.3,11,0,4,Data Scientist,Chennai,Enterprise,Bachelor,24.56
+6.0,14,2,2,Product Manager,Chandigarh,Mid-size,Bachelor,23.92
+4.8,8,1,3,Product Manager,Pune,Mid-size,Bachelor,23.29
+1.4,5,1,3,ML Engineer,Chandigarh,Mid-size,Master,17.93
+7.3,2,0,4,Data Analyst,Bengaluru,Startup,Master,15.37
+6.3,11,0,4,ML Engineer,Bengaluru,Mid-size,Bachelor,26.26
+3.6,13,0,4,Data Scientist,Delhi NCR,Enterprise,PhD,30.61
+2.4,5,1,4,Data Analyst,Bengaluru,Mid-size,Bachelor,9.02
+2.6,6,0,3,Software Engineer,Chandigarh,Mid-size,Master,10.99
+3.9,14,4,1,Data Analyst,Chandigarh,Enterprise,Bachelor,9.34
+2.8,8,1,2,Data Analyst,Bengaluru,Enterprise,Diploma,7.77
+3.6,5,1,4,HR Executive,Delhi NCR,Enterprise,Master,9.58
+1.9,4,2,3,DevOps Engineer,Mumbai,Enterprise,Bachelor,14.93
+7.4,9,2,3,Data Scientist,Delhi NCR,Startup,Master,22.96
+3.4,14,1,2,Product Manager,Pune,Mid-size,Bachelor,21.69
+0.5,8,2,3,Software Engineer,Chennai,Startup,Bachelor,10.93
+3.7,8,1,3,Software Engineer,Delhi NCR,Startup,Master,13.37
+3.5,12,2,3,DevOps Engineer,Bengaluru,Enterprise,Bachelor,21.91
+4.8,7,5,2,Data Analyst,Bengaluru,Enterprise,Bachelor,15.63
+6.0,14,0,4,HR Executive,Delhi NCR,Mid-size,Bachelor,9.14
+2.6,13,0,1,DevOps Engineer,Chennai,Startup,Bachelor,11.75
+4.6,6,0,4,HR Executive,Pune,Startup,Bachelor,7.91
+3.6,11,1,3,Software Engineer,Chennai,Startup,Bachelor,13.71
+4.1,4,1,2,Data Scientist,Delhi NCR,Enterprise,Bachelor,21.09
+2.7,2,0,3,DevOps Engineer,Chandigarh,Enterprise,Bachelor,12.88
+1.0,5,2,4,Software Engineer,Chennai,Enterprise,Bachelor,11.17
+7.5,14,1,3,Software Engineer,Mumbai,Mid-size,Bachelor,18.81
+6.2,12,2,1,Data Analyst,Pune,Enterprise,Bachelor,10.94
+3.9,7,0,5,ML Engineer,Delhi NCR,Enterprise,Master,28.81
+1.5,6,1,3,HR Executive,Jaipur,Mid-size,Bachelor,4.91
+9.4,14,2,3,Product Manager,Chandigarh,Startup,Bachelor,27.88
+5.9,6,0,3,Software Engineer,Jaipur,Mid-size,Diploma,10.6
+10.8,5,0,2,Software Engineer,Chennai,Enterprise,Diploma,15.07
+6.1,2,3,3,Sales Executive,Bengaluru,Mid-size,Master,12.15
+7.1,4,1,3,Data Scientist,Pune,Startup,Bachelor,20.06
+9.8,2,0,4,Data Scientist,Hyderabad,Mid-size,Bachelor,23.38
+8.3,11,1,4,HR Executive,Bengaluru,Mid-size,Master,15.23
+1.9,11,0,3,HR Executive,Jaipur,Mid-size,Bachelor,6.55
+8.1,5,1,4,Product Manager,Chandigarh,Mid-size,Master,29.88
+1.8,9,1,2,Sales Executive,Hyderabad,Mid-size,Master,8.09
+3.3,6,1,2,Software Engineer,Jaipur,Startup,Bachelor,11.58
+3.2,5,1,4,Software Engineer,Bengaluru,Enterprise,Master,19.13
+4.4,12,2,4,HR Executive,Hyderabad,Enterprise,Master,11.45
+10.8,2,1,1,Data Analyst,Jaipur,Startup,Bachelor,8.15
+2.1,6,0,2,Software Engineer,Chandigarh,Enterprise,Bachelor,9.88
+1.1,14,1,3,Data Analyst,Chennai,Enterprise,Bachelor,8.67
+5.7,15,1,4,Data Scientist,Hyderabad,Startup,Bachelor,23.43
+5.2,14,2,3,Software Engineer,Jaipur,Enterprise,Master,17.55
+3.2,12,0,4,HR Executive,Hyderabad,Mid-size,Bachelor,7.86
+6.6,3,0,5,Data Scientist,Delhi NCR,Enterprise,Bachelor,25.2
+4.4,14,1,5,Sales Executive,Mumbai,Startup,Bachelor,11.24
+10.0,5,2,4,Data Scientist,Chandigarh,Enterprise,PhD,28.59
+8.6,9,0,3,Product Manager,Hyderabad,Startup,Bachelor,23.18
+3.6,11,3,4,HR Executive,Pune,Mid-size,Diploma,7.19
+2.0,5,2,4,Sales Executive,Hyderabad,Mid-size,Bachelor,8.77
+1.6,10,3,2,Software Engineer,Hyderabad,Mid-size,Bachelor,14.06
+11.3,6,0,4,Data Analyst,Jaipur,Startup,Bachelor,11.16
+6.6,7,2,5,DevOps Engineer,Delhi NCR,Mid-size,Master,26.29
+1.9,7,2,3,Product Manager,Chennai,Mid-size,Bachelor,22.6
+2.1,10,0,5,Sales Executive,Hyderabad,Enterprise,Diploma,8.12
+4.5,10,2,3,Data Scientist,Pune,Mid-size,Master,20.31
+11.7,12,2,3,Product Manager,Pune,Mid-size,Master,38.2
+5.9,4,0,2,Software Engineer,Hyderabad,Enterprise,Diploma,13.8
+0.9,6,1,4,Sales Executive,Delhi NCR,Mid-size,Master,7.44
+4.7,4,3,3,Sales Executive,Chennai,Startup,Diploma,6.51
+1.9,10,1,3,HR Executive,Bengaluru,Mid-size,PhD,9.53
+5.6,8,1,2,Data Analyst,Pune,Startup,Diploma,7.03
+5.1,11,1,4,Software Engineer,Pune,Enterprise,Bachelor,17.86
+1.0,13,1,3,Data Analyst,Delhi NCR,Startup,Diploma,6.74
+3.0,14,2,4,Data Analyst,Pune,Mid-size,Bachelor,7.92
+3.7,6,2,4,Software Engineer,Delhi NCR,Startup,Bachelor,17.25
+4.1,14,1,4,Software Engineer,Jaipur,Enterprise,Bachelor,13.54
+8.7,4,0,3,Software Engineer,Chennai,Startup,Bachelor,13.25
+7.3,15,3,5,HR Executive,Chandigarh,Startup,Bachelor,9.22
+1.7,6,1,3,Software Engineer,Chennai,Enterprise,Master,13.67
+4.2,3,3,2,Software Engineer,Jaipur,Mid-size,PhD,13.19
+10.8,13,1,3,Software Engineer,Chandigarh,Enterprise,Master,18.56
+4.7,11,1,4,Software Engineer,Bengaluru,Enterprise,Bachelor,20.05
+2.0,10,1,5,DevOps Engineer,Chennai,Enterprise,Bachelor,18.81
+4.3,12,2,3,Product Manager,Mumbai,Mid-size,Bachelor,30.32
+2.7,11,2,4,Data Analyst,Bengaluru,Enterprise,Master,14.81
+10.9,15,0,3,Software Engineer,Chandigarh,Mid-size,Bachelor,16.13
+7.5,5,1,3,Product Manager,Jaipur,Mid-size,Diploma,22.0
+2.3,4,2,1,Data Analyst,Delhi NCR,Mid-size,PhD,10.01
+2.3,12,1,4,DevOps Engineer,Delhi NCR,Mid-size,PhD,19.12
+2.4,7,1,4,HR Executive,Bengaluru,Startup,Bachelor,8.08
+3.8,8,0,3,Software Engineer,Chennai,Enterprise,Master,16.62
+4.4,12,2,3,Sales Executive,Chandigarh,Mid-size,Diploma,7.45
+6.8,14,1,3,Sales Executive,Hyderabad,Mid-size,Bachelor,9.98
+0.8,3,0,3,Software Engineer,Mumbai,Enterprise,Bachelor,12.21
+9.4,14,2,2,Sales Executive,Jaipur,Enterprise,PhD,12.57
+2.9,9,2,3,Data Scientist,Pune,Enterprise,Diploma,16.55
+9.5,13,1,2,Software Engineer,Bengaluru,Enterprise,Bachelor,22.3
+2.7,8,3,2,ML Engineer,Mumbai,Startup,Bachelor,22.2
+4.0,2,0,2,Software Engineer,Hyderabad,Mid-size,Bachelor,14.1
+7.4,15,0,4,Software Engineer,Hyderabad,Startup,Master,23.3
+8.2,4,2,2,Data Scientist,Mumbai,Mid-size,Bachelor,22.73
+15.2,11,2,4,Data Scientist,Mumbai,Startup,Bachelor,33.84
+1.1,6,2,3,Product Manager,Jaipur,Mid-size,Bachelor,16.83
+1.5,12,2,3,Software Engineer,Jaipur,Startup,Master,12.98
+8.0,6,1,4,Data Analyst,Delhi NCR,Mid-size,Bachelor,11.3
+2.2,4,1,3,Data Analyst,Chandigarh,Startup,Bachelor,6.76
+2.6,14,2,4,HR Executive,Delhi NCR,Enterprise,Bachelor,10.08
+7.4,14,0,3,Data Analyst,Delhi NCR,Mid-size,Master,14.2
+3.3,3,1,2,DevOps Engineer,Bengaluru,Startup,Bachelor,12.61
+1.6,3,3,2,Sales Executive,Jaipur,Enterprise,Bachelor,7.6
+3.2,15,1,3,HR Executive,Jaipur,Enterprise,Bachelor,7.0
+2.5,7,0,2,ML Engineer,Mumbai,Startup,PhD,27.33
+3.4,3,2,3,Software Engineer,Chennai,Enterprise,Master,15.32
+1.7,10,2,1,ML Engineer,Chandigarh,Mid-size,Bachelor,13.14
+1.6,12,2,1,Sales Executive,Chennai,Mid-size,Master,8.17
+1.5,9,3,1,Sales Executive,Jaipur,Startup,Master,5.95
+2.0,3,1,1,DevOps Engineer,Bengaluru,Mid-size,Master,13.55
+2.3,8,0,4,Product Manager,Chennai,Mid-size,Bachelor,26.88
+3.2,2,2,5,Data Scientist,Pune,Startup,Master,16.68
+5.6,12,2,2,Product Manager,Delhi NCR,Mid-size,Bachelor,29.47
+9.6,10,0,5,DevOps Engineer,Bengaluru,Mid-size,Bachelor,28.96
+5.1,10,2,3,Data Scientist,Delhi NCR,Mid-size,Bachelor,21.37
+5.0,12,0,3,Data Scientist,Chandigarh,Mid-size,Bachelor,18.51
+3.7,15,3,5,HR Executive,Chandigarh,Startup,Bachelor,6.59
+3.4,2,1,2,Software Engineer,Chennai,Enterprise,Master,15.01
+3.6,14,1,4,Data Analyst,Hyderabad,Enterprise,Bachelor,9.88
+7.3,8,1,3,DevOps Engineer,Chennai,Enterprise,Bachelor,19.02
+6.1,10,1,3,HR Executive,Delhi NCR,Mid-size,Master,9.51
+9.9,14,0,4,Product Manager,Delhi NCR,Mid-size,Bachelor,36.01
+3.4,6,1,3,DevOps Engineer,Pune,Mid-size,Diploma,10.76
+2.1,8,0,3,Data Analyst,Bengaluru,Enterprise,Master,11.27
+3.2,4,1,2,Product Manager,Bengaluru,Enterprise,PhD,29.33
+2.5,2,0,3,Data Scientist,Jaipur,Mid-size,Bachelor,12.54
+10.3,11,1,5,DevOps Engineer,Chennai,Enterprise,Bachelor,26.47
+7.0,12,0,3,Software Engineer,Chandigarh,Mid-size,Master,20.91
+5.3,12,1,2,HR Executive,Jaipur,Mid-size,Bachelor,6.42
+1.4,7,1,4,Software Engineer,Jaipur,Mid-size,Bachelor,9.01
+4.9,8,1,4,Data Analyst,Hyderabad,Enterprise,Master,12.08
+10.4,4,1,3,Software Engineer,Bengaluru,Startup,Bachelor,17.89
+3.2,8,0,4,Software Engineer,Hyderabad,Enterprise,PhD,20.95
+6.2,8,3,2,DevOps Engineer,Jaipur,Mid-size,Master,15.64
+13.2,9,0,4,Product Manager,Delhi NCR,Startup,Master,47.22
+10.6,8,0,3,Data Scientist,Chennai,Startup,Bachelor,23.86
+10.1,3,2,3,DevOps Engineer,Hyderabad,Enterprise,Master,22.62
+4.0,11,1,4,Software Engineer,Hyderabad,Mid-size,Bachelor,16.74
+5.0,14,2,4,Data Analyst,Hyderabad,Startup,Master,11.93
+1.4,14,1,5,Data Scientist,Chandigarh,Enterprise,PhD,24.6
+6.1,2,1,5,Data Analyst,Chandigarh,Enterprise,PhD,15.6
+1.8,4,0,3,Data Scientist,Delhi NCR,Startup,Bachelor,14.86
+7.5,6,0,5,Software Engineer,Chandigarh,Enterprise,Bachelor,19.63
+9.8,9,2,3,Data Scientist,Chandigarh,Startup,Master,20.71
+7.9,7,1,2,Product Manager,Jaipur,Mid-size,Bachelor,22.0
+7.1,4,2,2,Software Engineer,Bengaluru,Enterprise,Bachelor,17.46
+3.5,15,2,4,Software Engineer,Chandigarh,Mid-size,Bachelor,13.85
+2.5,11,3,4,HR Executive,Mumbai,Mid-size,Bachelor,9.84
+3.3,7,0,3,Software Engineer,Hyderabad,Startup,Master,17.22
+14.6,15,3,4,Software Engineer,Mumbai,Enterprise,Diploma,26.98
+11.9,8,0,3,HR Executive,Delhi NCR,Startup,Master,11.08
+1.5,9,3,3,Data Analyst,Pune,Mid-size,Master,9.88
+5.1,3,0,2,Product Manager,Hyderabad,Enterprise,Diploma,19.86
+8.0,9,0,3,DevOps Engineer,Pune,Startup,Bachelor,15.27
+2.7,13,1,2,Product Manager,Chennai,Enterprise,Bachelor,25.38
+0.5,9,2,3,ML Engineer,Pune,Mid-size,Bachelor,17.44
+4.5,7,1,3,ML Engineer,Jaipur,Enterprise,Bachelor,19.55
+6.9,4,0,3,Software Engineer,Pune,Enterprise,Diploma,12.43
+7.8,2,2,3,Data Analyst,Chennai,Startup,Master,13.37
+1.2,12,1,3,Software Engineer,Bengaluru,Startup,Bachelor,12.74
+7.2,14,0,3,Sales Executive,Pune,Mid-size,Master,10.52
+6.2,8,0,3,Data Analyst,Jaipur,Mid-size,Bachelor,8.62
+17.0,5,1,5,Software Engineer,Chennai,Mid-size,Bachelor,23.35
+10.1,10,2,3,DevOps Engineer,Mumbai,Startup,Bachelor,22.2
+4.3,8,1,2,Data Scientist,Delhi NCR,Startup,Bachelor,18.97
+4.2,14,0,3,Software Engineer,Mumbai,Enterprise,Bachelor,22.05
+3.4,10,4,3,Software Engineer,Chandigarh,Mid-size,Master,13.02
+2.5,2,4,3,Data Analyst,Mumbai,Startup,Master,9.21
+17.7,10,1,3,Software Engineer,Bengaluru,Mid-size,Bachelor,29.2
+12.5,12,0,3,Sales Executive,Hyderabad,Mid-size,Bachelor,12.54
+1.7,3,0,3,Software Engineer,Chennai,Mid-size,Bachelor,8.71
+2.7,2,3,3,Software Engineer,Bengaluru,Mid-size,Master,16.65
+12.9,11,1,3,Data Scientist,Jaipur,Mid-size,Bachelor,23.05
+3.5,6,1,4,Data Analyst,Mumbai,Mid-size,Master,11.0
+9.3,7,1,5,Data Analyst,Bengaluru,Startup,Master,16.67
+1.5,8,0,4,Software Engineer,Chennai,Startup,Master,12.85
+7.4,4,2,3,Data Analyst,Chennai,Enterprise,Diploma,8.67
+13.5,10,1,5,Software Engineer,Delhi NCR,Mid-size,Master,25.82
+6.3,8,0,3,Data Analyst,Chennai,Mid-size,PhD,12.3
+4.5,3,3,2,Data Analyst,Jaipur,Startup,Master,7.92
+8.6,9,1,5,Data Scientist,Bengaluru,Enterprise,Diploma,24.95
+3.6,13,2,3,ML Engineer,Bengaluru,Enterprise,Master,33.81
+11.9,11,0,4,Sales Executive,Hyderabad,Startup,Diploma,9.98
+10.1,7,3,3,HR Executive,Pune,Mid-size,Bachelor,11.65
+0.8,6,1,3,Sales Executive,Chandigarh,Mid-size,Master,7.01
+1.6,15,0,3,DevOps Engineer,Jaipur,Startup,Master,13.1
+13.6,5,2,2,Data Scientist,Pune,Startup,Bachelor,21.44
+2.0,15,1,3,Data Scientist,Jaipur,Enterprise,Master,19.36
+3.5,13,0,5,Product Manager,Jaipur,Mid-size,Bachelor,23.39
+5.0,7,0,4,Data Scientist,Chandigarh,Mid-size,PhD,22.5
+3.5,4,2,3,HR Executive,Bengaluru,Mid-size,Master,10.24
+2.4,15,0,3,Software Engineer,Hyderabad,Mid-size,Bachelor,14.23
+4.7,4,3,4,HR Executive,Chennai,Mid-size,Bachelor,8.51
+4.7,4,1,4,Software Engineer,Mumbai,Startup,Bachelor,17.09
+7.6,11,0,2,HR Executive,Jaipur,Startup,PhD,8.97
+2.5,5,1,2,Data Analyst,Chandigarh,Startup,Diploma,5.78
+0.5,11,1,4,HR Executive,Bengaluru,Mid-size,Master,8.04
+9.7,15,1,4,Data Scientist,Delhi NCR,Enterprise,Bachelor,33.08
+12.1,10,1,3,Software Engineer,Bengaluru,Mid-size,Bachelor,21.03
+3.9,4,2,3,ML Engineer,Bengaluru,Mid-size,Master,32.84
+2.5,12,0,2,Data Scientist,Pune,Startup,Master,15.72
+2.7,9,2,1,HR Executive,Mumbai,Enterprise,Master,9.04
+6.8,8,0,5,Sales Executive,Mumbai,Mid-size,Bachelor,11.23
+5.8,2,1,3,Data Scientist,Chennai,Mid-size,Bachelor,18.73
+6.7,7,2,3,Sales Executive,Pune,Mid-size,Bachelor,8.69
+8.4,10,0,2,Sales Executive,Pune,Mid-size,Master,11.01
+0.6,13,1,4,Data Analyst,Chennai,Enterprise,Bachelor,8.57
+5.8,5,1,5,Data Scientist,Pune,Mid-size,Master,23.09
+4.2,15,1,3,Data Analyst,Chandigarh,Enterprise,Diploma,8.16
+11.8,7,1,3,Software Engineer,Jaipur,Enterprise,Bachelor,17.61
+4.5,2,1,3,Software Engineer,Chennai,Mid-size,Master,14.95
+4.8,11,1,2,Software Engineer,Mumbai,Enterprise,Bachelor,17.77
+2.3,14,0,5,Data Scientist,Pune,Mid-size,Bachelor,20.82
+2.4,7,1,2,Product Manager,Jaipur,Startup,Bachelor,14.7
+9.3,13,1,4,Data Scientist,Hyderabad,Enterprise,Bachelor,28.17
+7.4,13,1,2,Sales Executive,Bengaluru,Enterprise,Bachelor,13.22
+3.5,4,1,3,HR Executive,Chennai,Enterprise,Bachelor,7.23
+2.4,5,0,4,Sales Executive,Mumbai,Enterprise,Bachelor,8.78
+4.6,10,2,3,ML Engineer,Pune,Startup,Master,24.32
+6.8,15,2,3,Software Engineer,Delhi NCR,Mid-size,Bachelor,17.14
+7.3,14,0,3,HR Executive,Chandigarh,Enterprise,Bachelor,9.79
+1.0,7,0,3,Data Analyst,Bengaluru,Mid-size,Bachelor,7.97
+4.6,3,4,5,HR Executive,Pune,Startup,Bachelor,9.15
+8.5,11,1,2,DevOps Engineer,Hyderabad,Enterprise,Master,26.5
+11.3,2,3,4,Data Analyst,Delhi NCR,Mid-size,PhD,16.32
+7.0,7,1,3,DevOps Engineer,Bengaluru,Mid-size,Bachelor,20.64
+2.9,15,3,5,Data Analyst,Jaipur,Mid-size,Diploma,8.3
+1.0,9,2,4,Software Engineer,Delhi NCR,Mid-size,Diploma,11.44
+10.9,7,0,4,DevOps Engineer,Chandigarh,Startup,Bachelor,17.41
+2.4,4,1,2,Data Analyst,Bengaluru,Mid-size,Bachelor,9.31
+8.1,9,0,4,Software Engineer,Bengaluru,Mid-size,Bachelor,21.62
+1.6,7,2,1,Software Engineer,Chennai,Enterprise,Bachelor,11.49
+3.7,4,0,4,Software Engineer,Bengaluru,Enterprise,Bachelor,15.34
+2.3,12,1,4,DevOps Engineer,Delhi NCR,Mid-size,Bachelor,17.29
+10.3,6,0,3,Product Manager,Mumbai,Startup,Bachelor,33.83
+1.6,4,2,4,Sales Executive,Chandigarh,Startup,Bachelor,5.97
+20.8,9,4,3,Data Analyst,Bengaluru,Mid-size,Master,22.16
+7.2,15,1,5,Software Engineer,Hyderabad,Mid-size,Bachelor,24.69
+5.3,5,0,3,Data Scientist,Jaipur,Startup,Diploma,12.95
+2.9,13,0,4,Software Engineer,Chandigarh,Mid-size,Master,13.2
+1.5,12,0,3,ML Engineer,Pune,Enterprise,Bachelor,18.76
+6.0,15,3,5,Sales Executive,Hyderabad,Mid-size,Master,13.11
+1.5,7,2,4,Software Engineer,Mumbai,Startup,Bachelor,11.62
+11.8,10,0,3,HR Executive,Chennai,Mid-size,Master,11.7
+5.2,13,3,4,DevOps Engineer,Delhi NCR,Startup,Bachelor,17.17
+5.6,7,0,3,Software Engineer,Delhi NCR,Enterprise,Bachelor,16.54
+4.3,4,0,3,Data Analyst,Chennai,Mid-size,Diploma,8.92
+0.1,5,3,3,Software Engineer,Delhi NCR,Mid-size,Bachelor,11.05
+7.4,6,2,4,Data Scientist,Delhi NCR,Mid-size,Bachelor,21.56
+9.3,2,1,3,HR Executive,Bengaluru,Mid-size,Bachelor,11.0
+4.6,14,1,4,HR Executive,Pune,Mid-size,Master,9.75
+5.3,7,3,4,ML Engineer,Bengaluru,Mid-size,Bachelor,29.53
+4.1,9,2,5,Data Analyst,Chandigarh,Startup,Bachelor,9.16
+11.5,15,0,3,Data Analyst,Hyderabad,Mid-size,Bachelor,13.75
+4.0,2,2,2,ML Engineer,Pune,Startup,Master,19.64
+5.2,12,1,3,Software Engineer,Pune,Startup,Bachelor,14.04
+10.7,10,2,3,Product Manager,Hyderabad,Enterprise,Bachelor,42.19
+7.7,13,1,4,Data Scientist,Pune,Mid-size,Bachelor,23.93
+1.8,12,0,4,Software Engineer,Pune,Mid-size,Bachelor,14.27
+1.5,14,0,3,Software Engineer,Jaipur,Enterprise,Master,12.29
+6.8,4,0,2,Data Analyst,Pune,Startup,Bachelor,9.2
+2.3,3,1,5,Software Engineer,Jaipur,Startup,Bachelor,10.93
+2.1,12,1,4,DevOps Engineer,Delhi NCR,Startup,Master,15.95
+3.8,5,0,5,HR Executive,Jaipur,Mid-size,Master,7.94
+8.4,11,1,3,Data Analyst,Chennai,Mid-size,Bachelor,10.64
+5.6,12,0,5,Sales Executive,Delhi NCR,Mid-size,Diploma,9.83
+2.4,6,1,5,Software Engineer,Bengaluru,Mid-size,Bachelor,15.22
+4.8,2,0,3,Software Engineer,Pune,Mid-size,Bachelor,14.83
+5.4,12,1,4,Data Scientist,Mumbai,Mid-size,Bachelor,22.33
+8.9,11,2,5,Data Scientist,Mumbai,Mid-size,Bachelor,32.43
+2.7,2,0,3,Software Engineer,Delhi NCR,Enterprise,Bachelor,13.43
+3.9,12,0,5,DevOps Engineer,Pune,Mid-size,Bachelor,15.51
+2.7,9,0,4,Software Engineer,Bengaluru,Startup,Bachelor,15.61
+6.7,6,0,4,Sales Executive,Chandigarh,Startup,Bachelor,8.08
+1.3,7,1,5,Sales Executive,Jaipur,Startup,Diploma,5.45
+3.6,7,0,5,Sales Executive,Mumbai,Mid-size,Bachelor,9.05
+4.1,4,1,3,Data Analyst,Pune,Mid-size,Bachelor,9.82
+4.7,2,2,5,HR Executive,Hyderabad,Enterprise,Bachelor,9.09
+3.1,11,1,3,Data Analyst,Bengaluru,Startup,Bachelor,9.51
+2.9,4,0,5,HR Executive,Chandigarh,Startup,Master,6.86
+9.3,4,2,3,HR Executive,Delhi NCR,Startup,Bachelor,8.34
+5.0,5,2,2,Data Scientist,Jaipur,Mid-size,Master,17.63
+2.4,2,3,2,Sales Executive,Mumbai,Startup,Bachelor,8.38
+2.6,3,1,4,Product Manager,Delhi NCR,Enterprise,Diploma,22.34
+3.6,6,1,3,Sales Executive,Pune,Mid-size,Master,8.78
+3.7,11,2,4,DevOps Engineer,Bengaluru,Startup,Bachelor,17.87
+2.1,15,0,5,Product Manager,Jaipur,Mid-size,Bachelor,21.3
+5.6,13,2,4,Software Engineer,Chennai,Mid-size,Bachelor,17.2
+5.3,10,3,3,Software Engineer,Mumbai,Enterprise,Bachelor,17.74
+6.9,11,2,2,Software Engineer,Mumbai,Enterprise,Bachelor,16.72
+9.6,12,2,2,Data Analyst,Pune,Startup,Bachelor,10.14
+9.6,15,1,4,Product Manager,Hyderabad,Enterprise,Bachelor,35.77
+1.0,7,1,3,Data Analyst,Hyderabad,Startup,Bachelor,7.79
+5.0,3,1,2,Data Analyst,Delhi NCR,Mid-size,Diploma,6.62
+7.5,6,2,4,Sales Executive,Mumbai,Enterprise,Master,13.06
+5.6,12,0,4,DevOps Engineer,Hyderabad,Enterprise,Bachelor,21.23
+1.2,10,2,4,Software Engineer,Mumbai,Startup,Bachelor,11.48
+2.6,5,0,3,DevOps Engineer,Bengaluru,Mid-size,Diploma,13.22
+9.9,7,1,4,Data Scientist,Chennai,Startup,Bachelor,21.51
+1.6,10,0,4,DevOps Engineer,Chennai,Startup,Master,13.88
+6.0,6,3,5,Data Scientist,Jaipur,Enterprise,Master,25.39
+2.9,14,1,5,Data Analyst,Chandigarh,Enterprise,Master,10.81
+4.8,5,0,3,Software Engineer,Bengaluru,Enterprise,Master,21.48
+2.6,10,0,4,ML Engineer,Mumbai,Startup,Bachelor,19.92
+11.4,12,0,1,HR Executive,Hyderabad,Startup,Bachelor,9.22
+10.7,10,0,3,Sales Executive,Chandigarh,Mid-size,Bachelor,9.29
+2.6,6,0,3,Data Analyst,Pune,Mid-size,Master,9.22
+1.9,8,2,2,Data Analyst,Bengaluru,Startup,PhD,9.96
+5.7,12,1,3,Product Manager,Pune,Mid-size,Master,33.81
+9.8,9,3,4,Sales Executive,Hyderabad,Enterprise,Diploma,12.54
+3.1,4,3,2,ML Engineer,Pune,Startup,Master,21.53
+8.8,14,1,3,HR Executive,Chennai,Mid-size,Bachelor,9.55
+4.1,5,0,2,DevOps Engineer,Jaipur,Mid-size,Bachelor,12.07
+2.2,11,1,4,Product Manager,Hyderabad,Enterprise,Bachelor,29.19
+7.5,15,1,1,Software Engineer,Chandigarh,Mid-size,Master,17.61
+8.3,2,0,3,Product Manager,Delhi NCR,Mid-size,Master,36.87
+6.4,11,2,3,DevOps Engineer,Hyderabad,Startup,Bachelor,17.57
+6.1,14,1,5,Software Engineer,Mumbai,Mid-size,Diploma,15.6
+6.8,14,1,3,Software Engineer,Pune,Enterprise,Diploma,15.03
+2.0,13,1,3,Software Engineer,Hyderabad,Enterprise,Master,17.36
+3.0,13,1,5,DevOps Engineer,Jaipur,Mid-size,Bachelor,15.28
+1.1,13,3,3,HR Executive,Hyderabad,Mid-size,Diploma,6.06
+9.3,11,0,5,Sales Executive,Bengaluru,Enterprise,Bachelor,16.37
+10.2,5,1,4,ML Engineer,Chennai,Enterprise,Master,33.11
+2.2,5,1,3,DevOps Engineer,Chennai,Startup,Master,16.4
+4.3,9,3,3,HR Executive,Delhi NCR,Mid-size,Bachelor,9.18
+8.8,3,2,4,HR Executive,Mumbai,Enterprise,Master,13.35
+8.1,4,3,4,DevOps Engineer,Delhi NCR,Enterprise,Bachelor,22.94
+8.0,3,1,2,Software Engineer,Pune,Mid-size,Diploma,12.21
+3.3,4,0,2,DevOps Engineer,Pune,Mid-size,Bachelor,12.52
+2.8,3,2,4,Data Analyst,Pune,Enterprise,Bachelor,8.87
+8.1,13,0,4,Product Manager,Hyderabad,Startup,Master,37.49
+5.9,14,1,4,Data Analyst,Chennai,Enterprise,Master,11.58
+8.6,5,2,5,Data Analyst,Chennai,Mid-size,Bachelor,11.62
+4.6,11,3,5,Software Engineer,Chandigarh,Mid-size,Master,17.77
+3.3,8,0,4,ML Engineer,Delhi NCR,Startup,Bachelor,22.9
+6.1,13,0,3,ML Engineer,Chennai,Startup,Bachelor,19.84
+3.6,9,2,5,DevOps Engineer,Chandigarh,Mid-size,Bachelor,16.49
+1.1,8,1,4,Product Manager,Mumbai,Mid-size,Bachelor,23.22
+2.1,7,1,3,Data Scientist,Hyderabad,Enterprise,Diploma,14.35
+1.2,4,1,4,Software Engineer,Jaipur,Enterprise,Master,12.9
+6.4,13,1,1,Sales Executive,Bengaluru,Startup,Bachelor,8.93
+4.1,12,1,2,ML Engineer,Bengaluru,Startup,Bachelor,23.51
+16.4,11,2,4,HR Executive,Jaipur,Mid-size,Master,12.04
+0.8,3,1,3,Sales Executive,Jaipur,Enterprise,Master,7.58
+3.0,11,0,3,Data Analyst,Bengaluru,Startup,Bachelor,9.58
+2.6,10,2,4,DevOps Engineer,Bengaluru,Mid-size,Bachelor,18.48
+16.3,3,1,3,Data Analyst,Chandigarh,Enterprise,Bachelor,13.59
+5.2,7,0,3,ML Engineer,Jaipur,Enterprise,Bachelor,24.8
+6.2,10,2,4,Data Scientist,Jaipur,Mid-size,Diploma,14.69
+3.6,13,0,4,HR Executive,Bengaluru,Enterprise,Diploma,7.67
+3.3,3,0,4,Sales Executive,Delhi NCR,Mid-size,Bachelor,8.6
+5.6,12,2,2,Software Engineer,Mumbai,Mid-size,Diploma,16.18
+13.8,6,2,1,ML Engineer,Chandigarh,Mid-size,Bachelor,23.98
+2.4,13,1,3,Data Scientist,Hyderabad,Enterprise,Bachelor,19.81
+4.4,14,0,3,Product Manager,Jaipur,Mid-size,Master,21.11
+1.2,10,0,3,DevOps Engineer,Hyderabad,Mid-size,Master,16.39
+9.6,3,2,3,ML Engineer,Delhi NCR,Enterprise,Bachelor,28.53
+2.1,12,1,4,DevOps Engineer,Chennai,Mid-size,Master,16.31
+7.2,6,1,3,Data Analyst,Mumbai,Enterprise,PhD,16.87
+4.8,2,1,3,ML Engineer,Pune,Startup,PhD,23.89
+8.9,13,4,3,Sales Executive,Bengaluru,Mid-size,PhD,17.4
+4.5,5,2,4,Data Scientist,Pune,Startup,Bachelor,21.86
+2.3,9,0,4,Software Engineer,Mumbai,Mid-size,Bachelor,15.13
+5.7,5,2,4,DevOps Engineer,Jaipur,Mid-size,Bachelor,14.44
+6.7,15,1,3,Software Engineer,Hyderabad,Mid-size,Master,17.93
+1.6,11,2,3,Software Engineer,Jaipur,Startup,Master,11.88
+3.3,7,0,3,DevOps Engineer,Hyderabad,Mid-size,PhD,20.41
+4.5,8,2,3,Data Scientist,Bengaluru,Mid-size,Bachelor,23.25
+5.4,4,0,3,Sales Executive,Chennai,Mid-size,Bachelor,8.62
+5.2,3,2,2,Data Scientist,Jaipur,Mid-size,Bachelor,16.17
+9.8,15,2,3,HR Executive,Mumbai,Mid-size,Bachelor,11.88
+1.9,15,1,2,Data Analyst,Hyderabad,Startup,Bachelor,7.64
+1.1,3,2,2,Data Analyst,Jaipur,Mid-size,Master,6.09
+0.6,9,1,4,Data Scientist,Delhi NCR,Enterprise,Bachelor,16.75
+12.1,13,1,3,Data Scientist,Pune,Startup,Bachelor,28.57
+6.5,12,2,3,Product Manager,Delhi NCR,Enterprise,Bachelor,33.49
+7.1,4,1,2,HR Executive,Hyderabad,Enterprise,Master,11.13
+4.1,7,2,3,Software Engineer,Hyderabad,Startup,Bachelor,12.73
+12.3,10,2,3,Data Analyst,Delhi NCR,Startup,Diploma,10.98
+5.5,4,1,2,Product Manager,Pune,Enterprise,Bachelor,26.92
+6.3,13,0,3,Software Engineer,Pune,Mid-size,Master,16.91
+1.9,13,2,1,Data Scientist,Mumbai,Mid-size,Diploma,14.26
+14.2,10,0,3,Software Engineer,Hyderabad,Enterprise,Master,21.73
+2.3,14,0,3,DevOps Engineer,Chandigarh,Enterprise,Bachelor,16.19
+2.1,14,1,3,Software Engineer,Chennai,Mid-size,Bachelor,13.95
+2.8,4,1,3,Product Manager,Chandigarh,Mid-size,Master,23.87
+7.1,6,0,3,ML Engineer,Delhi NCR,Startup,Bachelor,24.57
+2.8,12,0,2,HR Executive,Chandigarh,Mid-size,Bachelor,5.31
+3.0,8,1,4,Software Engineer,Chandigarh,Mid-size,Bachelor,11.11
+3.6,3,1,4,HR Executive,Mumbai,Mid-size,Master,9.2
+2.2,3,0,1,Software Engineer,Delhi NCR,Mid-size,Bachelor,11.78
+13.5,5,1,3,Software Engineer,Mumbai,Mid-size,Bachelor,20.85
+4.8,2,2,4,Data Scientist,Bengaluru,Mid-size,Master,27.97
+1.0,3,0,2,Software Engineer,Mumbai,Startup,Bachelor,9.24
+11.1,12,1,4,Software Engineer,Jaipur,Enterprise,Bachelor,20.63
+4.4,11,1,3,DevOps Engineer,Jaipur,Mid-size,Diploma,12.21
+2.4,3,1,3,DevOps Engineer,Bengaluru,Startup,Master,15.51
+4.0,9,2,4,HR Executive,Pune,Mid-size,Master,9.01
+2.5,7,0,4,HR Executive,Delhi NCR,Startup,Bachelor,7.39
+5.9,5,2,5,Data Analyst,Mumbai,Mid-size,Master,14.27
+1.8,11,3,3,HR Executive,Pune,Enterprise,Master,9.57
+6.8,12,1,2,Sales Executive,Pune,Startup,Bachelor,8.33
+1.5,7,3,3,Sales Executive,Chandigarh,Mid-size,Bachelor,6.43
+2.1,5,1,3,DevOps Engineer,Chennai,Startup,Bachelor,11.64
+6.5,5,0,4,HR Executive,Delhi NCR,Mid-size,Master,10.26
+10.9,11,1,4,Software Engineer,Bengaluru,Startup,Diploma,19.2
+8.0,13,0,4,Software Engineer,Mumbai,Enterprise,Bachelor,25.05
+3.0,3,1,4,HR Executive,Mumbai,Enterprise,Bachelor,8.45
+1.3,13,1,4,Software Engineer,Chandigarh,Enterprise,Diploma,10.61
+6.4,14,0,3,Data Scientist,Chandigarh,Mid-size,PhD,27.81
+3.5,8,2,4,DevOps Engineer,Hyderabad,Enterprise,Bachelor,22.21
+1.9,12,0,1,HR Executive,Hyderabad,Mid-size,Diploma,5.24
+5.3,4,1,5,HR Executive,Chennai,Mid-size,Bachelor,7.37
+4.0,10,3,4,HR Executive,Jaipur,Enterprise,PhD,10.21
+5.0,4,2,4,Data Analyst,Chandigarh,Enterprise,Master,12.14
+2.2,9,2,3,Software Engineer,Bengaluru,Startup,Bachelor,14.54
+2.7,5,0,3,Software Engineer,Mumbai,Mid-size,Bachelor,14.86
+6.7,8,1,4,DevOps Engineer,Hyderabad,Mid-size,Master,24.62
+6.4,8,0,1,DevOps Engineer,Mumbai,Enterprise,Bachelor,18.8
+7.1,15,0,2,Data Analyst,Chennai,Mid-size,Master,12.59
+6.1,9,1,2,DevOps Engineer,Jaipur,Startup,Bachelor,14.08
+3.7,12,2,3,Data Analyst,Delhi NCR,Startup,Bachelor,9.22
+5.8,13,0,2,Data Scientist,Chennai,Enterprise,Bachelor,22.02
+16.3,14,1,3,Sales Executive,Chennai,Startup,Bachelor,12.85
+2.7,10,2,4,DevOps Engineer,Bengaluru,Startup,Master,20.73
+1.6,6,2,2,Sales Executive,Hyderabad,Enterprise,Diploma,6.68
+2.9,9,1,2,Software Engineer,Pune,Startup,Bachelor,12.88
+3.5,11,1,3,Sales Executive,Bengaluru,Enterprise,Master,13.8
+5.6,6,1,3,Data Analyst,Chennai,Mid-size,Bachelor,9.08
+4.0,11,2,3,HR Executive,Hyderabad,Startup,PhD,11.0
+5.5,2,4,4,Product Manager,Chandigarh,Enterprise,Master,33.4
+10.8,14,1,4,Software Engineer,Pune,Mid-size,Diploma,15.89
+4.8,8,1,3,Software Engineer,Chennai,Enterprise,Bachelor,14.96
+5.9,12,1,4,DevOps Engineer,Chandigarh,Startup,Bachelor,13.35
+4.4,8,1,3,Sales Executive,Mumbai,Enterprise,Bachelor,11.45
+3.9,15,2,4,DevOps Engineer,Chennai,Startup,Master,18.08
+1.8,12,1,4,Data Analyst,Chandigarh,Mid-size,Bachelor,7.04
+5.4,2,3,4,Data Analyst,Chennai,Enterprise,Bachelor,10.46
+5.7,9,0,3,HR Executive,Jaipur,Mid-size,Bachelor,6.72
+7.2,11,0,2,DevOps Engineer,Mumbai,Mid-size,Bachelor,22.64
+7.7,6,0,5,Software Engineer,Mumbai,Startup,Bachelor,17.96
+11.6,3,0,5,HR Executive,Mumbai,Startup,Bachelor,12.66
+2.0,14,0,3,HR Executive,Pune,Mid-size,Bachelor,5.96
+21.8,7,2,5,Software Engineer,Bengaluru,Startup,Master,35.0
+2.1,3,2,2,HR Executive,Bengaluru,Startup,Bachelor,5.86
+5.2,14,0,1,ML Engineer,Mumbai,Enterprise,Bachelor,28.04
+4.1,10,0,5,Software Engineer,Chandigarh,Mid-size,Master,14.68
+9.7,10,0,3,Data Scientist,Jaipur,Startup,Bachelor,17.94
+3.0,2,2,3,Software Engineer,Jaipur,Mid-size,Bachelor,10.61
+1.7,7,0,4,Product Manager,Jaipur,Enterprise,Master,23.76
+5.2,11,1,5,HR Executive,Bengaluru,Mid-size,Bachelor,10.9
+9.8,2,3,3,ML Engineer,Mumbai,Startup,Bachelor,29.45
+4.7,5,0,3,Software Engineer,Pune,Startup,Master,14.55
+3.4,13,3,4,Data Scientist,Jaipur,Enterprise,Master,25.04
+1.1,2,2,4,Software Engineer,Delhi NCR,Mid-size,Master,13.49
+1.3,3,1,2,ML Engineer,Chandigarh,Startup,Bachelor,13.18
+2.7,11,3,2,Sales Executive,Pune,Enterprise,Bachelor,8.86
+3.0,7,0,1,ML Engineer,Chennai,Startup,Bachelor,15.48
+5.8,9,2,4,Product Manager,Pune,Mid-size,Master,29.08
+4.4,10,2,4,ML Engineer,Mumbai,Mid-size,Diploma,22.39
+5.5,7,0,5,DevOps Engineer,Mumbai,Startup,Bachelor,22.92
+8.7,10,2,4,Sales Executive,Chennai,Mid-size,Bachelor,10.12
+7.3,12,1,3,ML Engineer,Hyderabad,Startup,Bachelor,24.28
+6.1,3,1,1,HR Executive,Chandigarh,Startup,Master,7.54
+5.7,8,0,3,Data Analyst,Bengaluru,Enterprise,Master,15.82
+5.8,14,3,2,ML Engineer,Bengaluru,Enterprise,Bachelor,30.47
+3.3,15,0,1,Product Manager,Pune,Enterprise,PhD,34.86
+7.3,8,0,4,HR Executive,Chennai,Mid-size,Master,10.36
+3.4,5,1,2,Software Engineer,Chennai,Startup,Master,13.09
+5.0,15,3,3,Product Manager,Jaipur,Enterprise,Bachelor,26.03
+4.7,4,1,3,HR Executive,Jaipur,Mid-size,Master,6.83
+7.7,7,0,3,Data Analyst,Chennai,Enterprise,Master,11.64
+5.2,2,1,3,Data Analyst,Mumbai,Mid-size,Bachelor,10.32
+0.1,10,0,4,Data Scientist,Bengaluru,Startup,Master,19.98
+3.7,7,0,3,Sales Executive,Hyderabad,Startup,Master,9.18
+4.3,12,1,3,Data Analyst,Chandigarh,Startup,Bachelor,7.78
+3.2,14,3,2,Data Scientist,Chennai,Enterprise,Master,27.05
+3.2,2,2,4,Software Engineer,Delhi NCR,Mid-size,Bachelor,15.51
+5.4,8,0,3,DevOps Engineer,Chennai,Enterprise,Diploma,12.19
+7.7,5,0,2,Data Analyst,Delhi NCR,Mid-size,Master,12.13
+3.0,12,2,4,DevOps Engineer,Bengaluru,Mid-size,Bachelor,19.16
+9.3,3,0,3,DevOps Engineer,Jaipur,Enterprise,Master,18.26
+8.4,12,1,1,Data Analyst,Jaipur,Mid-size,Diploma,8.6
+9.6,11,2,3,ML Engineer,Chennai,Mid-size,Bachelor,29.08
+2.3,2,2,2,HR Executive,Bengaluru,Mid-size,Bachelor,6.62
+0.9,8,1,3,Software Engineer,Chandigarh,Mid-size,Bachelor,10.33
+2.0,15,1,3,Software Engineer,Hyderabad,Mid-size,Master,17.38
+2.2,10,0,1,Product Manager,Pune,Mid-size,Master,20.06
+1.8,8,0,2,Product Manager,Jaipur,Startup,Bachelor,18.32
+15.1,6,2,2,Data Scientist,Jaipur,Enterprise,Master,30.69
+3.0,3,0,2,Data Scientist,Chandigarh,Startup,PhD,17.71
+18.3,5,1,3,HR Executive,Jaipur,Mid-size,Bachelor,9.64
+4.8,3,4,3,Software Engineer,Chandigarh,Startup,Master,12.66
+1.4,12,1,4,Data Scientist,Jaipur,Startup,Bachelor,13.05
+3.1,7,0,3,HR Executive,Jaipur,Startup,Diploma,5.28
+4.9,14,2,5,Software Engineer,Mumbai,Enterprise,Bachelor,20.48
+2.2,3,3,2,Product Manager,Hyderabad,Enterprise,Bachelor,28.99
+4.3,11,0,4,Product Manager,Delhi NCR,Mid-size,Master,33.83
+8.8,3,2,5,Data Scientist,Pune,Mid-size,Bachelor,30.31
+3.6,9,3,4,Product Manager,Delhi NCR,Startup,Diploma,25.06
+5.1,13,2,2,Software Engineer,Jaipur,Mid-size,Bachelor,12.61
+2.7,7,2,4,Product Manager,Jaipur,Enterprise,Bachelor,24.02
+0.7,2,1,4,Sales Executive,Delhi NCR,Enterprise,Bachelor,8.15
+16.4,12,4,4,ML Engineer,Chennai,Mid-size,Master,41.97
+13.6,4,1,3,ML Engineer,Mumbai,Mid-size,Bachelor,32.18
+2.7,13,0,4,Data Analyst,Mumbai,Startup,Bachelor,9.97
+5.8,6,2,5,DevOps Engineer,Chandigarh,Mid-size,Bachelor,15.52
+12.8,8,1,4,Data Analyst,Jaipur,Mid-size,Diploma,9.92
+3.5,8,2,3,HR Executive,Hyderabad,Enterprise,Bachelor,7.83
+6.2,8,1,3,Software Engineer,Mumbai,Enterprise,Bachelor,18.83
+1.8,14,2,4,HR Executive,Jaipur,Startup,Bachelor,6.21
+8.5,13,1,3,Sales Executive,Delhi NCR,Mid-size,Bachelor,10.69
+3.7,13,2,3,Product Manager,Hyderabad,Startup,Master,28.48
+5.3,9,0,2,Software Engineer,Chandigarh,Mid-size,Master,14.87
+9.9,3,0,4,Software Engineer,Hyderabad,Enterprise,Master,24.33
+7.0,3,2,3,HR Executive,Bengaluru,Mid-size,Bachelor,10.5
+2.4,10,1,3,Data Analyst,Bengaluru,Mid-size,Bachelor,8.27
+3.4,2,0,3,Data Scientist,Jaipur,Startup,Bachelor,13.62
+11.6,10,2,4,HR Executive,Jaipur,Enterprise,Bachelor,11.66
+6.2,5,1,2,HR Executive,Hyderabad,Mid-size,Bachelor,8.4
+2.5,15,2,4,DevOps Engineer,Hyderabad,Enterprise,Bachelor,17.54
+4.2,15,3,5,HR Executive,Chennai,Startup,Master,12.06
+9.5,3,1,4,Data Scientist,Chandigarh,Enterprise,Bachelor,23.68
+5.8,3,2,4,Data Analyst,Jaipur,Mid-size,Bachelor,8.32
+9.2,2,0,4,Data Analyst,Jaipur,Startup,Bachelor,8.97
+3.9,10,1,4,DevOps Engineer,Hyderabad,Mid-size,Master,17.94
+6.6,8,1,4,Software Engineer,Bengaluru,Startup,Bachelor,18.96
+1.4,2,2,5,Software Engineer,Chennai,Startup,Master,12.11
+4.9,14,1,4,Data Scientist,Jaipur,Enterprise,Bachelor,18.22
+0.6,2,2,5,Data Analyst,Pune,Startup,Bachelor,8.16
+4.4,11,2,3,Data Analyst,Delhi NCR,Startup,Bachelor,10.98
+8.0,12,1,3,Data Scientist,Pune,Startup,Master,24.78
+2.1,7,1,3,Software Engineer,Chennai,Mid-size,Bachelor,10.81
+6.3,14,3,3,DevOps Engineer,Hyderabad,Enterprise,Bachelor,20.61
+2.8,5,5,4,HR Executive,Bengaluru,Mid-size,Bachelor,10.55
+4.5,14,0,4,Data Analyst,Pune,Startup,Bachelor,9.76
+1.2,7,0,3,DevOps Engineer,Chennai,Mid-size,Master,12.31
+6.6,8,0,4,Data Scientist,Bengaluru,Enterprise,Master,33.8
+8.2,11,0,3,DevOps Engineer,Mumbai,Mid-size,Bachelor,20.77
+2.6,13,1,2,HR Executive,Jaipur,Startup,Bachelor,5.44
+8.7,5,2,1,Product Manager,Pune,Enterprise,Bachelor,32.14
+5.0,5,3,4,Sales Executive,Chennai,Mid-size,Master,10.21
+2.5,9,2,3,Sales Executive,Bengaluru,Enterprise,PhD,14.14
+1.0,13,1,4,Software Engineer,Pune,Enterprise,Bachelor,14.15
+7.2,9,0,4,ML Engineer,Chandigarh,Mid-size,Master,30.82
+0.7,5,0,4,ML Engineer,Bengaluru,Startup,Diploma,13.8
+8.0,3,3,3,Data Scientist,Chennai,Mid-size,Master,28.4
+8.8,13,1,3,Data Analyst,Chandigarh,Mid-size,Bachelor,11.04
+1.1,9,1,1,Data Scientist,Bengaluru,Mid-size,Master,22.0
+8.3,4,1,2,Data Analyst,Chandigarh,Startup,Diploma,8.36
+9.6,6,2,2,Data Scientist,Mumbai,Mid-size,Master,29.31
+3.3,8,1,4,DevOps Engineer,Hyderabad,Mid-size,Bachelor,15.47
+0.6,9,0,2,DevOps Engineer,Bengaluru,Mid-size,Bachelor,15.1
+4.1,11,2,4,HR Executive,Jaipur,Mid-size,Master,9.55
+3.7,3,2,2,Software Engineer,Pune,Startup,Bachelor,13.98
+7.5,4,2,3,Data Scientist,Bengaluru,Mid-size,Master,27.12
+0.8,3,0,3,HR Executive,Bengaluru,Enterprise,Bachelor,7.78
+6.8,10,1,4,HR Executive,Chennai,Mid-size,Bachelor,10.63
+5.0,5,1,2,Software Engineer,Mumbai,Startup,Master,16.07
+6.7,4,1,4,Software Engineer,Bengaluru,Enterprise,Master,21.67
+9.9,5,1,3,Data Analyst,Chennai,Mid-size,Bachelor,10.99
+2.3,9,3,3,ML Engineer,Delhi NCR,Enterprise,Master,29.35
+10.2,7,0,2,Software Engineer,Delhi NCR,Mid-size,Bachelor,16.06
+4.9,6,0,4,HR Executive,Pune,Enterprise,Bachelor,8.76
+6.0,8,0,4,HR Executive,Chandigarh,Startup,Diploma,6.41
+2.5,13,0,3,Data Scientist,Chandigarh,Enterprise,Diploma,14.03
+8.3,9,1,4,Software Engineer,Mumbai,Mid-size,Master,22.22
+7.5,10,2,4,Data Analyst,Chennai,Enterprise,Bachelor,13.26
+6.8,14,0,4,Data Analyst,Hyderabad,Startup,PhD,15.94
+4.0,2,1,3,Data Analyst,Delhi NCR,Mid-size,Diploma,7.58
+4.9,15,0,4,Software Engineer,Chandigarh,Enterprise,Bachelor,13.45
+7.2,13,1,1,Product Manager,Bengaluru,Mid-size,Bachelor,29.79
+2.3,4,1,3,Data Scientist,Chandigarh,Startup,Bachelor,12.99
+7.6,13,0,3,HR Executive,Pune,Startup,Bachelor,9.36
+7.6,6,1,2,Software Engineer,Hyderabad,Startup,Bachelor,14.26
+7.0,14,1,2,Sales Executive,Chandigarh,Startup,Diploma,7.54
+2.9,7,3,4,Product Manager,Bengaluru,Startup,Bachelor,30.79
+5.6,5,0,3,Software Engineer,Bengaluru,Enterprise,Master,20.04
+3.8,10,2,3,Sales Executive,Delhi NCR,Startup,Master,9.49
+10.0,10,2,3,Sales Executive,Chandigarh,Enterprise,PhD,13.14
+4.4,4,1,2,HR Executive,Chennai,Startup,Bachelor,6.82
+4.4,14,0,5,HR Executive,Delhi NCR,Mid-size,Master,11.25
+12.2,2,0,3,HR Executive,Chandigarh,Startup,Bachelor,7.82
+3.5,8,3,3,Data Analyst,Hyderabad,Mid-size,Master,11.65
+2.2,10,2,5,Data Scientist,Delhi NCR,Enterprise,Master,23.03
+4.3,9,1,1,Software Engineer,Mumbai,Startup,Master,13.31
+1.0,14,0,4,Software Engineer,Chandigarh,Startup,Bachelor,10.66
+9.4,13,3,3,Product Manager,Jaipur,Mid-size,Master,33.36
+7.4,6,1,3,Data Analyst,Delhi NCR,Startup,Bachelor,11.42
+3.5,7,2,5,Data Analyst,Chandigarh,Enterprise,Bachelor,8.88
+2.3,10,2,4,Software Engineer,Jaipur,Startup,PhD,11.81
+12.8,9,2,3,Data Analyst,Hyderabad,Mid-size,Master,15.57
+4.7,11,1,3,DevOps Engineer,Pune,Mid-size,Bachelor,14.18
+1.9,2,1,4,Software Engineer,Pune,Enterprise,Bachelor,13.03
+1.3,14,2,3,ML Engineer,Jaipur,Mid-size,Master,17.47
+2.9,4,2,4,ML Engineer,Pune,Mid-size,Master,22.26
+3.9,11,1,2,Data Scientist,Hyderabad,Enterprise,Bachelor,17.73
+1.4,3,3,2,Software Engineer,Delhi NCR,Mid-size,Bachelor,12.52
+5.3,3,2,3,Data Analyst,Mumbai,Startup,Master,10.58
+6.8,5,1,2,Data Scientist,Delhi NCR,Mid-size,Bachelor,21.66
+1.7,15,0,4,HR Executive,Chennai,Startup,Master,8.41
+6.1,8,2,3,Data Analyst,Bengaluru,Enterprise,Bachelor,12.19
+1.7,13,2,5,Data Analyst,Pune,Mid-size,Bachelor,9.04
+4.9,2,2,3,Sales Executive,Bengaluru,Enterprise,Bachelor,9.82
+7.9,15,1,5,Software Engineer,Chennai,Startup,Master,20.85
+7.7,15,1,5,Data Scientist,Mumbai,Enterprise,Master,34.21
+2.9,10,4,2,DevOps Engineer,Delhi NCR,Enterprise,Master,17.34
+2.5,3,3,1,Sales Executive,Chennai,Startup,Bachelor,6.07
+2.9,9,2,2,Data Analyst,Hyderabad,Enterprise,Bachelor,9.4
+1.6,2,1,4,HR Executive,Hyderabad,Startup,Diploma,5.25
+4.6,9,0,5,Data Analyst,Hyderabad,Mid-size,Master,12.44
+4.5,5,2,3,Data Analyst,Pune,Enterprise,Master,12.28
+5.3,14,1,2,Software Engineer,Pune,Mid-size,Bachelor,14.84
+4.7,5,1,2,Data Scientist,Mumbai,Mid-size,Bachelor,19.85
+4.2,15,2,2,Software Engineer,Delhi NCR,Startup,Master,16.59
+1.2,4,1,5,Data Scientist,Pune,Enterprise,Bachelor,16.62
+3.6,6,1,3,HR Executive,Bengaluru,Startup,Master,9.06
+9.2,9,0,3,Sales Executive,Delhi NCR,Enterprise,Master,12.25
+5.8,7,2,3,DevOps Engineer,Chennai,Enterprise,Master,22.44
+1.3,12,2,2,Sales Executive,Chennai,Enterprise,Bachelor,8.16
+2.9,10,0,5,HR Executive,Delhi NCR,Mid-size,Master,10.56
+1.5,14,3,2,Sales Executive,Bengaluru,Startup,Bachelor,8.91
+8.5,9,3,3,HR Executive,Chennai,Mid-size,Bachelor,9.62
+7.0,11,4,4,Software Engineer,Pune,Enterprise,PhD,24.77
+2.8,14,0,4,Data Analyst,Pune,Mid-size,Bachelor,9.61
+6.8,9,2,3,Software Engineer,Jaipur,Mid-size,Master,16.6
+5.2,14,2,4,Software Engineer,Hyderabad,Enterprise,Master,17.64
+4.1,10,0,2,Product Manager,Mumbai,Mid-size,Bachelor,25.65
+13.4,2,3,3,Software Engineer,Jaipur,Enterprise,Bachelor,18.57
+6.5,7,1,3,Data Scientist,Chandigarh,Mid-size,Master,22.01
+1.0,11,2,2,DevOps Engineer,Pune,Enterprise,Bachelor,13.0
+8.1,15,0,3,HR Executive,Chennai,Startup,Master,11.13
+5.6,5,1,3,Software Engineer,Jaipur,Mid-size,Bachelor,14.31
+4.7,11,0,1,HR Executive,Pune,Enterprise,Bachelor,7.49
+2.2,7,2,2,Data Scientist,Hyderabad,Startup,Bachelor,13.8
+1.5,9,0,4,Sales Executive,Mumbai,Enterprise,Bachelor,9.3
+10.1,11,1,3,ML Engineer,Bengaluru,Mid-size,Master,35.25
+4.0,3,1,4,Data Analyst,Hyderabad,Enterprise,Bachelor,11.09
+11.1,9,1,4,Data Analyst,Chennai,Startup,Bachelor,13.07
+2.5,4,3,3,Data Analyst,Delhi NCR,Startup,Bachelor,9.9
+5.0,4,1,3,DevOps Engineer,Chandigarh,Enterprise,Bachelor,14.44
+7.1,8,1,3,Software Engineer,Hyderabad,Startup,Bachelor,14.55
+7.9,7,0,2,Data Scientist,Chandigarh,Mid-size,Bachelor,18.32
+5.4,9,0,5,DevOps Engineer,Delhi NCR,Enterprise,Bachelor,21.09
+5.1,8,0,3,Software Engineer,Pune,Enterprise,Bachelor,16.32
+3.5,14,2,3,Data Scientist,Jaipur,Enterprise,Bachelor,15.23
+2.0,7,1,3,Data Scientist,Chandigarh,Mid-size,Bachelor,16.22
+6.8,10,1,2,DevOps Engineer,Chandigarh,Mid-size,Bachelor,16.72
+3.1,5,1,3,DevOps Engineer,Chandigarh,Mid-size,Master,13.98
+4.8,12,2,4,Data Analyst,Hyderabad,Mid-size,Master,11.28
+1.5,3,3,4,ML Engineer,Mumbai,Mid-size,Bachelor,21.72
+7.7,9,1,3,Data Analyst,Pune,Mid-size,Bachelor,10.31
+1.2,13,0,4,Software Engineer,Bengaluru,Enterprise,Bachelor,14.82
+2.9,9,0,3,Data Analyst,Mumbai,Mid-size,PhD,12.67
+2.6,2,1,3,DevOps Engineer,Hyderabad,Mid-size,Bachelor,13.07
+4.9,5,0,3,Software Engineer,Delhi NCR,Enterprise,Master,20.7
+1.8,6,0,2,Data Analyst,Chandigarh,Enterprise,Bachelor,6.66
+8.7,11,1,4,ML Engineer,Pune,Mid-size,Bachelor,33.21
+2.2,5,2,3,Data Analyst,Jaipur,Mid-size,Master,8.64
+3.9,7,0,3,Product Manager,Jaipur,Startup,Master,22.16
+0.8,4,0,3,Data Analyst,Delhi NCR,Mid-size,Master,9.1
+13.0,3,1,2,Product Manager,Chandigarh,Startup,Bachelor,25.29
+6.4,15,1,4,Data Analyst,Mumbai,Mid-size,Bachelor,15.66
+3.8,9,0,3,HR Executive,Mumbai,Startup,Diploma,6.39
+4.6,3,1,5,DevOps Engineer,Chennai,Startup,Bachelor,15.73
+3.0,15,0,3,Software Engineer,Chandigarh,Mid-size,Diploma,9.87
+1.0,7,1,2,Software Engineer,Hyderabad,Mid-size,Bachelor,11.41
+6.2,10,1,5,HR Executive,Hyderabad,Startup,Master,10.55
+2.9,6,1,3,Software Engineer,Chennai,Mid-size,PhD,14.9
+6.6,2,2,2,Data Scientist,Pune,Startup,Master,18.42
+4.4,9,1,3,HR Executive,Bengaluru,Mid-size,Diploma,8.22
+4.6,15,1,4,Data Analyst,Delhi NCR,Mid-size,Bachelor,11.21
+11.7,11,0,5,Data Analyst,Chennai,Mid-size,Bachelor,14.16
+4.9,11,1,5,Data Scientist,Hyderabad,Enterprise,Master,26.51
+2.1,13,2,4,ML Engineer,Chandigarh,Mid-size,Bachelor,18.23
+3.2,13,1,3,Sales Executive,Chandigarh,Startup,Master,8.03
+1.2,3,0,4,HR Executive,Delhi NCR,Enterprise,Master,8.52
+4.9,5,2,3,DevOps Engineer,Chandigarh,Enterprise,Master,17.05
+10.3,14,1,3,DevOps Engineer,Pune,Startup,Bachelor,20.74
+4.2,4,1,2,Data Analyst,Jaipur,Enterprise,Bachelor,8.43
+7.1,7,2,4,Software Engineer,Jaipur,Mid-size,Master,17.46
+8.6,7,3,4,ML Engineer,Chandigarh,Enterprise,Master,31.93
+6.9,11,1,4,HR Executive,Jaipur,Startup,Bachelor,8.05
+6.6,13,2,3,ML Engineer,Delhi NCR,Startup,Bachelor,28.15
+4.7,12,3,5,Software Engineer,Jaipur,Startup,Bachelor,14.75
+7.0,13,0,4,HR Executive,Jaipur,Mid-size,Bachelor,8.23
+2.1,2,2,4,Data Scientist,Bengaluru,Startup,Bachelor,14.53
+3.7,7,1,3,Software Engineer,Delhi NCR,Mid-size,Master,16.78
+3.1,4,0,5,DevOps Engineer,Chennai,Enterprise,Master,17.79
+8.3,14,3,4,HR Executive,Pune,Startup,Master,13.35
+1.6,5,1,3,ML Engineer,Chandigarh,Startup,Bachelor,13.84
+6.8,9,0,1,Data Analyst,Bengaluru,Enterprise,Diploma,10.22
+7.8,10,1,3,Software Engineer,Mumbai,Mid-size,Master,20.21
+6.5,4,1,2,HR Executive,Hyderabad,Startup,PhD,11.44
+4.5,15,0,3,HR Executive,Chandigarh,Enterprise,PhD,9.15
+3.1,15,0,4,Sales Executive,Bengaluru,Startup,Bachelor,10.28
+5.2,14,1,3,Product Manager,Chandigarh,Startup,Bachelor,23.91
+27.3,13,0,4,Data Analyst,Mumbai,Enterprise,Bachelor,21.44
+1.5,14,2,3,DevOps Engineer,Jaipur,Startup,Bachelor,12.34
+4.9,9,0,3,Software Engineer,Mumbai,Enterprise,Master,20.9
+2.0,12,3,2,Sales Executive,Hyderabad,Startup,Bachelor,7.15
+3.8,8,2,4,ML Engineer,Mumbai,Startup,Bachelor,25.74
+0.3,4,0,5,Data Analyst,Bengaluru,Startup,Bachelor,7.68
+7.0,6,0,4,Software Engineer,Hyderabad,Enterprise,Master,16.94
+7.2,3,3,4,Product Manager,Mumbai,Mid-size,PhD,40.14
+11.8,5,0,4,Software Engineer,Hyderabad,Enterprise,Bachelor,23.93
+7.9,7,0,3,DevOps Engineer,Pune,Mid-size,Bachelor,19.08
+1.1,14,0,3,Data Analyst,Delhi NCR,Mid-size,Bachelor,9.21
+10.7,3,1,2,HR Executive,Chennai,Enterprise,Bachelor,10.22
+3.2,4,4,2,Sales Executive,Jaipur,Enterprise,Master,8.74
+2.3,4,0,3,DevOps Engineer,Delhi NCR,Mid-size,Diploma,11.19
+3.9,13,0,3,Software Engineer,Delhi NCR,Enterprise,Master,20.46
+1.8,10,0,3,DevOps Engineer,Jaipur,Mid-size,Master,11.28
+8.7,8,1,2,Sales Executive,Jaipur,Startup,Master,7.88
+5.3,14,1,3,Data Analyst,Delhi NCR,Startup,PhD,14.56
+7.5,8,2,3,Data Scientist,Delhi NCR,Enterprise,Bachelor,27.82
+2.7,2,1,4,DevOps Engineer,Delhi NCR,Mid-size,Master,17.36
+6.7,9,2,3,Sales Executive,Hyderabad,Startup,Bachelor,9.58
+7.5,9,1,3,Software Engineer,Pune,Mid-size,Master,19.75
+6.0,13,0,4,HR Executive,Bengaluru,Startup,Bachelor,10.39
+7.1,9,2,4,Software Engineer,Hyderabad,Mid-size,Bachelor,18.22
+10.1,5,2,4,Product Manager,Jaipur,Enterprise,Bachelor,35.11
+1.6,10,0,4,Sales Executive,Delhi NCR,Mid-size,Bachelor,7.0
+6.6,13,2,3,Product Manager,Chandigarh,Enterprise,Master,38.6
+6.2,10,3,3,ML Engineer,Delhi NCR,Enterprise,PhD,35.47
+2.3,8,0,5,Software Engineer,Pune,Enterprise,Master,16.41
+1.9,10,1,3,Software Engineer,Delhi NCR,Mid-size,Bachelor,15.3
+5.9,14,1,4,Data Scientist,Hyderabad,Mid-size,Bachelor,21.63
+8.1,7,3,4,ML Engineer,Hyderabad,Enterprise,Bachelor,32.29
+1.0,9,2,4,Software Engineer,Chandigarh,Mid-size,Bachelor,10.09
+4.9,15,2,4,DevOps Engineer,Pune,Enterprise,Bachelor,17.64
+0.9,9,2,3,HR Executive,Chennai,Enterprise,Bachelor,6.85
+8.2,9,3,2,Data Analyst,Hyderabad,Enterprise,Bachelor,12.65
+13.4,11,1,3,Software Engineer,Mumbai,Mid-size,Bachelor,23.45
+6.8,8,1,2,Product Manager,Bengaluru,Enterprise,Bachelor,35.69
+3.8,15,1,3,Data Analyst,Pune,Mid-size,Master,10.69
+3.2,14,0,3,Software Engineer,Hyderabad,Mid-size,Master,15.61
+6.7,10,0,3,Software Engineer,Mumbai,Startup,Master,20.58
+6.0,10,0,4,Data Analyst,Chennai,Mid-size,Master,10.06
+2.9,9,1,3,Data Scientist,Bengaluru,Startup,Bachelor,19.85
+2.5,8,2,3,DevOps Engineer,Mumbai,Mid-size,Bachelor,14.68
+1.4,8,1,3,Data Scientist,Mumbai,Enterprise,Bachelor,16.33
+3.9,5,0,3,DevOps Engineer,Mumbai,Mid-size,Master,17.03
+1.6,5,1,3,ML Engineer,Pune,Mid-size,Bachelor,15.93
+5.5,13,0,4,ML Engineer,Mumbai,Startup,PhD,34.39
+2.3,5,1,4,Data Scientist,Bengaluru,Mid-size,Bachelor,19.26
+3.5,5,0,4,Software Engineer,Hyderabad,Enterprise,Bachelor,14.71
+3.2,2,1,3,ML Engineer,Pune,Mid-size,Master,22.03
+5.1,8,0,4,Software Engineer,Pune,Mid-size,Bachelor,17.4
+4.8,11,0,3,Sales Executive,Chandigarh,Enterprise,Master,7.84
+7.6,9,2,3,Software Engineer,Delhi NCR,Mid-size,Master,20.48
+2.5,13,2,3,Software Engineer,Jaipur,Mid-size,Bachelor,10.76
+2.8,12,2,4,Data Analyst,Chennai,Startup,Bachelor,7.68
+6.0,7,2,5,DevOps Engineer,Pune,Startup,Bachelor,16.51
+4.1,3,0,4,Software Engineer,Chennai,Mid-size,Bachelor,13.08
+4.9,8,3,4,Data Scientist,Bengaluru,Startup,Master,25.43
+3.0,13,1,1,Product Manager,Hyderabad,Enterprise,Bachelor,23.42
+4.7,12,0,4,Product Manager,Mumbai,Mid-size,Bachelor,30.39
+4.2,15,0,3,HR Executive,Jaipur,Enterprise,Bachelor,7.42
+4.2,11,1,2,Data Scientist,Hyderabad,Startup,Bachelor,17.24
+7.2,6,3,3,Software Engineer,Jaipur,Startup,Bachelor,12.67
+1.6,9,3,3,DevOps Engineer,Pune,Startup,Diploma,10.89
+4.6,5,2,3,Product Manager,Hyderabad,Mid-size,Diploma,21.0
+4.2,7,1,2,HR Executive,Delhi NCR,Enterprise,Diploma,5.97
+0.8,11,0,4,HR Executive,Delhi NCR,Startup,Master,6.84
+0.8,13,0,5,Data Scientist,Hyderabad,Startup,PhD,22.11
+7.3,13,1,2,HR Executive,Pune,Enterprise,Bachelor,10.44
+11.1,3,1,3,Product Manager,Jaipur,Mid-size,Master,31.24
+0.3,8,3,3,Sales Executive,Chennai,Enterprise,Master,7.04
+3.3,9,4,3,Data Scientist,Hyderabad,Enterprise,Bachelor,21.62
+2.3,4,0,3,HR Executive,Delhi NCR,Enterprise,PhD,9.39
+0.6,7,0,5,HR Executive,Bengaluru,Startup,Master,8.54
+2.5,8,1,3,Sales Executive,Mumbai,Startup,Bachelor,8.62
+2.9,2,0,4,DevOps Engineer,Mumbai,Mid-size,Bachelor,15.26
+1.3,12,2,1,Software Engineer,Pune,Mid-size,Master,15.48
+6.2,2,1,4,DevOps Engineer,Delhi NCR,Mid-size,Bachelor,18.54
+5.1,3,1,4,DevOps Engineer,Chennai,Mid-size,Master,15.72
+6.8,10,2,4,Software Engineer,Delhi NCR,Mid-size,Diploma,17.81
+1.5,5,2,4,Data Scientist,Chennai,Enterprise,Master,21.12
+4.4,4,1,3,DevOps Engineer,Mumbai,Enterprise,Bachelor,18.74
+12.1,4,2,5,DevOps Engineer,Delhi NCR,Startup,Master,27.36
+2.5,11,2,3,ML Engineer,Pune,Enterprise,PhD,30.61
+5.2,10,1,3,Data Analyst,Bengaluru,Startup,Master,15.11
+4.5,10,3,4,Sales Executive,Delhi NCR,Startup,Bachelor,9.48
+3.2,9,0,4,DevOps Engineer,Jaipur,Mid-size,Bachelor,12.79
+2.4,2,1,4,DevOps Engineer,Chandigarh,Startup,Bachelor,13.45
+3.3,11,2,3,Software Engineer,Jaipur,Enterprise,Diploma,10.74
+4.5,2,2,4,Sales Executive,Hyderabad,Mid-size,Bachelor,10.06
+7.6,3,3,2,Software Engineer,Delhi NCR,Enterprise,Bachelor,17.11
+5.3,12,3,4,Sales Executive,Chennai,Enterprise,Diploma,9.13
+9.8,5,1,3,DevOps Engineer,Pune,Startup,Master,22.29
+1.3,5,2,4,HR Executive,Chandigarh,Mid-size,Bachelor,5.63
+2.8,13,2,3,Product Manager,Delhi NCR,Startup,Bachelor,20.84
+6.6,9,1,3,ML Engineer,Hyderabad,Mid-size,Master,27.02
+2.0,6,0,4,Software Engineer,Jaipur,Enterprise,Master,12.43
+6.7,4,1,3,ML Engineer,Chennai,Enterprise,Diploma,21.95
+3.9,10,1,2,Data Analyst,Jaipur,Mid-size,Bachelor,7.76
+1.0,12,1,4,Data Analyst,Jaipur,Enterprise,Bachelor,8.18
+3.3,11,0,4,Software Engineer,Hyderabad,Enterprise,Bachelor,15.33
+2.4,2,3,3,Data Analyst,Hyderabad,Mid-size,Master,10.24
+3.4,15,1,2,HR Executive,Chennai,Mid-size,Master,8.32
+4.7,3,3,3,Data Analyst,Chandigarh,Mid-size,Bachelor,7.5
+11.2,2,1,3,Sales Executive,Delhi NCR,Mid-size,Bachelor,12.61
+4.7,5,2,4,Product Manager,Pune,Mid-size,Bachelor,24.22
+2.8,15,0,3,Data Scientist,Bengaluru,Mid-size,Master,27.23
+2.7,9,0,4,Data Analyst,Hyderabad,Enterprise,Master,11.81
+2.8,14,2,4,DevOps Engineer,Chennai,Mid-size,Diploma,12.97
+1.6,8,2,4,Sales Executive,Jaipur,Mid-size,Bachelor,6.51
+8.1,12,1,4,Data Analyst,Jaipur,Mid-size,Bachelor,10.89
+4.6,7,0,4,Sales Executive,Delhi NCR,Mid-size,Bachelor,9.85
+7.3,10,0,5,ML Engineer,Bengaluru,Mid-size,Master,39.37
+6.2,9,4,2,DevOps Engineer,Chennai,Startup,Bachelor,16.17
+3.4,13,2,1,Data Scientist,Delhi NCR,Mid-size,Master,21.35
+1.8,10,2,4,Software Engineer,Hyderabad,Enterprise,Bachelor,13.48
+1.9,5,2,3,Data Scientist,Delhi NCR,Startup,Diploma,13.91
+9.6,14,3,4,ML Engineer,Delhi NCR,Startup,Master,36.13
+7.8,6,1,3,Software Engineer,Mumbai,Mid-size,Bachelor,16.71
+1.4,3,3,2,DevOps Engineer,Mumbai,Startup,Master,15.13
+4.3,7,2,4,DevOps Engineer,Hyderabad,Enterprise,Bachelor,17.13
+6.2,7,2,1,Product Manager,Jaipur,Mid-size,Bachelor,24.31
+9.0,12,1,3,Software Engineer,Mumbai,Mid-size,Bachelor,19.66
+0.9,8,1,3,Software Engineer,Chandigarh,Enterprise,Master,11.53
+1.5,6,2,3,Sales Executive,Chennai,Startup,Bachelor,5.74
+3.5,4,0,2,Data Analyst,Hyderabad,Mid-size,Bachelor,7.8
+5.7,12,0,3,HR Executive,Bengaluru,Enterprise,Bachelor,11.93
+2.6,11,1,1,ML Engineer,Delhi NCR,Mid-size,Bachelor,19.46
+3.7,15,1,2,Software Engineer,Chandigarh,Mid-size,Bachelor,11.85
+1.8,2,1,5,Data Scientist,Delhi NCR,Startup,Bachelor,18.01
+6.4,7,1,5,Data Analyst,Bengaluru,Startup,Bachelor,13.52
+7.9,15,1,3,Data Analyst,Delhi NCR,Startup,PhD,16.62
+1.7,8,1,4,Sales Executive,Chennai,Startup,Master,6.58
+9.3,11,0,4,DevOps Engineer,Delhi NCR,Startup,Master,21.92
+1.7,13,4,3,Software Engineer,Delhi NCR,Startup,Bachelor,16.13
+11.8,13,2,3,Data Scientist,Delhi NCR,Startup,Diploma,26.26
+4.1,13,1,3,HR Executive,Jaipur,Mid-size,Bachelor,6.88
+2.4,13,0,4,Software Engineer,Hyderabad,Mid-size,Master,14.57
+4.4,3,2,3,ML Engineer,Jaipur,Mid-size,Master,20.15
+1.6,4,2,3,HR Executive,Delhi NCR,Mid-size,Bachelor,6.71
+6.5,13,0,4,ML Engineer,Bengaluru,Mid-size,Diploma,23.83
+0.4,14,1,5,Software Engineer,Chennai,Mid-size,Master,14.88
+3.1,7,1,5,HR Executive,Delhi NCR,Mid-size,PhD,11.49
+4.5,11,1,3,ML Engineer,Hyderabad,Enterprise,Bachelor,25.96
+3.8,5,0,4,Data Analyst,Bengaluru,Mid-size,Bachelor,10.05
+14.1,7,2,4,Software Engineer,Jaipur,Enterprise,Bachelor,20.53
+3.1,3,1,4,DevOps Engineer,Hyderabad,Startup,Bachelor,11.26
+6.2,8,2,3,DevOps Engineer,Chennai,Enterprise,Bachelor,19.49
+2.3,7,0,3,DevOps Engineer,Pune,Mid-size,Bachelor,11.73
+4.4,8,1,2,HR Executive,Chennai,Enterprise,Bachelor,8.34
+15.1,10,2,4,ML Engineer,Mumbai,Startup,Master,45.13
+2.9,10,1,4,Software Engineer,Hyderabad,Mid-size,Bachelor,13.94
+1.4,9,2,4,Product Manager,Pune,Mid-size,Bachelor,24.59
+6.6,7,1,4,DevOps Engineer,Bengaluru,Enterprise,Bachelor,18.95
+4.1,3,0,3,Software Engineer,Jaipur,Mid-size,Master,13.15
+6.2,10,2,4,ML Engineer,Jaipur,Mid-size,Bachelor,19.85
+2.4,12,0,1,Data Analyst,Hyderabad,Mid-size,Master,10.26
+3.1,13,1,3,Product Manager,Chennai,Mid-size,Bachelor,26.34
+4.0,3,1,4,HR Executive,Chandigarh,Enterprise,Master,8.12
+11.1,8,0,3,ML Engineer,Chandigarh,Startup,Master,26.68
+8.8,3,0,4,Software Engineer,Hyderabad,Startup,Master,16.6
+5.8,4,0,5,HR Executive,Chandigarh,Startup,Bachelor,7.58
+4.3,9,0,4,ML Engineer,Chandigarh,Mid-size,Bachelor,22.53
+5.4,3,2,4,Product Manager,Pune,Mid-size,Bachelor,25.27
+0.8,6,1,3,Software Engineer,Chennai,Enterprise,Bachelor,11.83
+2.3,2,0,5,DevOps Engineer,Chennai,Startup,Diploma,9.77
+2.1,14,1,4,Data Scientist,Delhi NCR,Startup,Bachelor,20.17
+2.2,2,1,5,Software Engineer,Pune,Mid-size,Master,13.19
+11.5,11,4,4,Software Engineer,Chandigarh,Enterprise,Master,24.89
+5.0,12,2,5,ML Engineer,Delhi NCR,Enterprise,Bachelor,34.94
+2.4,11,0,3,ML Engineer,Bengaluru,Startup,Bachelor,23.92
+2.2,9,2,4,Product Manager,Pune,Mid-size,Bachelor,22.83

@@ -1,0 +1,9 @@
+# Hyper-parameters tracked by DVC. Changing a value here makes `dvc repro` re-run only the affected stages.
+prepare:
+  test_size: 0.2
+  random_state: 42
+
+train:
+  n_estimators: 100
+  max_depth: 5
+  random_state: 42

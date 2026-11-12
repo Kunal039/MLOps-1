@@ -1,0 +1,38 @@
+# DVC pipeline: data -> prepare -> train -> evaluate
+# Each stage lists its dependencies (deps), parameters (params) and outputs (outs).
+stages:
+  prepare:
+    cmd: python src/prepare.py
+    deps:
+      - data/raw/data.csv
+      - src/prepare.py
+    params:
+      - prepare
+    outs:
+      - data/processed
+
+  train:
+    cmd: python src/train.py
+    deps:
+      - data/processed
+      - src/train.py
+    params:
+      - train
+    outs:
+      - models/model.joblib
+
+  evaluate:
+    cmd: python src/evaluate.py
+    deps:
+      - data/processed
+      - models/model.joblib
+      - src/evaluate.py
+    metrics:
+      - metrics.json:
+          cache: false
+    plots:
+      - plots/confusion_matrix.csv:
+          template: confusion
+          x: actual
+          y: predicted
+          cache: false

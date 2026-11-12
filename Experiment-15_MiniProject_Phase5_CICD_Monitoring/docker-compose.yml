@@ -1,0 +1,22 @@
+# Monitored energy API + Prometheus + Grafana
+#   cd Experiment-15_MiniProject_Phase5_CICD_Monitoring && docker compose up -d --build
+#   API http://localhost:5000 | Prometheus http://localhost:9090 | Grafana http://localhost:3000 (admin/admin)
+services:
+  energy-api:
+    build:
+      context: ..
+      dockerfile: Experiment-15_MiniProject_Phase5_CICD_Monitoring/Dockerfile
+    ports: ["5000:5000"]
+  prometheus:
+    image: prom/prometheus:v2.53.0
+    ports: ["9090:9090"]
+    volumes:
+      - ./monitoring/prometheus.yml:/etc/prometheus/prometheus.yml
+      - ./monitoring/alert_rules.yml:/etc/prometheus/alert_rules.yml
+  grafana:
+    image: grafana/grafana:11.1.0
+    ports: ["3000:3000"]
+    environment: [GF_SECURITY_ADMIN_PASSWORD=admin]
+    volumes:
+      - ./monitoring/grafana/provisioning:/etc/grafana/provisioning
+      - ./monitoring/grafana/dashboards:/var/lib/grafana/dashboards

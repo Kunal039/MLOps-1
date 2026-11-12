@@ -1,0 +1,38 @@
+======================================================================
+PHASE 1 - EXPLORATORY DATA ANALYSIS
+======================================================================
+Rows (minute readings): 259,200
+Period: 2009-01-01 00:00:00  ->  2009-06-29 23:59:00  (179 days)
+Columns: ['Global_active_power', 'Global_reactive_power', 'Voltage', 'Global_intensity', 'Sub_metering_1', 'Sub_metering_2', 'Sub_metering_3']
+
+Statistical summary:
+                          count     mean    std     min      25%      50%      75%      max
+Global_active_power    253220.0    0.947  1.016    0.08    0.401    0.602    1.184   29.453
+Global_reactive_power  253220.0    0.147  0.057    0.00    0.112    0.139    0.170    1.280
+Voltage                253220.0  239.106  2.135  199.91  238.190  239.400  240.420  245.660
+Global_intensity       253220.0    3.978  4.259    0.30    1.700    2.500    5.000  114.400
+Sub_metering_1         253220.0    0.398  3.147    0.00    0.000    0.000    0.000   38.000
+Sub_metering_2         253220.0    1.579  3.392    0.00    0.000    1.000    2.000   30.000
+Sub_metering_3         253220.0    6.851  6.062    0.00    3.000    5.000    9.000   31.000
+
+Missing values per column:
+Global_active_power      5980
+Global_reactive_power    5980
+Voltage                  5980
+Global_intensity         5980
+Sub_metering_1           5980
+Sub_metering_2           5980
+Sub_metering_3           5980
+Missing rows: 5,980 (2.31%)
+
+Possible outliers in Global_active_power (> 3.53 kW): 5374
+
+Target for the project: hourly average Global_active_power (kW)
+Hourly mean = 0.948 kW, max = 3.468 kW
+
+Key observations:
+* Strong daily cycle: low at night, morning peak and a larger evening peak.
+* Weekends use more power than weekdays; winter months use more than summer.
+* Global_intensity is almost perfectly correlated with active power (it is derived from it),
+  so it must NOT be used as an input feature (target leakage).
+* Missing blocks (meter outages) and extreme spikes must be handled in Phase 2.

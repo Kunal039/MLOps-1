@@ -1,0 +1,15 @@
+groups:
+  - name: energy-model
+    rules:
+      - alert: ModelPerformanceDegraded
+        expr: energy_live_mae_kw > 0.1
+        for: 2h
+        labels: {severity: critical}
+        annotations:
+          summary: "Rolling 24h MAE above 0.1 kW - trigger the retraining workflow"
+      - alert: NoPredictions
+        expr: rate(energy_predictions_total[1h]) == 0
+        for: 2h
+        labels: {severity: warning}
+        annotations:
+          summary: "Energy API has not served predictions for 2 hours"
