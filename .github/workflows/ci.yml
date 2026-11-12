@@ -1,0 +1,46 @@
+# Continuous Integration for all MLOps-I lab experiments.
+# On every push / pull request to main, GitHub runs every experiment (run_all.py)
+# and the test suites, then uploads the generated plots and reports as an artifact.
+name: MLOps Lab CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:          # "Run workflow" button in the Actions tab
+
+jobs:
+  run-experiments:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Lint (Experiment 8 CI/CD project)
+        working-directory: Experiment-08_CICD_Pipeline
+        run: flake8 .
+
+      - name: Run all 20 experiments
+        run: python run_all.py
+
+      - name: Upload outputs (plots, metrics, reports)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: experiment-outputs
+          path: |
+            Experiment-*/outputs/
+            !Experiment-05_DevOps_Git_Setup/outputs/ml-devops-repo/
+            !Experiment-09_DVC_Model_Versioning/outputs/dvc-*/
+          retention-days: 14
