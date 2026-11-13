@@ -20,17 +20,12 @@ from pathlib import Path
 
 PROJECT_DIR = Path(__file__).resolve().parent
 
-SMOKE_TEST = (
-    "from app import app; c = app.test_client(); r = c.get('/health'); "
-    "print('Health check:', r.status_code, r.json); assert r.status_code == 200"
-)
-
 STAGES = [
     ("Lint (code quality)", [sys.executable, "-m", "flake8", "."]),
-    ("Unit tests (data, model, API)", [sys.executable, "-m", "pytest", "-q", "-p", "no:cacheprovider"]),
+    ("Unit tests (data, model, prediction)", [sys.executable, "-m", "pytest", "-q", "-p", "no:cacheprovider"]),
     ("Train model", [sys.executable, "src/train.py"]),
     ("Validate model (quality gate)", [sys.executable, "src/validate_model.py"]),
-    ("Deploy - smoke test service", [sys.executable, "-c", SMOKE_TEST]),
+    ("Deploy - smoke test the model", [sys.executable, "src/predict.py"]),
 ]
 
 

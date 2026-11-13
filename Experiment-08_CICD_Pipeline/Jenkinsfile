@@ -29,8 +29,8 @@ pipeline {
         stage('Deploy') {
             when { branch 'main' }
             steps {
-                sh 'docker rm -f wine-classifier || true'
-                sh 'docker run -d --name wine-classifier -p 5000:5000 $IMAGE'
+                sh 'docker run --rm $IMAGE'
+                sh 'docker tag $IMAGE wine-classifier:latest'
             }
         }
     }

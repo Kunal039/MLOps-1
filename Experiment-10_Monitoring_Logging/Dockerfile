@@ -3,8 +3,8 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 COPY data/ data/
-COPY train_model.py app.py ./
+COPY train_model.py monitor.py simulate_traffic.py ./
 RUN python train_model.py
-EXPOSE 5000
-# a single worker keeps the in-memory metrics consistent
-CMD ["gunicorn", "-w", "1", "-b", "0.0.0.0:5000", "app:app"]
+EXPOSE 8000
+# keep simulating traffic and expose Prometheus metrics on port 8000
+CMD ["python", "simulate_traffic.py", "--serve", "--delay", "0.2"]

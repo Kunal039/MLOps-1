@@ -10,7 +10,7 @@ against the training reference data (model/reference_data.csv):
   * Performance drift - RMSE / MAE / R2 on the new labelled data vs. the training-time metrics
   * Decision         - if significant drift or RMSE degrades by > 20% -> retrain
                        (python train_mlflow.py registers a new version in MLflow)
-The new batch is also sent through the live API (Flask test client) so logs and metrics are populated.
+The new batch is also scored through predict.py so the predictions are logged.
 Output: outputs/drift_report.csv, outputs/drift_report.png, outputs/monitoring_decision.json
 """
 
@@ -83,13 +83,11 @@ print("\n=== PERFORMANCE ON NEW DATA ===")
 print(f"RMSE {rmse:.3f} (training-time {base_rmse:.3f}, change {rmse / base_rmse - 1:+.0%})")
 print(f"MAE  {mae:.3f} | R2 {r2:.3f} | mean under-prediction {bias:+.2f} LPA")
 
-# 3. Send the new batch through the API so that logs + Prometheus metrics are populated
-from app import app  # noqa: E402
+# 3. Score the new batch through the prediction service so that it is logged ---------------
+from predict import predict_salary  # noqa: E402
 
-client = app.test_client()
-statuses = [client.post("/predict", json=r).status_code
-            for r in current[FEATURES].head(200).to_dict(orient="records")]
-print(f"\nSent 200 requests to the API -> {statuses.count(200)} OK. Logged to logs/predictions.jsonl")
+scored = [predict_salary(r) for r in current[FEATURES].head(200).to_dict(orient="records")]
+print(f"\nScored {len(scored)} new employees through predict.py -> logged to logs/predictions.jsonl")
 
 # 4. Decision ------------------------------------------------------------------------
 drifted = report.loc[report["status"] == "significant", "feature"].tolist()

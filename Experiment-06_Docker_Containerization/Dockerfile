@@ -15,7 +15,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 # 5. Copy the code and data
 COPY data/ data/
-COPY train.py predict.py serve.py ./
+COPY train.py predict.py ./
 
 # 6. Train the model while building the image -> the model is baked into the image
 RUN python train.py
@@ -24,7 +24,5 @@ RUN python train.py
 RUN useradd --create-home appuser && chown -R appuser /app
 USER appuser
 
-# 8. Document the port and the default command (start the prediction service)
-EXPOSE 5000
-HEALTHCHECK CMD python -c "import urllib.request; urllib.request.urlopen('http://localhost:5000/health')"
-CMD ["python", "serve.py"]
+# 8. Default command: predict the built-in samples (pass 4 numbers to predict your own flower)
+ENTRYPOINT ["python", "predict.py"]

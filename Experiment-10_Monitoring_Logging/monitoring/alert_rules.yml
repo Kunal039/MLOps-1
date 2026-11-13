@@ -16,7 +16,7 @@ groups:
           summary: "Live model accuracy below 80%"
 
       - alert: HighLatency
-        expr: histogram_quantile(0.95, sum(rate(ml_request_latency_seconds_bucket[1m])) by (le)) > 0.5
+        expr: histogram_quantile(0.95, sum(rate(ml_prediction_latency_seconds_bucket[1m])) by (le)) > 0.5
         for: 1m
         labels: {severity: warning}
         annotations:
@@ -27,4 +27,4 @@ groups:
         for: 1m
         labels: {severity: warning}
         annotations:
-          summary: "More than 0.1 invalid prediction requests per second"
+          summary: "More than 0.1 invalid inputs per second"

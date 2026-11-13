@@ -1,9 +1,9 @@
 """
 Experiment 15: Mini Project Phase-5 - Production simulation, monitoring and retraining trigger
 ==============================================================================================
-Replays the test period hour by hour through the monitored API (Flask test client):
+Replays the test period hour by hour through the monitored model (production_monitor.py):
     1. ask the model for a prediction for the next hour
-    2. when the hour is over, send the actual meter reading to /actual
+    2. when the hour is over, record the actual meter reading
 Halfway through, concept drift is simulated (e.g. the family buys an electric car that
 charges every evening: +1.2 kW from 19:00 to 23:00). The live 24-hour MAE rises, the
 service logs a warning and this script writes a retraining trigger - in production this
@@ -11,7 +11,6 @@ trigger would start the CI/CD retraining job (see .github/workflows, `workflow_d
 """
 
 import json
-import logging
 from pathlib import Path
 
 import matplotlib
@@ -20,9 +19,7 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import pandas as pd
 
-from monitored_app import app
-
-logging.getLogger("energy-api").setLevel(logging.WARNING)   # keep the console readable
+import production_monitor as monitor
 
 BASE_DIR = Path(__file__).resolve().parent
 PHASE2 = BASE_DIR.parent / "Experiment-12_MiniProject_Phase2_Preprocessing_Features" / "outputs"
@@ -37,7 +34,6 @@ evening = (series.index.hour >= 19) & (series.index.hour <= 23)
 drift_mask = (pd.Series(range(len(series)), index=series.index) >= DRIFT_START) & evening
 series[drift_mask] += 1.2
 
-client = app.test_client()
 records, trigger = [], None
 for i in range(168, len(series)):
     ts = series.index[i]
@@ -48,8 +44,8 @@ for i in range(168, len(series)):
         "reactive_power_last_hour": float(data["Global_reactive_power_lag_1"].iloc[i]),
         "sub_metering_3_last_hour": float(data["Sub_metering_3_lag_1"].iloc[i]),
     }
-    pred = client.post("/predict", json=payload).get_json()["predicted_kw"]
-    fb = client.post("/actual", json={"timestamp": str(ts), "actual_kw": float(series.iloc[i])}).get_json()
+    pred = monitor.predict(payload)
+    fb = monitor.record_actual(str(ts), float(series.iloc[i]))
     records.append({"timestamp": ts, "actual": series.iloc[i], "predicted": pred, "live_mae": fb["live_mae_24h"]})
     if fb["retrain_required"] and trigger is None:
         trigger = {"triggered_at_hour": str(ts), "live_mae_24h": fb["live_mae_24h"],
@@ -78,10 +74,9 @@ axes[0].set_ylabel("kW")
 axes[0].set_title("Deployed model - actual vs predicted")
 axes[0].legend()
 axes[1].plot(log.index, log["live_mae"], color="tab:purple", label="Rolling 24h MAE")
-axes[1].axhline(app.view_functions["actual"].__globals__["MAE_ALERT_THRESHOLD"], color="red",
-                linestyle="--", label="Alert threshold")
+axes[1].axhline(monitor.MAE_ALERT_THRESHOLD, color="red", linestyle="--", label="Alert threshold")
 axes[1].set_ylabel("MAE (kW)")
-axes[1].set_title("Live model performance (what Grafana shows)")
+axes[1].set_title("Live model performance (energy_live_mae_kw metric)")
 axes[1].legend()
 plt.tight_layout()
 plt.savefig(OUTPUT_DIR / "production_monitoring.png")

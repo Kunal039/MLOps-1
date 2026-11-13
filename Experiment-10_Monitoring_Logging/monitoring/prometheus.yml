@@ -8,4 +8,4 @@ rule_files:
 scrape_configs:
   - job_name: ml-service
     static_configs:
-      - targets: ["ml-service:5000"]   # use "host.docker.internal:5000" if the app runs outside Docker
+      - targets: ["ml-service:8000"]   # use "host.docker.internal:8000" if simulate_traffic.py --serve runs outside Docker

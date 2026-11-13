@@ -1,12 +1,12 @@
 # Experiment 10 - ML service + Prometheus + Grafana
 #   docker compose up -d --build
-#   ML API     : http://localhost:5000
+#   ML metrics : http://localhost:8000/metrics
 #   Prometheus : http://localhost:9090   (Status -> Targets, Alerts)
 #   Grafana    : http://localhost:3000   (admin / admin) -> dashboard "ML Model Monitoring"
 services:
   ml-service:
     build: .
-    ports: ["5000:5000"]
+    ports: ["8000:8000"]
     volumes:
       - ./logs:/app/logs          # prediction logs are kept on the host
 

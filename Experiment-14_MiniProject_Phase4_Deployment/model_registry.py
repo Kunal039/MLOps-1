@@ -6,11 +6,11 @@ Copies the best model from Phase-3 into a versioned registry:
     registry/
       v1/  model.joblib  metadata.json   (metrics, features, SHA-256 checksum, registered_at)
       v2/  ...
-      latest.json  -> {"version": "v2", ...}   <- the API always serves this version
+      latest.json  -> {"version": "v2", ...}   <- predict.py always uses this version
 
 A new version is only created if the model file actually changed (checksum differs).
 `python model_registry.py --list` shows all versions; `--rollback v1` points latest back to v1.
-(The data and model files can additionally be tracked with DVC - see README.)
+(The data and model files can additionally be tracked with DVC - see Experiment 9.)
 """
 
 import argparse

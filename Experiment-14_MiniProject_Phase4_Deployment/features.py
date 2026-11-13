@@ -1,5 +1,5 @@
 """
-Build the model's feature vector from an API request.
+Build the model's feature vector from a prediction request.
 Must create exactly the same features as Phase-2 (phase2_preprocessing.py),
 otherwise the deployed model would receive different inputs than it was trained on
 (training-serving skew).

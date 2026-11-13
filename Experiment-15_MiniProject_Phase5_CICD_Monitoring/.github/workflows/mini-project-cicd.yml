@@ -49,11 +49,13 @@ jobs:
           path: artifacts
       - name: Put the validated model into the build context
         run: cp -r artifacts/Experiment-14_MiniProject_Phase4_Deployment/registry Experiment-14_MiniProject_Phase4_Deployment/
-      - name: Build image
-        run: docker build -f Experiment-15_MiniProject_Phase5_CICD_Monitoring/Dockerfile -t ghcr.io/${{ github.repository_owner }}/energy-api:${{ github.sha }} .
+      - name: Build image (Phase-4 prediction service)
+        run: docker build -t ghcr.io/${{ github.repository_owner }}/energy-model:${{ github.sha }} Experiment-14_MiniProject_Phase4_Deployment
+      - name: Smoke test the container (runs a prediction)
+        run: docker run --rm ghcr.io/${{ github.repository_owner }}/energy-model:${{ github.sha }}
       - name: Push image
         run: |
           echo "${{ secrets.GITHUB_TOKEN }}" | docker login ghcr.io -u ${{ github.actor }} --password-stdin
-          docker push ghcr.io/${{ github.repository_owner }}/energy-api:${{ github.sha }}
+          docker push ghcr.io/${{ github.repository_owner }}/energy-model:${{ github.sha }}
       - name: Deploy
-        run: echo "Deploy the new image (AWS ECS / GCP Cloud Run / Azure Container Apps / on-prem docker compose)"
+        run: echo "Deploy the new image (AWS ECS / GCP Cloud Run / Azure Container Apps / on-prem)"

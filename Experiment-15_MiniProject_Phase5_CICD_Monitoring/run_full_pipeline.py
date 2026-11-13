@@ -5,7 +5,7 @@ Runs every phase of the project in order, exactly like the GitHub Actions workfl
 (.github/workflows/mini-project-cicd.yml) does on each push and on the weekly retraining schedule:
 
     Phase-1 data  ->  Phase-2 features  ->  Phase-3 train & select  ->  quality gate
-    ->  register model version  ->  API tests  ->  monitoring simulation  ->  ethics checks
+    ->  register model version  ->  prediction tests  ->  monitoring simulation  ->  ethics checks
 """
 
 import json
@@ -41,7 +41,7 @@ STAGES = [
     ("Phase-3 model training & selection", P3, [PY, "phase3_model_building.py"]),
     ("Quality gate", HERE, quality_gate),
     ("Register model version", P4, [PY, "model_registry.py"]),
-    ("API tests", P4, [PY, "-m", "pytest", "-q", "-p", "no:cacheprovider", "test_api.py"]),
+    ("Prediction tests", P4, [PY, "-m", "pytest", "-q", "-p", "no:cacheprovider", "test_predict.py"]),
     ("Project tests", HERE, [PY, "-m", "pytest", "-q", "-p", "no:cacheprovider", "tests"]),
     ("Monitoring simulation", HERE, [PY, "monitor_and_retrain.py"]),
     ("Privacy / fairness / security checks", HERE, [PY, "privacy_ethics_check.py"]),

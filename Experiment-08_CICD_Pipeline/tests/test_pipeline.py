@@ -2,7 +2,7 @@
 Tests executed automatically by the CI pipeline on every push / pull request.
     * data tests   - is the input data valid?
     * model tests  - does training produce a good enough model?
-    * API tests    - does the deployed service respond correctly?
+    * prediction tests - does the deployed model predict correctly?
 """
 
 import json
@@ -57,25 +57,21 @@ def test_model_is_deterministic():
     assert (p1 == p2).all()
 
 
-# ---------------- API tests ----------------
+# ---------------- Prediction tests (the deployed artifact) ----------------
 @pytest.fixture(scope="module")
-def client():
+def predict():
     if not (PROJECT_DIR / "model" / "model.joblib").exists():
         subprocess.run([sys.executable, str(PROJECT_DIR / "src" / "train.py")], check=True)
-    from app import app
-    return app.test_client()
+    from predict import predict
+    return predict
 
 
-def test_health_endpoint(client):
-    assert client.get("/health").status_code == 200
-
-
-def test_predict_endpoint(client):
+def test_prediction_is_correct(predict):
     X, _ = load_data()
-    response = client.post("/predict", json={"features": X.iloc[0].tolist()})
-    assert response.status_code == 200
-    assert response.json["prediction"] == "class_0"
+    label, confidence = predict(X.iloc[0].tolist())
+    assert label == "class_0" and 0 <= confidence <= 1
 
 
-def test_predict_rejects_bad_input(client):
-    assert client.post("/predict", json={"features": [1, 2]}).status_code == 400
+def test_prediction_rejects_bad_input(predict):
+    with pytest.raises(ValueError):
+        predict([1, 2])

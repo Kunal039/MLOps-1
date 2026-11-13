@@ -6,7 +6,7 @@ Experiment 15: Mini Project Phase-5 - Ethical considerations: privacy, fairness,
                     differential-privacy style Laplace noise; measure the accuracy cost
 3. FAIRNESS       - does the model work equally well on weekdays vs weekends, day vs night, all months?
 4. TRANSPARENCY   - write a Model Card describing the model, data, metrics and limitations
-5. SECURITY       - check the API rejects malicious / malformed input
+5. SECURITY       - check the predictor rejects malicious / malformed input
 """
 
 import hashlib
@@ -131,7 +131,7 @@ Last 168 hours of consumption, calendar features and last-hour voltage / reactiv
 * No weather data is used.
 
 ## Ethical considerations
-* Privacy: data is pseudonymised and aggregated to hourly values; raw minute data is not stored by the API.
+* Privacy: data is pseudonymised and aggregated to hourly values; raw minute data is not stored by the prediction service.
 * Consent: households must opt in; data retention is limited and deletable on request.
 * Security: inputs are validated, the container runs as non-root, model files are checksum-verified.
 """
@@ -142,11 +142,10 @@ print("Model card saved to outputs/MODEL_CARD.md")
 # ---------------------------------------------------------------------------
 title("5. SECURITY - malicious / malformed input")
 sys.path.insert(0, str(ROOT / "Experiment-14_MiniProject_Phase4_Deployment"))
-from app import app  # noqa: E402
+from predict import forecast, predict_next_hour  # noqa: E402
 
-client = app.test_client()
 attacks = {
-    "Empty body": None,
+    "Empty input": {},
     "Too short history": {"recent_consumption": [1] * 5},
     "Negative values": {"recent_consumption": [-5] * 168},
     "Text instead of numbers": {"recent_consumption": ["DROP TABLE"] * 168},
@@ -154,9 +153,15 @@ attacks = {
 }
 security_ok = True
 for name, payload in attacks.items():
-    r = client.post("/forecast" if "hours" in (payload or {}) else "/predict", json=payload)
-    ok = r.status_code == 400
+    try:
+        if "hours" in payload:
+            forecast(payload, hours=payload["hours"])
+        else:
+            predict_next_hour(payload)
+        ok, outcome = False, "accepted"
+    except (ValueError, TypeError) as err:
+        ok, outcome = True, f"rejected ({type(err).__name__})"
     security_ok &= ok
-    print(f"{'BLOCKED' if ok else 'NOT BLOCKED':12s} {name:30s} -> HTTP {r.status_code}")
+    print(f"{'BLOCKED' if ok else 'NOT BLOCKED':12s} {name:30s} -> {outcome}")
 print("All malicious inputs rejected." if security_ok else "Some inputs were not rejected - fix validation!")
 print("\nExperiment 15 ethics & privacy check completed.")

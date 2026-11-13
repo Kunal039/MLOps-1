@@ -1,5 +1,5 @@
 """
-Offline analysis of the prediction log (logs/predictions.jsonl) written by app.py.
+Offline analysis of the prediction log (logs/predictions.jsonl) written by monitor.py.
 Produces a summary and plots of prediction volume, confidence and input drift over time.
 """
 

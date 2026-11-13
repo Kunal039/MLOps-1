@@ -5,7 +5,7 @@ Usage:
     python predict.py                      -> predicts a few built-in samples
     python predict.py 5.1 3.5 1.4 0.2      -> predicts one flower
 Inside Docker:
-    docker run --rm iris-ml-model:1.0 python predict.py 6.7 3.0 5.2 2.3
+    docker run --rm iris-ml-model:1.0 6.7 3.0 5.2 2.3
 """
 
 import sys

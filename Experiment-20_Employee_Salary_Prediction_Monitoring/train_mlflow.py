@@ -5,7 +5,7 @@ Step 1 - Experiment tracking and model registry with MLflow
     * every model run logs its parameters, metrics (RMSE, MAE, R2, CV) and the model artifact
     * the best run is registered in the MLflow Model Registry as "employee-salary-model"
       and given the alias "production"
-    * the production model is also exported to model/ for the Flask API
+    * the production model is also exported to model/ for predict.py
 
 View the experiments:   mlflow ui --backend-store-uri sqlite:///mlflow.db   ->  http://127.0.0.1:5000
 """
@@ -117,7 +117,7 @@ client.update_model_version(MODEL_NAME, version.version,
                             description=f"{best['model']} - test RMSE {best['test_rmse']:.3f} LPA")
 print(f"Registered '{MODEL_NAME}' version {version.version} with alias 'production'")
 
-# Export for the API (avoids needing the MLflow server inside the container)
+# Export for predict.py (avoids needing the MLflow server at prediction time)
 joblib.dump(best["pipeline"], MODEL_DIR / "salary_model.joblib")
 reference = X_train.assign(salary_lpa=y_train)
 reference.to_csv(MODEL_DIR / "reference_data.csv", index=False)       # baseline for drift monitoring
@@ -125,4 +125,4 @@ reference.to_csv(MODEL_DIR / "reference_data.csv", index=False)       # baseline
     "name": MODEL_NAME, "registry_version": int(version.version), "algorithm": best["model"],
     "features": FEATURES, "metrics": {k: round(best[k], 4) for k in ["cv_rmse", "test_rmse", "test_mae", "test_r2"]},
     "mlflow_run_id": best["run_id"]}, indent=2))
-print("Exported production model to model/ for the API.")
+print("Exported production model to model/ for predict.py.")

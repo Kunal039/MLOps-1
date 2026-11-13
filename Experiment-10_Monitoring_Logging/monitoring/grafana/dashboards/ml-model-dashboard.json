@@ -10,7 +10,7 @@
   "panels": [
     {
       "id": 1,
-      "title": "Requests per second",
+      "title": "Predictions per second",
       "type": "timeseries",
       "datasource": {
         "type": "prometheus",
@@ -25,7 +25,7 @@
       "targets": [
         {
           "refId": "A",
-          "expr": "sum(rate(ml_requests_total[1m])) by (endpoint, status)",
+          "expr": "sum(rate(ml_predictions_total[1m])) by (predicted_class)",
           "datasource": {
             "type": "prometheus",
             "uid": "prometheus"
@@ -50,7 +50,7 @@
       "targets": [
         {
           "refId": "A",
-          "expr": "histogram_quantile(0.95, sum(rate(ml_request_latency_seconds_bucket[1m])) by (le))",
+          "expr": "histogram_quantile(0.95, sum(rate(ml_prediction_latency_seconds_bucket[1m])) by (le))",
           "datasource": {
             "type": "prometheus",
             "uid": "prometheus"
@@ -176,31 +176,6 @@
         {
           "refId": "A",
           "expr": "sum(rate(ml_prediction_errors_total[1m])) by (reason)",
-          "datasource": {
-            "type": "prometheus",
-            "uid": "prometheus"
-          }
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "title": "Requests in progress",
-      "type": "stat",
-      "datasource": {
-        "type": "prometheus",
-        "uid": "prometheus"
-      },
-      "gridPos": {
-        "h": 8,
-        "w": 12,
-        "x": 12,
-        "y": 24
-      },
-      "targets": [
-        {
-          "refId": "A",
-          "expr": "ml_requests_in_progress",
           "datasource": {
             "type": "prometheus",
             "uid": "prometheus"
