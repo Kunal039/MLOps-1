@@ -1,2 +1,0 @@
-# Keep files byte-identical so DVC hashes do not change on Windows checkouts
-* -text

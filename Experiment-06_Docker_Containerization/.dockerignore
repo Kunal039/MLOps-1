@@ -1,7 +1,0 @@
-__pycache__/
-*.pyc
-outputs/
-.venv/
-venv/
-.git/
-README.md
